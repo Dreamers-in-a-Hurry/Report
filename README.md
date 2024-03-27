@@ -204,11 +204,11 @@
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 <ol>
-<li><b>Creemos que</b> existe un segmento de usuarios que estén interesados en comprar y vender sus propias camisetas deportivas.<b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un aumento en la frecuencia de visita en nuestro sitio web por parte de nuestro público objetivo.</li>
+<li><b>Creemos que</b> existe un segmento de usuarios que estén interesados en comprar y vender sus propias camisetas deportivas. <b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un aumento en la frecuencia de visita en nuestro sitio web por parte de nuestro público objetivo.</li>
 
-<li><b>Creemos que</b> nuestro público objetivo utilizará como prioridad nuestro sitio web para la venta de sus propias camisetas.<b>Sabremos que</b> esta afirmación es cierta <b>cuando</b> los usuarios opten por pagar por el servicio premium de nuestro sitio web, el cual viene acompañado de ventajas diseñadas para satisfacer las necesidades de nuestros usuarios.</li>
+<li><b>Creemos que</b> nuestro público objetivo utilizará como prioridad nuestro sitio web para la venta de sus propias camisetas. <b>Sabremos que</b> esta afirmación es cierta <b>cuando</b> los usuarios opten por pagar por el servicio premium de nuestro sitio web, el cual viene acompañado de ventajas diseñadas para satisfacer las necesidades de nuestros usuarios.</li>
 
-<li><b>Creemos que</b>, si no proporcionamos contenido a nuestro sitio web y no priorizamos a los usuarios no premium ofreciéndoles una variedad de opciones, perderá interés nuestra plataforma.<b>Sabremos que</b> esta afirmación es correcta <b>cuando</b> observemos una reducción en el número de usuarios en la pagina.</li>
+<li><b>Creemos que</b>, si no proporcionamos contenido a nuestro sitio web y no priorizamos a los usuarios no premium ofreciéndoles una variedad de opciones, perderá interés nuestra plataforma. <b>Sabremos que</b> esta afirmación es correcta <b>cuando</b> observemos una reducción en el número de usuarios en la pagina.</li>
 
 </ol>
 
