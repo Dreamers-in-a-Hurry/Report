@@ -214,6 +214,8 @@
 
 #### 1.2.2.4. Lean UX Canvas
 
+<td><img src="Images/Lean UX Canvas.png" alt="Imagen del canvas" width="1500"></td>
+
 # 1.3. Segmentos Objetivo
 
 <br><br>
