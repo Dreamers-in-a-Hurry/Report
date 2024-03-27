@@ -203,6 +203,8 @@
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+<p><b>Creemos que</b> existe un segmento de usuarios que estén interesados en comprar y vender sus propias camisetas deportivas. <b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un aumento en la frecuencia de visita en nuestro sitio web por parte de nuestro público objetivo.</p>
+
 #### 1.2.2.4. Lean UX Canvas
 
 # 1.3. Segmentos Objetivo
