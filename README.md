@@ -232,6 +232,14 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
   </tr>
 </table>
 
+<table>
+ <tr>
+   <td><img src= "Images/FotoGeor.png" alt= "Imagen del integrante George" width="700"></td> 
+   <td>Me llamo George Arturo Aliaga Pimentel y soy de la carrera de Ingeniería de Software. Estoy cursando el sexto ciclo. Me considero una persona cooperativa y responsable, lo cual es lo requerido para un proyecto grupal. Tengo la meta de ser un gran ingeniero y espero mejorar todo lo aprendido en la carrera.
+   </td>
+    </tr>
+</table>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
@@ -293,6 +301,23 @@ Las estadísticas revelan un creciente interés por la personalización de produ
 #### 1.2.2.1. Lean UX Problem Statements
 
 #### 1.2.2.2. Lean UX Assumptions
+
+ <p><b>Segmento de Usuarios:</b></p>
+    <ul>
+        <li><b>¿Quién es el usuario?</b>: Nuestros usuarios son personas jóvenes y adultas de 18 a 40 años que tienen interés en el deporte y desean adquirir, vender o diseñar camisetas deportivas de manera conveniente y accesible.</li>
+        <li><b>¿Dónde encaja nuestro producto? ¿En su trabajo o vida?</b>: Nuestro producto se integra directamente en la vida de los usuarios, brindando una solución eficaz y atractiva para satisfacer sus necesidades relacionadas con el deporte y la moda deportiva.</li>
+        <li><b>¿Cuándo y cómo es usado nuestro producto?</b>: La aplicación será utilizada por los usuarios en su tiempo libre, ya sea para explorar nuevas camisetas deportivas, diseñar sus propios diseños o vender productos existentes.</li>
+        <li><b>¿Qué problemas tiene nuestro servicio?</b>: Uno de los problemas potenciales es garantizar la retención a largo plazo de los usuarios, asegurando que sigan utilizando la aplicación para todas sus necesidades relacionadas con las camisetas deportivas.</li>
+    </ul>
+    <p><b>Business Outcomes:</b></p>
+    <ul>
+        <li><b>Creemos que a nuestros clientes les interesaría una aplicación que les ayude a satisfacer sus necesidades de compra, venta y diseño de camisetas deportivas de manera conveniente y efectiva.</b></li>
+        <li><b>Nuestro público objetivo incluye a personas de 18 a 40 años interesadas en el deporte y la moda deportiva como parte de su estilo de vida.</b></li>
+        <li><b>El valor principal que nuestros clientes esperan de nuestra aplicación es una experiencia confiable, fácil de usar y gratificante que les permita encontrar, diseñar y adquirir camisetas deportivas de alta calidad.</b></li>
+        <li><b>Planeamos generar ingresos a través de tarifas de intermediación por transacciones, así como posibles asociaciones con marcas deportivas y proveedores de camisetas.</b></li>
+        <li><b>Reconocemos que hay competidores en el mercado, pero creemos que podemos diferenciarnos ofreciendo una experiencia de usuario superior, un diseño intuitivo y una amplia gama de opciones de diseño y compra.</b></li>
+        <li><b>Estamos comprometidos a garantizar la calidad y confiabilidad de nuestra aplicación, realizando pruebas rigurosas antes del lanzamiento y manteniendo una comunicación activa con nuestros usuarios para abordar cualquier problema o inquietud que puedan surgir.</b></li>
+    </ul>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
