@@ -209,7 +209,7 @@
 #### 1.2.2.2. Lean UX Assumptions
  <p><b>Segmento de Usuarios:</b></p>
     <ul>
-        <li><b>¿Quién es el usuario?</b>: Nuestros usuarios son personas jóvenes y adultas de 16 a 60 años que tienen interés en el deporte y desean adquirir, vender o diseñar camisetas deportivas de manera conveniente y accesible.</li>
+        <li><b>¿Quién es el usuario?</b>: Nuestros usuarios son personas jóvenes y adultas de 18 a 40 años que tienen interés en el deporte y desean adquirir, vender o diseñar camisetas deportivas de manera conveniente y accesible.</li>
         <li><b>¿Dónde encaja nuestro producto? ¿En su trabajo o vida?</b>: Nuestro producto se integra directamente en la vida de los usuarios, brindando una solución eficaz y atractiva para satisfacer sus necesidades relacionadas con el deporte y la moda deportiva.</li>
         <li><b>¿Cuándo y cómo es usado nuestro producto?</b>: La aplicación será utilizada por los usuarios en su tiempo libre, ya sea para explorar nuevas camisetas deportivas, diseñar sus propios diseños o vender productos existentes.</li>
         <li><b>¿Qué problemas tiene nuestro servicio?</b>: Uno de los problemas potenciales es garantizar la retención a largo plazo de los usuarios, asegurando que sigan utilizando la aplicación para todas sus necesidades relacionadas con las camisetas deportivas.</li>
