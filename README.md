@@ -179,17 +179,27 @@
 
 ### 1.1.1. Description de la StartUp
 
+**Dreamers in a Hurry** es una Startup conformada por un equipo de estudiantes de la carrera de Ingeniería de software. Somos un equipo altamente innovador, organizado y eficiente, con la capacidad de encontrar oportunidades donde muchos ven problemas. Nuestro objetivo es diseñar soluciones tecnológicas eficientes e innovadoras en base a una problemática social para mejorar la vida de los ciudadanos. Creemos que la tecnología tiene el potencial de transformar la vida de las personas, y estamos comprometidos con el desarrollo de soluciones que tengan un impacto positivo en la sociedad.
+
+El primer proyecto de **Dreamers in a Hurry** es la aplicación **FitShirt**. Una web innovadora que permite a los usuarios comprar, vender y diseñar camisetas deportivas personalizadas, a través del contacto directo de diseñadores con clientes. Es una aplicación que busca fomentar la creatividad y el emprendimiento entre los jóvenes, a la vez que ofrece a los usuarios una experiencia personalizada y única.
+
+**Misión de Dreamers in a Hurry**
+
+Fomentar la creatividad y el emprendimiento a través de soluciones innovadoras que impacten positivamente en la sociedad.
+
+**Visión de Dreamers in a Hurry**
+
+Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empoderen a las personas para que expresen su potencial creativo, emprendan sus sueños y construyan un futuro mejor.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table>
   <tr>
     <td><img src="Images/Screenshoot1.png" alt="Imagen del integrante Daniel" width="900"></td>
     <td> Me llamo Daniel Chirinos Arevalo y soy de la carrera de Ingeniería de Software. Mi experiencia en la universidad es bastante normal y me encuentro cursando el sexto ciclo. A lo largo del tiempo, sí que tuve algunas dificultades con algunos cursos, pero logré enfrentarlos. Mi habilidad es ser líder en algunas ocasiones, trabajar con tiempo y lo más importante, ser siempre amistoso con el equipo.
-
 </td>
-  </tr>
+  
 </table>
-
 
 ## 1.2. Solution Profile
 
