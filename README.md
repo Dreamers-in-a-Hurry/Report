@@ -236,6 +236,58 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 1.2.1. Antecedentes y problemática
 
+Actualmente, el mercado de prendas deportivas está en constante crecimiento. Según Mordor Intelligence (2023), el valor de este alcanzará los 340 mil millones de dolares. Este crecimiento se debe a diversos factores, como el aumento de la participación en actividades deportivas, el mayor interés por la moda y la personalización, y el crecimiento del comercio electrónico.
+
+Sin embargo, a pesar del crecimiento del mercado, existe un problema sin resolver: la falta de opciones variadas y accesibles para la compra y venta de camisetas deportivas personalizadas. Los consumidores se enfrentan a una oferta limitada, dificultad para encontrar diseños únicos, procesos tediosos y costosos, y falta de confianza en el trabajo de los diseñadores.
+
+FitShirt se presenta como una solución innovadora a este problema. La aplicación ofrece un amplio catálogo de diseños, una herramienta de personalización intuitiva, conexión directa entre cliente y diseñador, y una plataforma accesible y segura. FitShirt tiene el potencial de revolucionar el mercado de las camisetas deportivas personalizadas, democratizando el acceso a este tipo de productos y satisfaciendo las necesidades de una amplia comunidad de usuarios.
+
+**What?**
+
+El problema principal radica en la escasez de alternativas para la compra y venta de camisetas deportivas personalizadas. Los usuarios se encuentran con una oferta limitada en cuanto a diseños, estilos y opciones de personalización, lo que dificulta encontrar la camiseta ideal que se ajuste a sus necesidades y preferencias.
+
+**When?**
+
+Este problema se presenta en dos momentos clave:
+
+- Al momento de comprar una camiseta: La oferta en tiendas físicas y online suele ser limitada, con diseños repetitivos y poca variedad. Encontrar una camiseta que realmente represente el estilo e identidad del usuario se convierte en una tarea difícil.
+
+- Al momento de solicitar un diseño personalizado: Existe la opción de acudir a un diseñador para crear una camiseta única, pero este proceso puede ser costoso, lento y complejo. Asimismo, no siempre es fácil encontrar un diseñador que comprenda a la perfección la visión del cliente.
+
+**Where?**
+
+Este problema se manifiesta principalmente en las tiendas de ropa deportiva, ya sean online o físicas; puesto que la variedad de diseños suele ser limitada, con pocas opciones para personalizar las camisetas.
+
+**Who?**
+
+El problema afecta a los siguientes grupos de personas:
+Personas que practican deporte y desean o precisan una camiseta personalizada:
+
+- Deportistas, aficionados, equipos, etc., que buscan una camiseta que represente su identidad y pasión por el deporte.
+- Jóvenes aficionados a la colección de camisetas deportivas: Buscan diseños únicos y originales que les permitan expresar su estilo personal y diferenciarse del resto.
+- Personas que venden y/o diseñan camisetas: Diseñadores talentosos con dificultades para encontrar clientes y vender sus diseños, y vendedores que no logran satisfacer la demanda de camisetas personalizadas.
+
+**Why?**
+
+Las causas principales del problema son:
+
+- Falta de conexión entre cliente y diseñador: Dificultad para encontrar un diseñador que comprenda las necesidades del cliente y pueda plasmar su visión en una camiseta.
+- Falta de confianza con el diseñador: Incertidumbre sobre la calidad del trabajo del diseñador, el tiempo de entrega y el precio final del producto.
+- Poca oferta de lugares especializados: Limitado número de tiendas y plataformas online que ofrecen un servicio integral de diseño y confección de camisetas personalizadas.
+- Falta de variedad en la oferta: Escasa disponibilidad de diseños originales y personalizados que se ajusten a diferentes gustos y estilos.
+
+**How?**
+
+**FitShirt** busca brindar una solución integral al problema de la falta de opciones en la compra y diseño de camisetas deportivas personalizadas. La aplicación ofrece:
+
+- Amplio catálogo de diseños: Variedad de diseños creados por una comunidad global de artistas, permitiendo a los usuarios encontrar la camiseta ideal para su estilo y gusto.
+- Herramienta de personalización: Permite a los usuarios crear sus propios diseños de forma intuitiva y sencilla, sin necesidad de conocimientos técnicos.
+  Conexión directa entre cliente y diseñador: Facilita la comunicación entre ambas partes para asegurar una mejor comprensión de las necesidades del cliente y un resultado final satisfactorio.
+
+**How much?**
+
+Las estadísticas revelan un creciente interés por la personalización de productos, incluyendo las camisetas deportivas. Según un informe reciente de Mordor Intelligence (2023), se proyecta que el mercado de prendas deportivas alcance un valor de aproximadamente 272,51 mil millones de dólares en 2024, y se prevé que aumente hasta los 339,76 mil millones de dólares para el año 2029. Este crecimiento se espera que se produzca a una tasa compuesta anual del 4,51% durante el periodo mencionado. Asimismo, el mismo estudio indica que el cruce entre moda y deporte impulse aún más este mercado.
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
