@@ -217,7 +217,7 @@
     <p><b>Business Outcomes:</b></p>
     <ul>
         <li><b>Creemos que a nuestros clientes les interesaría una aplicación que les ayude a satisfacer sus necesidades de compra, venta y diseño de camisetas deportivas de manera conveniente y efectiva.</b></li>
-        <li><b>Nuestro público objetivo incluye a personas de 16 a 60 años en [ubicación geográfica] interesadas en el deporte y la moda deportiva como parte de su estilo de vida.</b></li>
+        <li><b>Nuestro público objetivo incluye a personas de 18 a 40 años interesadas en el deporte y la moda deportiva como parte de su estilo de vida.</b></li>
         <li><b>El valor principal que nuestros clientes esperan de nuestra aplicación es una experiencia confiable, fácil de usar y gratificante que les permita encontrar, diseñar y adquirir camisetas deportivas de alta calidad.</b></li>
         <li><b>Planeamos generar ingresos a través de tarifas de intermediación por transacciones, así como posibles asociaciones con marcas deportivas y proveedores de camisetas.</b></li>
         <li><b>Reconocemos que hay competidores en el mercado, pero creemos que podemos diferenciarnos ofreciendo una experiencia de usuario superior, un diseño intuitivo y una amplia gama de opciones de diseño y compra.</b></li>
