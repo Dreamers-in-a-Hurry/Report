@@ -194,10 +194,38 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 ### 1.1.2. Perfiles de integrantes del equipo
 
 <table>
+  <tr align="center">
+    <td rowspan="4">
+      <img src="Images/profile_images/Screenshoot1.png" alt="Imagen del integrante Daniel" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Daniel Rodrigo Chirinos Arevalo
+    </td>
+  </tr>
   <tr>
-    <td><img src="Images/Screenshoot1.png" alt="Imagen del integrante Daniel" width="900"></td>
-    <td> Me llamo Daniel Chirinos Arevalo y soy de la carrera de Ingeniería de Software. Mi experiencia en la universidad es bastante normal y me encuentro cursando el sexto ciclo. A lo largo del tiempo, sí que tuve algunas dificultades con algunos cursos, pero logré enfrentarlos. Mi habilidad es ser líder en algunas ocasiones, trabajar con tiempo y lo más importante, ser siempre amistoso con el equipo.
-</td>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U202019577
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Me llamo Daniel Chirinos Arevalo y soy de la carrera de Ingeniería de Software. Mi experiencia en la universidad es bastante normal y me encuentro cursando el sexto ciclo. A lo largo del tiempo, sí que tuve algunas dificultades con algunos cursos, pero logré enfrentarlos. Mi habilidad es ser líder en algunas ocasiones, trabajar con tiempo y lo más importante, ser siempre amistoso con el equipo.
+    </td>
+  </tr>
+
   </tr>
   <tr align="center">
     <td rowspan="4">
@@ -230,14 +258,40 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
     Soy Diego Defilippi, tengo 21 años y tengo una gran pasión por la programación y el diseño de software. Desde hace tres años, estoy aprendiendo las diversas ramas de esta fascinante ingeniería, como el backend, frontend y data science. Además, siempre ando en búsqueda de soluciones creativas e innovadoras ante problemas cotidianos. Finalmente, me considero una persona autodidacta, organizada y con muchos ánimos de aprender. 
     </td>
   </tr>
-</table>
 
-<table>
- <tr>
-   <td><img src= "Images/FotoGeor.png" alt= "Imagen del integrante George" width="700"></td> 
-   <td>Me llamo George Arturo Aliaga Pimentel y soy de la carrera de Ingeniería de Software. Estoy cursando el sexto ciclo. Me considero una persona cooperativa y responsable, lo cual es lo requerido para un proyecto grupal. Tengo la meta de ser un gran ingeniero y espero mejorar todo lo aprendido en la carrera.
-   </td>
-    </tr>
+  <tr>
+  <tr align="center">
+    <td rowspan="4">
+      <img src="Images/profile_images/FotoGeor.png" alt="Imagen del integrante George" style="margin-bottom: 5px;" width="700"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      George Arturo Aliaga Pimentel
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U20211c273
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Me llamo George Arturo Aliaga Pimentel y soy de la carrera de Ingeniería de Software. Estoy cursando el sexto ciclo. Me considero una persona cooperativa y responsable, lo cual es lo requerido para un proyecto grupal. Tengo la meta de ser un gran ingeniero y espero mejorar todo lo aprendido en la carrera.
+    </td>
+  </tr>
+
 </table>
 
 ## 1.2. Solution Profile
