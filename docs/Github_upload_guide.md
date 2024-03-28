@@ -71,11 +71,7 @@ Cuando se completen todos los features para la entrega, todos los cambios de la 
 ### Steps
 
 1.  Encontrarse en la rama de desarrollo `develop`
-2.  Cambiar a la rama destinada a realizar la funcionalidad
-
-        git checkout [nombre_rama]
-
-    O, crear la rama para realizar la funcionalidad desde la rama
+2.  Crear una rama para desarrollar la funcionalidad
 
         git checkout -b [nombre_rama]
 
@@ -83,18 +79,16 @@ Cuando se completen todos los features para la entrega, todos los cambios de la 
 
         git push --set-upstream origin [nombre_rama]
 
-3.  Ejecutar el comando `git pull` para traer los cambios de la rama, si es que hubiesen
+3.  Desarrollar lo planteado
+4.  Una vez realizada la actividad, hacer los commits necesarios y subirlos a la rama
 
-4.  Desarrollar lo planteado
-5.  Una vez realizada la actividad, hacer los commits necesarios y subirlos a la rama
-
-6.  Una vez la rama esté completa y no se realizarán más modificaciones, se realiza un merge con `develop`. Se verlo necesario, borrar la rama.
+5.  Una vez la rama esté completa y no se realizarán más modificaciones, se realiza un merge con `develop`. Se verlo necesario, borrar la rama.
 
 ### Modo de trabajo
 
 #### Report workflow
 
-Se creará una rama por cada capítulo o subcapítulo (intentemos que las branches abarquen una cantidad de subíndices moderada; es decir, un número menor de commits). En la rama, se subirán los commits del desarrollo por cada integrante.
+Se creará una rama por cada capítulo (o subcapítulo, dependiendo del número de índices que abarca). En la rama, se subirán los commits del desarrollo por cada integrante.
 
 - Branch: feature/chapter-1
 
