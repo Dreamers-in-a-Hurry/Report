@@ -201,7 +201,7 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
   </tr>
   <tr align="center">
     <td rowspan="4">
-      <img src="images/profile_images/Defilippi_Diego.jpg" alt="Diego Defilippi" style="margin-bottom: 5px;" width="900"/>
+      <img src="Images/profile_images/Defilippi_Diego.jpg" alt="Diego Defilippi" style="margin-bottom: 5px;" width="900"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
