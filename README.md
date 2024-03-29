@@ -382,6 +382,8 @@ Las estadísticas revelan un creciente interés por la personalización de produ
 
 <li><b>Creemos que</b>, si no proporcionamos contenido a nuestro sitio web y no priorizamos a los usuarios no premium ofreciéndoles una variedad de opciones, perderá interés nuestra plataforma. <b>Sabremos que</b> esta afirmación es correcta <b>cuando</b> observemos una reducción en el número de usuarios en la pagina.</li>
 
+<li><b>Creemos que</b> las empresas minoristas y mayoristas les guste nuestra plataforma. <b>Sabremos que</b> esta afirmación sea correcta <b>cuando</b> observemos que dichas empresas están usando frecuentemente nuestra plataforma con el fin de vender sus productos.</li>
+
 </ol>
 
 #### 1.2.2.4. Lean UX Canvas
