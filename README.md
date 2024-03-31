@@ -354,6 +354,10 @@ Las estadísticas revelan un creciente interés por la personalización de produ
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+El mercado de prendas deportivas experimenta un crecimiento constante, proyectándose alcanzar un valor de 340 mil millones de dólares según Mordor Intelligence (2023). Sin embargo, persiste un problema significativo: la escasez de opciones accesibles y variadas para la compra y venta de camisetas deportivas personalizadas. Esta limitación se manifiesta en la oferta limitada de diseños y la dificultad para encontrar productos que reflejen la identidad y gustos del consumidor. Además, al buscar diseños personalizados, los usuarios enfrentan procesos costosos y complejos, con poca garantía de que sus visiones sean comprendidas completamente por los diseñadores.
+
+FitShirt busca resolver esta problemática ofreciendo una solución integral. La plataforma brinda un amplio catálogo de diseños y una herramienta de personalización intuitiva para que los usuarios creen camisetas únicas. Además, facilita la comunicación directa entre cliente y diseñador, promoviendo una comprensión más precisa de las necesidades del cliente y asegurando un resultado final satisfactorio. Con estas características, FitShirt tiene el potencial de transformar el mercado de las camisetas deportivas personalizadas, democratizando el acceso a productos únicos y satisfaciendo las demandas de una amplia comunidad de usuarios.
+
 #### 1.2.2.2. Lean UX Assumptions
 
  <p><b>Segmento de Usuarios:</b></p>
