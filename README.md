@@ -179,11 +179,122 @@
 
 ### 1.1.1. Description de la StartUp
 
+**Dreamers in a Hurry** es una Startup conformada por un equipo de estudiantes de la carrera de Ingeniería de software. Somos un equipo altamente innovador, organizado y eficiente, con la capacidad de encontrar oportunidades donde muchos ven problemas. Nuestro objetivo es diseñar soluciones tecnológicas eficientes e innovadoras en base a una problemática social para mejorar la vida de los ciudadanos. Creemos que la tecnología tiene el potencial de transformar la vida de las personas, y estamos comprometidos con el desarrollo de soluciones que tengan un impacto positivo en la sociedad.
+
+El primer proyecto de **Dreamers in a Hurry** es la aplicación **FitShirt**. Una web innovadora que permite a los usuarios comprar, vender y diseñar camisetas deportivas personalizadas, a través del contacto directo de diseñadores con clientes. Es una aplicación que busca fomentar la creatividad y el emprendimiento entre los jóvenes, a la vez que ofrece a los usuarios una experiencia personalizada y única.
+
+**Misión de Dreamers in a Hurry**
+
+Fomentar la creatividad y el emprendimiento a través de soluciones innovadoras que impacten positivamente en la sociedad.
+
+**Visión de Dreamers in a Hurry**
+
+Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empoderen a las personas para que expresen su potencial creativo, emprendan sus sueños y construyan un futuro mejor.
+
 ### 1.1.2. Perfiles de integrantes del equipo
+
+<table>
+  <tr>
+    <td><img src="Images/Screenshoot1.png" alt="Imagen del integrante Daniel" width="900"></td>
+    <td> Me llamo Daniel Chirinos Arevalo y soy de la carrera de Ingeniería de Software. Mi experiencia en la universidad es bastante normal y me encuentro cursando el sexto ciclo. A lo largo del tiempo, sí que tuve algunas dificultades con algunos cursos, pero logré enfrentarlos. Mi habilidad es ser líder en algunas ocasiones, trabajar con tiempo y lo más importante, ser siempre amistoso con el equipo.
+</td>
+  </tr>
+  <tr align="center">
+    <td rowspan="4">
+      <img src="Images/profile_images/Defilippi_Diego.jpg" alt="Diego Defilippi" style="margin-bottom: 5px;" width="900"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Diego Defilippi Santillán
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U202120448
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Soy Diego Defilippi, tengo 21 años y tengo una gran pasión por la programación y el diseño de software. Desde hace tres años, estoy aprendiendo las diversas ramas de esta fascinante ingeniería, como el backend, frontend y data science. Además, siempre ando en búsqueda de soluciones creativas e innovadoras ante problemas cotidianos. Finalmente, me considero una persona autodidacta, organizada y con muchos ánimos de aprender. 
+    </td>
+  </tr>
+</table>
+
+<table>
+ <tr>
+   <td><img src= "Images/FotoGeor.png" alt= "Imagen del integrante George" width="700"></td> 
+   <td>Me llamo George Arturo Aliaga Pimentel y soy de la carrera de Ingeniería de Software. Estoy cursando el sexto ciclo. Me considero una persona cooperativa y responsable, lo cual es lo requerido para un proyecto grupal. Tengo la meta de ser un gran ingeniero y espero mejorar todo lo aprendido en la carrera.
+   </td>
+    </tr>
+</table>
 
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
+
+Actualmente, el mercado de prendas deportivas está en constante crecimiento. Según Mordor Intelligence (2023), el valor de este alcanzará los 340 mil millones de dolares. Este crecimiento se debe a diversos factores, como el aumento de la participación en actividades deportivas, el mayor interés por la moda y la personalización, y el crecimiento del comercio electrónico.
+
+Sin embargo, a pesar del crecimiento del mercado, existe un problema sin resolver: la falta de opciones variadas y accesibles para la compra y venta de camisetas deportivas personalizadas. Los consumidores se enfrentan a una oferta limitada, dificultad para encontrar diseños únicos, procesos tediosos y costosos, y falta de confianza en el trabajo de los diseñadores.
+
+FitShirt se presenta como una solución innovadora a este problema. La aplicación ofrece un amplio catálogo de diseños, una herramienta de personalización intuitiva, conexión directa entre cliente y diseñador, y una plataforma accesible y segura. FitShirt tiene el potencial de revolucionar el mercado de las camisetas deportivas personalizadas, democratizando el acceso a este tipo de productos y satisfaciendo las necesidades de una amplia comunidad de usuarios.
+
+**What?**
+
+El problema principal radica en la escasez de alternativas para la compra y venta de camisetas deportivas personalizadas. Los usuarios se encuentran con una oferta limitada en cuanto a diseños, estilos y opciones de personalización, lo que dificulta encontrar la camiseta ideal que se ajuste a sus necesidades y preferencias.
+
+**When?**
+
+Este problema se presenta en dos momentos clave:
+
+- Al momento de comprar una camiseta: La oferta en tiendas físicas y online suele ser limitada, con diseños repetitivos y poca variedad. Encontrar una camiseta que realmente represente el estilo e identidad del usuario se convierte en una tarea difícil.
+
+- Al momento de solicitar un diseño personalizado: Existe la opción de acudir a un diseñador para crear una camiseta única, pero este proceso puede ser costoso, lento y complejo. Asimismo, no siempre es fácil encontrar un diseñador que comprenda a la perfección la visión del cliente.
+
+**Where?**
+
+Este problema se manifiesta principalmente en las tiendas de ropa deportiva, ya sean online o físicas; puesto que la variedad de diseños suele ser limitada, con pocas opciones para personalizar las camisetas.
+
+**Who?**
+
+El problema afecta a los siguientes grupos de personas:
+Personas que practican deporte y desean o precisan una camiseta personalizada:
+
+- Deportistas, aficionados, equipos, etc., que buscan una camiseta que represente su identidad y pasión por el deporte.
+- Jóvenes aficionados a la colección de camisetas deportivas: Buscan diseños únicos y originales que les permitan expresar su estilo personal y diferenciarse del resto.
+- Personas que venden y/o diseñan camisetas: Diseñadores talentosos con dificultades para encontrar clientes y vender sus diseños, y vendedores que no logran satisfacer la demanda de camisetas personalizadas.
+
+**Why?**
+
+Las causas principales del problema son:
+
+- Falta de conexión entre cliente y diseñador: Dificultad para encontrar un diseñador que comprenda las necesidades del cliente y pueda plasmar su visión en una camiseta.
+- Falta de confianza con el diseñador: Incertidumbre sobre la calidad del trabajo del diseñador, el tiempo de entrega y el precio final del producto.
+- Poca oferta de lugares especializados: Limitado número de tiendas y plataformas online que ofrecen un servicio integral de diseño y confección de camisetas personalizadas.
+- Falta de variedad en la oferta: Escasa disponibilidad de diseños originales y personalizados que se ajusten a diferentes gustos y estilos.
+
+**How?**
+
+**FitShirt** busca brindar una solución integral al problema de la falta de opciones en la compra y diseño de camisetas deportivas personalizadas. La aplicación ofrece:
+
+- Amplio catálogo de diseños: Variedad de diseños creados por una comunidad global de artistas, permitiendo a los usuarios encontrar la camiseta ideal para su estilo y gusto.
+- Herramienta de personalización: Permite a los usuarios crear sus propios diseños de forma intuitiva y sencilla, sin necesidad de conocimientos técnicos.
+  Conexión directa entre cliente y diseñador: Facilita la comunicación entre ambas partes para asegurar una mejor comprensión de las necesidades del cliente y un resultado final satisfactorio.
+
+**How much?**
+
+Las estadísticas revelan un creciente interés por la personalización de productos, incluyendo las camisetas deportivas. Según un informe reciente de Mordor Intelligence (2023), se proyecta que el mercado de prendas deportivas alcance un valor de aproximadamente 272,51 mil millones de dólares en 2024, y se prevé que aumente hasta los 339,76 mil millones de dólares para el año 2029. Este crecimiento se espera que se produzca a una tasa compuesta anual del 4,51% durante el periodo mencionado. Asimismo, el mismo estudio indica que el cruce entre moda y deporte impulse aún más este mercado.
 
 ### 1.2.2. Lean UX Process
 
@@ -191,9 +302,37 @@
 
 #### 1.2.2.2. Lean UX Assumptions
 
+ <p><b>Segmento de Usuarios:</b></p>
+    <ul>
+        <li><b>¿Quién es el usuario?</b>: Nuestros usuarios son personas jóvenes y adultas de 18 a 40 años que tienen interés en el deporte y desean adquirir, vender o diseñar camisetas deportivas de manera conveniente y accesible.</li>
+        <li><b>¿Dónde encaja nuestro producto? ¿En su trabajo o vida?</b>: Nuestro producto se integra directamente en la vida de los usuarios, brindando una solución eficaz y atractiva para satisfacer sus necesidades relacionadas con el deporte y la moda deportiva.</li>
+        <li><b>¿Cuándo y cómo es usado nuestro producto?</b>: La aplicación será utilizada por los usuarios en su tiempo libre, ya sea para explorar nuevas camisetas deportivas, diseñar sus propios diseños o vender productos existentes.</li>
+        <li><b>¿Qué problemas tiene nuestro servicio?</b>: Uno de los problemas potenciales es garantizar la retención a largo plazo de los usuarios, asegurando que sigan utilizando la aplicación para todas sus necesidades relacionadas con las camisetas deportivas.</li>
+    </ul>
+    <p><b>Business Outcomes:</b></p>
+    <ul>
+        <li><b>Creemos que a nuestros clientes les interesaría una aplicación que les ayude a satisfacer sus necesidades de compra, venta y diseño de camisetas deportivas de manera conveniente y efectiva.</b></li>
+        <li><b>Nuestro público objetivo incluye a personas de 18 a 40 años interesadas en el deporte y la moda deportiva como parte de su estilo de vida.</b></li>
+        <li><b>El valor principal que nuestros clientes esperan de nuestra aplicación es una experiencia confiable, fácil de usar y gratificante que les permita encontrar, diseñar y adquirir camisetas deportivas de alta calidad.</b></li>
+        <li><b>Planeamos generar ingresos a través de tarifas de intermediación por transacciones, así como posibles asociaciones con marcas deportivas y proveedores de camisetas.</b></li>
+        <li><b>Reconocemos que hay competidores en el mercado, pero creemos que podemos diferenciarnos ofreciendo una experiencia de usuario superior, un diseño intuitivo y una amplia gama de opciones de diseño y compra.</b></li>
+        <li><b>Estamos comprometidos a garantizar la calidad y confiabilidad de nuestra aplicación, realizando pruebas rigurosas antes del lanzamiento y manteniendo una comunicación activa con nuestros usuarios para abordar cualquier problema o inquietud que puedan surgir.</b></li>
+    </ul>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+<ol>
+<li><b>Creemos que</b> existe un segmento de usuarios que estén interesados en comprar y vender sus propias camisetas deportivas. <b>Sabremos que</b> esto es cierto <b>cuando</b> observemos un aumento en la frecuencia de visita en nuestro sitio web por parte de nuestro público objetivo.</li>
+
+<li><b>Creemos que</b> nuestro público objetivo utilizará como prioridad nuestro sitio web para la venta de sus propias camisetas. <b>Sabremos que</b> esta afirmación es cierta <b>cuando</b> los usuarios opten por pagar por el servicio premium de nuestro sitio web, el cual viene acompañado de ventajas diseñadas para satisfacer las necesidades de nuestros usuarios.</li>
+
+<li><b>Creemos que</b>, si no proporcionamos contenido a nuestro sitio web y no priorizamos a los usuarios no premium ofreciéndoles una variedad de opciones, perderá interés nuestra plataforma. <b>Sabremos que</b> esta afirmación es correcta <b>cuando</b> observemos una reducción en el número de usuarios en la pagina.</li>
+
+</ol>
+
 #### 1.2.2.4. Lean UX Canvas
+
+<td><img src="Images/Lean UX Canvas.png" alt="Imagen del canvas" width="1500"></td>
 
 # 1.3. Segmentos Objetivo
 
