@@ -538,6 +538,73 @@ Sobre una posible aplicación
 
 ## 3.2. User Stories
 
+**Epic: Gestión de cuenta del usuario**
+
+- Como usuario, quiero crear una cuenta en la aplicación para acceder a las funcionalidades.
+- Como usuario, quiero iniciar sesión con mi correo y contraseña para un acceso seguro.
+- Como usuario, quiero editar la información en mi perfil, como mi correo electrónico y contraseña para mantener mis datos personales actualizados.
+- Como usuario, quiero administrar los datos de mi tarjeta para realizar transacciones dentro de la aplicación.
+- Como usuario, quiero editar los datos de mis tarjetas registradas para que estén actualizados.
+
+**Epic: Visualización y gestión de diseños**
+
+- Como confeccionista, quiero visualizar la lista de diseños que he subido a la plataforma para hacer un seguimiento preciso.
+- Como confeccionista, quiero ser capaz de subir mis diseños para que puedan publicitarse y ser comprados por otros usuarios.
+- Como confeccionista, quiero editar mis publicaciones de camisetas para actualizarlas con el inventario actual.
+- Como confeccionista, quiero establecer el precio y la descripción de mis camisetas deportivas para tener una mayor atracción a clientes.
+- Como confeccionista, quiero ver la disponibilidad de las camisetas para no tener problemas por falta de stock y evitar desilusiones.
+
+**Epic: Manejo del catálogo de camisetas**
+
+- Como cliente, quiero ver las imágenes de las camisetas en alta resolución para poder realizar mi compra con más seguridad.
+- Como cliente, quiero recibir recomendaciones personalizadas basadas en mis compras anteriores y mis intereses deportivos para encontrar un posible producto a comprar.
+- Como cliente, quiero visualizar los diseños que ofrece la plataforma para elegir y realizar mi compra.
+- Como usuario, quiero poder filtrar las camisetas por tamaño, color, equipo, jugador, deporte o diseñador para encontrar la opción que mejor se adapte a mis preferencias.
+
+**Epic: Diseño de camisetas**
+
+- Como cliente, quiero escoger un lienzo de camiseta para personalizarla desde una base.
+- Como cliente, quiero escoger qué items agregarle a mi camiseta para personalizarla a mi gusto.
+- Como cliente, quiero deshacer
+
+**Epic: Contacto con el confeccionsta**
+
+- Como cliente, quiero ver un listado de confeccionistas para escoger el que más me agrade.
+- Como cliente, quiero contactar con un confeccionista para que confeccione la camiseta que previamente diseñé.
+- Como cliente, quiero firmar un contrato con el confeccionista que indique que puede vender libremente mi camiseta para poder tener ingresos económicos.
+
+**Epic: Manejo de la lista de favoritos**
+
+- Como cliente, quiero añadir a favoritos determinados diseños para que pueda acceder rápidamente a ellos.
+- Como cliente, quiero editar mi lista de favoritos para que esté actualizada con mis gustos
+
+**Epic: Reseñas y calificaciones**
+
+- Como cliente, quiero ver reseñas y calificaciones de otros compradores para tomar una decisión de compra informada.
+- Como cliente, quiero escribir una reseña sobre el confeccionista que ha hecho mi camiseta para informar a los demás compradores sobre mi opinión.
+- Como cliente, quiero editar una reseña que hice previamente para dar una información adecuada.
+
+**Epic: Sistema de notificaciones**
+
+- Como confeccionista, quiero recibir notificaciones cuando un usuario compre mi camiseta para preparar la entrega a la brevedad posible.
+- Como cliente, quiero recibir notificaciones cuando realice una compra para hacer un seguimiento de la misma
+
+**Epic: Sistema de puntos de recompensas**
+
+- Como cliente, quiero ganar puntos por mis compras de camisetas deportivas para obtener descuentos u ofertas exclusivas en futuras compras.
+- Como cliente, quiero canjear mis puntos de compra para disfrutar de los diferentes beneficios en las compras
+
+**Epic: Seguimiento del pedido**
+
+- Como cliente, quiero poder realizar un seguimiento de mi pedido desde el momento de la compra hasta la entrega para tener una noción del día de entrega.
+- Como cliente, quiero poder devolver o cambiar una camiseta fácilmente para mejorar mi experiencia de compra.
+
+**Epic: Funcionalidades Premium**
+
+- Como usuario, quiero mejorar mi cuenta a Premium para disfrutar de los diferentes beneficios.
+- Como confeccionista, quiero destacar mis publicaciones en las búsquedas para aumentar las posibilidades de que mis productos sean vendidos
+- Como cliente, quiero realizar más diseños personalizados de los que me permite normalmente, para personalizar las camisetas que yo desee
+
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
