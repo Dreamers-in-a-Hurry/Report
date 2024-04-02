@@ -410,6 +410,110 @@ FitShirt busca resolver esta problemática ofreciendo una solución integral. La
 
 ### 2.2.1. Diseño de entrevistas
 
+Se han establecido algunas preguntas dirigidas a nuestro grupo objetivo con el fin de recolectar información cualitativa, como opiniones o descripciones. Esta información será muy útil en la creación de nuestra solución.
+
+**Preguntas generales:**
+
+- ¿Cuál es su nombre completo?
+
+- ¿Cuántos años tienes?
+- ¿Cuál es tu género?
+- ¿Cuál es su estado civil?
+- ¿En qué ciudad y distrito reside?
+- ¿A qué te dedicas? ¿Trabajas? ¿Estudias?
+
+**Preguntas segmento 1: Deportistas**
+
+Hábitos del cliente
+
+- ¿Qué te motiva a comprar una nueva camiseta deportiva?
+
+- ¿Para qué actividades usas las camisetas deportivas que compras?
+
+- ¿Con qué frecuencia compras ropa deportiva?
+
+Características que busca el cliente
+
+- ¿Qué tipo de camiseta deportiva compras con mayor frecuencia (football, volleyball, basketball…)?
+
+- ¿Tienes en cuenta la marca de la ropa a la hora de comprar?
+
+- ¿Sueles comprar camisetas deportivas originales o replicas?
+
+- ¿Qué características son más importantes para ti al elegir una camiseta deportiva?
+
+- ¿Cuánto es el promedio que inviertes en la compra de una camiseta?
+
+- ¿Cuál es su proceso de búsqueda de una camiseta deportiva? (mediante tienda virtual, tienda física, redes sociales, etc)
+
+Sobre camiseta personalizada
+
+- ¿Alguna vez has solicitado una camiseta personalizada? Si es el caso:
+
+  - ¿Qué te motivó a comprar una camiseta personalizada?
+  - ¿Cómo fue el proceso para la personalización de la camiseta?
+  - ¿Qué tan satisfecho quedaste con el resultado final?
+  - ¿Qué aspectos mejorarías de la experiencia?
+
+- ¿Qué características de una camiseta te gustaría poder personalizar?
+- ¿Qué te gustaría que las marcas de ropa deportiva ofrecieran en cuanto a personalización de camisetas?
+- ¿De cuánto es el presupuesto que estás dispuesto a invertir en una camiseta deportiva personalizada?
+
+Sobre una posible aplicación
+
+- ¿Qué le parece la idea de una aplicación donde pueda encontrar una gran variedad de camisetas personalizadas mediante un catálogo virtual?
+
+- ¿Le gustaría personalizar una camiseta deportiva desde una aplicación web y que esta sea confeccionada?
+  ¿Le agradaría la posibilidad de facturar por el diseño de la misma?
+
+**Preguntas segmento 2: Comerciantes**
+
+Sobre la experiencia del comerciante
+
+- ¿Cuánto tiempo lleva en el mercado de camisetas deportivas?
+
+- ¿Cuál es el precio promedio de venta de camisetas?
+- ¿Qué tipo de camisetas son las más buscadas en el mercado actual (football, volleyball, basketball…)?
+- En su experiencia, ¿qué características poseen las camisetas que son más vendidas?
+- ¿Con qué frecuencia vende las camisetas deportivas?
+
+Más a detalle sobre su experiencia
+
+- ¿Cuáles han sido los mayores desafíos que has enfrentado como comerciante de camisetas deportivas?
+
+- ¿Qué aspectos consideras que son más importantes para tener éxito en este mercado?
+
+Sobre la venta online
+
+- ¿Tiene experiencia en la venta de camisetas en tiendas virtuales?
+
+- ¿Qué estrategias emplea para dar a conocer su trabajo a demás personas?
+
+Sobre las camisetas personalizadas
+
+- ¿Tienes experiencia en la confección de camisetas deportivas con un diseño propio?
+
+  - ¿Cuál fue el motivo de la confección?
+  - ¿Cómo fue el proceso de la confección?
+  - ¿Qué aspectos mejoraría de la experiencia?
+
+Sobre una posible aplicación
+
+- ¿Qué le parece la idea de una aplicación donde pueda vender camisetas deportivas?
+
+- ¿Le agradaría la idea de promocionar sus confecciones mediante una aplicación?
+- ¿Estaría dispuesto a confeccionar camisetas en base al diseño de otro usuario?
+
+**En este apartado, se le cuenta al entrevistado la idea de “FitShirt”, sus características, sus principales funciones y a quiénes va dirigido.**
+
+**Preguntas sobre la idea del proyecto:**
+
+- ¿Qué te parece la propuesta de FitShirt para la compra y venta de camisetas personalizadas
+- ¿Cuál es el aspecto que más le llama la atención?
+
+- ¿Qué otras características le gustaría que tuviera la aplicación?
+- ¿Recomendarías nuestra aplicación a otras personas cuando sea lanzada?
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
