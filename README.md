@@ -396,6 +396,59 @@ Enfocándonos en esta problemática, nos preguntamos: ¿Cómo podemos transforma
 
 # 1.3. Segmentos Objetivo
 
+<h3> Segmento #1: Empresas Mayoristas y Minoristas (Emprendedores), dirigidas al rubro del comercio de venta de ropa deportiva</h3>
+
+<b>Aspectos demográficos:</b>
+
+<ul>
+  <li> Sexo: Masculino y Femenino </li>
+  <li> Edades: Entre 18 y 55 años </li>
+  <li> Nivel Socioeconómico: Clases A y B (alta y media alta) </li>
+</ul> 
+
+<b>Aspectos geográficos:</b>
+
+<ul>
+  <li> Nacionalidad: Peruana </li>
+  <li> Zona Geográfica de Residencia: Urbana </li>
+  <li> Departamento: Lima Metropolitana </li>
+</ul>
+
+<b>Aspectos psicograficos:</b>
+
+<ul>
+  <li> Personas naturales o jurídicas que están preocupados por la naciente era digital en la actualidad, y que desean ser parte del avance. </li>
+  <li> Emprendedores que ven potencial en las ventas en línea y la creciente pasión por deportes como el futbol. </li>
+  <li> Empresas de venta al por mayor y menor de ropa deportiva que buscan incrementar sus ventas. </li>
+</ul>
+
+<br>
+<h3> Segmento #2: Jóvenes y/o adultos aficionados de los deportes</h3>
+
+<b>Aspectos demográficos:</b>
+
+<ul>
+  <li> Sexo: Masculo y Femenino </li>
+  <li> Edades: Entre 18 y 40 años </li>
+  <li> Nivel Socioeconómico: Clases A. B y C (Clase alta, clase media alta y clase media) </li>
+</ul> 
+
+<b>Aspectos geográficos:</b>
+
+<ul>
+  <li> Nacionalidad: Peruana </li>
+  <li> Zona Geográfica de Residencia: Urbana </li>
+  <li> Departamento: Lima Metropolitana </li>
+</ul>
+
+<b>Aspectos psicograficos:</b>
+
+<ul>
+  <li> Jóvenes apasionados que les gusta el deporte y practican el deporte. Ya sea fútbol o baloncesto, y desean lucir la camiseta de su equipo preferido. </li>
+  <li> Adultos que de la misma forma, son aficionados e incluso coleccionistas de camisetas deportivas, quienes aprecian con gran cariño por las circunstancias que aquellas camisetas puedan haber pasado. </li>
+  <li> Empresas de venta al por mayor y menor de ropa deportiva que buscan incrementar sus ventas. </li>
+</ul>
+
 <br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
