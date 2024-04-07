@@ -203,10 +203,25 @@
 
 ## 2.1. Competidores
 
-Competidores  
-| asdas  |  sada |
-
 ### 2.1.1. Análisis competitivo
+
+<center>
+
+| Nombre    | FitShirt | Mercado Libre    | Facebook Marketplace | Adidas |
+|:-----------:|:------:|:-----------:|:------:|:------:|
+|     Logo  |       |    <img width=100 src="https://seeklogo.com/images/M/mercado-libre-logo-058319A524-seeklogo.com.png"/>       | <img width=32 src="https://seeklogo.com/images/M/marketplace-facebook-logo-BC79D3F4C3-seeklogo.com.png">     | <img width=50 src="https://seeklogo.com/images/A/adidas-logo-107B082DA0-seeklogo.com.png">      |
+|   Overview                    |         |  Mercado Libre es una plataforma líder de comercio electrónico que ofrece una amplia gama de productos y servicios a través de su popular plataforma digital.         |         |         |
+|   Ventaja Competitiva         |         |           |         |         |
+|   Mercado Objetivo            |         |           |         |         |
+|   Estrategias de Marketing    |         |           |         |         |
+|   Productos y Servicios       |         |           |         |         |
+|   Canales de Distribución     |         |           |         |         |
+|   Fortalezas                  |         |           |         |         |
+|   Debilidades                 |         |           |         |         |
+|   Oportunidades               |         |           |         |         |
+|   Amenazas                    |         |           |         |         |
+
+</center>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
