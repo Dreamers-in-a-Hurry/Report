@@ -291,8 +291,6 @@
 
 ### 4.7.1. Class Diagrams
 
-<td><img src="Images/DDC.png" alt="Imagen del diagrama de clases" width="1500"></td>
-
 ### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
