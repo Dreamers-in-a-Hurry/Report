@@ -828,7 +828,7 @@ Entonces el sistema conserva las camisetas que el cliente había agregado anteri
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Diego Defilippi
         </td>
     </tr>
         <tr align="left">
@@ -888,7 +888,7 @@ Entonces se actualiza la lista del carrito de compras con el nuevo item y la can
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Diego Defilippi
         </td>
     </tr>
         <tr align="left">
@@ -958,7 +958,7 @@ Y también el `Total` de la compra.</br>
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Diego Defilippi
         </td>
     </tr>
         <tr align="left">
@@ -1024,7 +1024,7 @@ Entonces la página web no se actualiza<br/>
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Diego Defilippi
         </td>
     </tr>
         <tr align="left">
