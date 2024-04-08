@@ -646,6 +646,12 @@ Sobre una posible aplicación
   <img src="Images/impact_maps/Impact_map.Confeccionista.png" alt="Impact map de confeccionistas" style="margin: 10px 0;" width="90%"/>
 </div>
 
+<b>Impact map del segmento objetivo 2:</b> Clientes aficionados a los deportes de entre 18 y 40 años
+
+<div align="center">
+  <img src="Images/impact_maps/Impact_map.Cliente.png" alt="Impact map de confeccionistas" style="margin: 10px 0;" width="90%"/>
+</div>
+
 ## 3.4. Product Backlog
 
 <br><br>
