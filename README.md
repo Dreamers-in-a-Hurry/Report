@@ -226,6 +226,16 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+En base a lo mencionado por Porter (1985). Se entiende por estrategia o táctica competitiva aquella acción que supone una acción ofensiva y/o defensiva con el objetivo de crear una posición favorable frente a las cinco fuerzas competitivas, de tal modo, obtener un resultado superior al promedio de las empresas competidoras en tu sector. Es decir, que buscaremos establecer una posición provechosa para potenciar y confrontar la competencia mediante el analisis FODA. Por lo que, plantearemos las siguientes estrategias competitivas:
+
+<b>Estrategia de posicionamiento: FitShirt promoverá la originalidad y exclusividad</b>
+
+Ademas de buscar que la plataforma sea intuituiva y la busqueda sea una tarea divertida para los usuarios. Con FitShirt buscamos posicionarnos como la plataforma que comercia camisetas exclusivas y de calidad. El hecho de que el cliente pueda solicitar una camiseta personalizable promueve la originalidad, de manera que, bajo estos dos terminos, existe la opotunidad de establecernos sobre otras marcas, enfocandonos en lo que realmente el cliente desea.
+
+<b>Estrategia de alcance al usuario: FitShirt sera publicitado en los principales medios del público objetivo</b>
+
+Los deportes, en especial, el fútbol y el baloncesto, tienen una de las mayores audiencias al rededor del pais y el mundo. Generar publicidad hacia este mercado y en base a los conceptos manejados en nuestra estrategia de posicionamiento, podemos publicitarnos tanto en eventos nacionales deportivos, como culturales con el eslogan de obtener originalidad y exclusividad. Asi como la presencia en redes sociales, la cual es consumida en abundacia por nuestro público objetivo.
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
