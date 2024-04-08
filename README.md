@@ -380,7 +380,7 @@ Y se mostrará un mensaje de error indicando que las creedenciales son incorrect
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          George Aliaga
         </td>
     </tr>
         <tr align="left">
@@ -1400,7 +1400,7 @@ Y el diseño será guardado<br/>
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          George Aliaga
         </td>
     </tr>
         <tr align="left">
