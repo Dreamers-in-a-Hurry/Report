@@ -640,6 +640,12 @@ Sobre una posible aplicación
 
 ## 3.3. Impact Mapping
 
+<b>Impact map del segmento objetivo 1:</b> Confeccionistas dirigidos al rubro del comercio de ropa deportiva
+
+<div align="center">
+  <img src="Images/impact_maps/Impact_map.Confeccionista.png" alt="Impact map de confeccionistas" style="margin: 10px 0;" width="90%"/>
+</div>
+
 ## 3.4. Product Backlog
 
 <br><br>
