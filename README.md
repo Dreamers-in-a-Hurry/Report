@@ -292,6 +292,39 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
     </td>
   </tr>
 
+  <tr>
+  <tr align="center">
+    <td rowspan="4">
+      <img src="Images/profile_images/FotoAaron.png" alt="Imagen del integrante Aaron" style="margin-bottom: 5px;" width="700"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Aaron Alejandro Cruz Ticona
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U202213502
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Me llamo Aarón Alejandro, tengo 18 años y estoy inmerso en el quinto ciclo de la carrera de Ingeniería de Software. debido a la elecciòn de mi carrera poseo gusto por la programacion, y por ende, conocimientos acerca del diseño y elaboración de distintas estructuras de datos y el desarrollo frontend, así como el marco teórico de todo lo mencionado. En lo que respecta a mi personalidad, siempre me he caracterizado por ser una persona alegre, creativa y curiosa. Deseo apoyar a mi equipo y culminar exitosamente el presente curso.
+    </td>
+  </tr>
+
 </table>
 
 ## 1.2. Solution Profile
