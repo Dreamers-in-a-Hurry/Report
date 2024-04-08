@@ -311,17 +311,17 @@ Y mostrará un mensaje de error indicando que el correo es muy poco seguro. <br/
         </td>
     </tr>
     <tr align="left">
-        <td>
+       <td>
             <b>ID-US</b>
         </td>
         <td>
             02
         </td>
         <td>
-            <b>Daniel Chirinos</b>
+            <b>Owner</b>
         </td>
         <td>
-          *
+          Daniel Chirinos
         </td>
     </tr>
         <tr align="left">
