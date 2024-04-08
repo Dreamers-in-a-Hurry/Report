@@ -761,7 +761,7 @@ Y solo mostrará las camisetas que coinciden con el deporte seleccionado.<br/>
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Diego Defilippi
         </td>
     </tr>
         <tr align="left">
@@ -981,20 +981,20 @@ Y también el `Total` de la compra.</br>
             <br/>
 
 <b>Scenario 1: </b>Finalizar la compra<br/>
-Dado que el cliente ha agregado uno o más items a su carrito
+Dado que el cliente ha agregado uno o más items a su carrito</br>
 Y desea terminar su compra<br/>
 Cuando seleccione la opción de _Comprar_<br/>
 Entonces el sistema redirige al cliente a la página de pago<br/>
 
 <b>Scenario 2: </b>Finalizar la compra de usuario no loggeado<br/>
-Dado que el cliente ha agregado uno o más items a su carrito
+Dado que el cliente ha agregado uno o más items a su carrito</br>
 Y desea terminar su compra<br/>
 Y no ha creado cuenta en la aplicación <br/>
 Cuando seleccione la opción de _Comprar_<br/>
 Entonces el sistema redirige al cliente al apartado de inicio de sesión<br/>
 
 <b>Scenario 3: </b>Finalizar la compra con carrito vacío<br/>
-Dado que el cliente no ha agregado items a su carrito
+Dado que el cliente no ha agregado items a su carrito</br>
 Cuando seleccione la opción de _Comprar_<br/>
 Entonces la página web no se actualiza<br/>
 
@@ -1024,7 +1024,7 @@ Entonces la página web no se actualiza<br/>
             <b>Owner</b>
         </td>
         <td>
-          Diego Defilippi
+          *falta*
         </td>
     </tr>
         <tr align="left">
@@ -1047,12 +1047,12 @@ Entonces la página web no se actualiza<br/>
             <br/>
 
 <b>Scenario 1: </b> Visualización de lista<br/>
-Dado que el cliente ha agregado uno o más items a su carrito
+Dado que el cliente ha agregado uno o más items a su carrito</br>
 Y desea terminar su compra<br/>
 Cuando seleccione la opción de _Comprar_<br/>
 Entonces el sistema redirige al cliente a la _Página de pago_<br/>
 Y podrá visualizar los items que agregó al carrito de compras previamente incluyendo el `Nombre`, `Imagen`, `Cantidad`, `Subtotal` de cada camiseta, junto al `Total` de la compra<br/>
-Y también el método de pago a efectuar.
+Y también el método de pago a efectuar.</br>
 
  </td>
 </tr>
