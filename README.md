@@ -276,6 +276,9 @@
 <b>Diseña</b>
 <td><img src="Images/LandingM3.png" alt="Imagen3 LandingMockUp"></td>
     <td>
+<b>¿Quienes Somos? <b>
+<td><img src="Images/LandingM3.jpg" alt="Imagen4 LandingMockUp"></td>
+    <td>
 
 
 ## 4.4. Web Applications UX/UI Design
