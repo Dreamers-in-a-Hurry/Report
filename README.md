@@ -277,6 +277,9 @@
 <b>¿Quienes Somos?</b>
 <td><img src="Images/LandingW4.png" alt="Imagen4 LandingWireframe"></td>
     <td>
+<b>Contactanos</b>
+<td><img src="Images/LandingW5.png" alt="Imagen5 LandingWireframe"></td>
+    <td>
     
 ### 4.3.2. Landing Page Mock-up
 
