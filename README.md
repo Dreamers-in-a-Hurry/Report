@@ -282,6 +282,10 @@
 <b>Contactanos <b>
 <td><img src="Images/LandingM5.jpg" alt="Imagen5 LandingMockUp"></td>
     <td>
+    <br>
+    
+[Ver diseño en Figma](https://www.figma.com/file/34WQCRohgfDxl5QPuWQxKc/FitShirt?type=design&node-id=0-1&mode=design&t=trCfJ8GunZpOGtwE-0)
+
 
 ## 4.4. Web Applications UX/UI Design
 
