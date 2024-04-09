@@ -274,6 +274,9 @@
 <b>Diseña</b>
 <td><img src="Images/LandingW3.png" alt="Imagen3 LandingWireframe"></td>
     <td>
+<b>¿Quienes Somos?</b>
+<td><img src="Images/LandingW4.png" alt="Imagen4 LandingWireframe"></td>
+    <td>
     
 ### 4.3.2. Landing Page Mock-up
 
