@@ -2010,6 +2010,392 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
 
 ## 3.4. Product Backlog
 
+<table align="center" border="1" width="90%" style="text-align:left;">
+    <tr>
+        <th>
+            # Orden
+        </th>
+        <th>
+            User Story ID
+        </th>
+        <th>
+            Título
+        </th>
+        <th>
+            Descripción
+        </th>
+        <th>
+            Story Points </br> (1 / 2 / 3 / 5 / 8)
+        </th>
+    </tr>
+    <tr>
+        <td>
+            01
+        </td>
+        <td>
+            06
+        </td>
+        <td>
+            Catálogo de camisetas
+        </td>
+        <td>
+            Como cliente, quiero visualizar las camisetas que ofrecen las diferentes empresas para elegir y realizar una compra informada.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            02
+        </td>
+        <td>
+            09
+        </td>
+        <td>
+            Visualización del carrito de compras
+        </td>
+        <td>
+            Como cliente, quiero tener un carrito de compras en la página para agregar las camisetas que yo deseo comprar.
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr>
+        <td>
+            03
+        </td>
+        <td>
+            10
+        </td>
+        <td>
+            Adición al carrito de compras
+        </td>
+        <td>
+            Como cliente, quiero agregar camisetas a mi carrito de compras para tener un listado de lo que deseo comprar.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            04
+        </td>
+        <td>
+            11
+        </td>
+        <td>
+            Edición de cantidad en el carrito
+        </td>
+        <td>
+            Como cliente, quiero modificar el número de camisetas que deseo comprar desde el carrito de compras para editar el número de ítems de una manera más cómoda.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            05
+        </td>
+        <td>
+            07
+        </td>
+        <td>
+            Visualizar la descripción de cada camiseta
+        </td>
+        <td>
+            Como cliente, quiero visualizar la descripción y demás valores de cada camiseta para escoger la que más se acomode a lo que busco.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            06
+        </td>
+        <td>
+            01
+        </td>
+        <td>
+            Creación de cuenta
+        </td>
+        <td>
+            Como usuario, quiero crear una cuenta en la aplicación para acceder a las funcionalidades.
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr>
+        <td>
+            07
+        </td>
+        <td>
+            02
+        </td>
+        <td>
+            Inicio de sesión
+        </td>
+        <td>
+            Como usuario, quiero iniciar sesión con mi correo y contraseña para un acceso seguro.
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr>
+        <td>
+            08
+        </td>
+        <td>
+            03
+        </td>
+        <td>
+            Visualización de publicaciones
+        </td>
+        <td>
+           Como confeccionista, quiero visualizar la lista de camisetas que he subido a la plataforma para hacer un seguimiento preciso de mi inventario.
+        </td>
+        <td>
+          3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            09
+        </td>
+        <td>
+            13
+        </td>
+        <td>
+            Visualización de productos por comprar
+        </td>
+        <td>
+            Como cliente, quiero tener una sección donde se muestre un listado de los productos que agregué en mi carrito de compras para posteriormente realizar el pago
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            10
+        </td>
+        <td>
+            12
+        </td>
+        <td>
+            Finalizar la lista
+        </td>
+        <td>
+            Como cliente, quiero tener la opción de ir al apartado del pago de productos desde el carrito de compras para comprar mis productos.
+        </td>
+        <td>
+            1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            11
+        </td>
+        <td>
+            14
+        </td>
+        <td>
+            Seguir comprando
+        </td>
+        <td>
+            Como cliente, quiero tener la opción de retornar al catálogo de compras para seguir comprando.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            12
+        </td>
+        <td>
+            04
+        </td>
+        <td>
+            Publicación de camisetas
+        </td>
+        <td>
+            Como confeccionista, quiero publicar las camisetas que estoy vendiendo para que puedan ser compradas por los usuarios.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            13
+        </td>
+        <td>
+            05
+        </td>
+        <td>
+            Edición de publicaciones
+        </td>
+        <td>
+            Como confeccionista, quiero editar mis publicaciones de camisetas para actualizarlas con el inventario actual.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            14
+        </td>
+        <td>
+            08
+        </td>
+        <td>
+            Filtrar camisetas
+        </td>
+        <td>
+          Como cliente, quiero aplicar filtros para encontrar la opción que mejor se adapte a mis preferencias.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            15
+        </td>
+        <td>
+            15
+        </td>
+        <td>
+            Pago de los productos
+        </td>
+        <td>
+            Como cliente, quiero colocar los datos de mi tarjeta para efectuar el pago de la compra.
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr>
+        <td>
+            16
+        </td>
+        <td>
+            19
+        </td>
+        <td>
+            Mejorar mi cuenta
+        </td>
+        <td>
+            Como usuario, quiero mejorar mi cuenta a Premium para disfrutar de los diferentes beneficios.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            17
+        </td>
+        <td>
+            20
+        </td>
+        <td>
+            Destacar publicaciones
+        </td>
+        <td>
+            Como confeccionista, quiero destacar mis publicaciones en las búsquedas para aumentar las posibilidades de que mis productos sean vendidos
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            18
+        </td>
+        <td>
+            16
+        </td>
+        <td>
+            Adición de texto a la camiseta
+        </td>
+        <td>
+            Como cliente, quiero agregarle texto a una camiseta del catálogo para que tenga un diseño apropiado para mí.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            19
+        </td>
+        <td>
+            17
+        </td>
+        <td>
+            Personalización de camiseta
+        </td>
+        <td>
+            Como cliente, quiero personalizar mi camiseta para que se ajuste a mi gusto
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr>
+        <td>
+            20
+        </td>
+        <td>
+            21
+        </td>
+        <td>
+            Diseñar más camisetas
+        </td>
+        <td>
+            Como cliente, quiero realizar más diseños personalizados de los que me permite normalmente, para personalizar las camisetas que yo desee
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            21
+        </td>
+        <td>
+            18
+        </td>
+        <td>
+            Guardar el diseño
+        </td>
+        <td>
+            Como cliente, quiero guardar el diseño de mi camiseta para usarlo en un futuro.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    
+</table>
+
+A continuación, se presenta el Trello con los features a realizar:
+
+<div align="center">
+  <img src="Images/product_backlog/Trello_tb1.png" alt="Trello task board" style="margin: 5px 0;" width="900"/>
+</div>
+
+Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2b20649266d0B94C669/fitshirt
+
 <br><br>
 
 # Capítulo IV: Product Design
