@@ -752,6 +752,26 @@ Sobre una posible aplicación
 
 ### 4.3.2. Landing Page Mock-up
 
+<b>Página Principal </b>
+<td><img src="Images/LandingM1.png" alt="Imagen1 LandingMockUp"></td>
+    <td>
+<b>Catálogo</b>
+<td><img src="Images/LandingM2.png" alt="Imagen2 LandingMockUp"></td>
+    <td>
+<b>Diseña</b>
+<td><img src="Images/LandingM3.png" alt="Imagen3 LandingMockUp"></td>
+    <td>
+<b>¿Quienes Somos? <b>
+<td><img src="Images/LandingM4.jpg" alt="Imagen4 LandingMockUp"></td>
+    <td>
+<b>Contactanos <b>
+<td><img src="Images/LandingM5.jpg" alt="Imagen5 LandingMockUp"></td>
+    <td>
+    <br>
+    
+[Ver diseño en Figma](https://www.figma.com/file/34WQCRohgfDxl5QPuWQxKc/FitShirt?type=design&node-id=0-1&mode=design&t=trCfJ8GunZpOGtwE-0)
+
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
@@ -776,11 +796,15 @@ Sobre una posible aplicación
 
 ### 4.7.1. Class Diagrams
 
+<td><img src="Images/DiagramaDeClases.png" alt="Imagen del diagrama de clases" width="1500"></td>
+
 ### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+<td><img src="Images/basededatosappweb.png" alt="Imagen del modelo logico" width="1500"></td>
 
 <br><br>
 
