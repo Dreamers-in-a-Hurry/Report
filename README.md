@@ -2422,6 +2422,22 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 
 ### 4.3.1. Landing Page Wireframe
 
+<b>Página Principal </b>
+<td><img src="Images/LandingW1.png" alt="Imagen1 LandingWireframe"></td>
+    <td>
+<b>Catálogo</b>
+<td><img src="Images/LandingW2.png" alt="Imagen2 LandingWireframe"></td>
+    <td>
+<b>Diseña</b>
+<td><img src="Images/LandingW3.png" alt="Imagen3 LandingWireframe"></td>
+    <td>
+<b>¿Quienes Somos?</b>
+<td><img src="Images/LandingW4.jpg" alt="Imagen4 LandingWireframe"></td>
+    <td>
+<b>Contactanos</b>
+<td><img src="Images/LandingW5.jpg" alt="Imagen5 LandingWireframe"></td>
+    <td>
+    
 ### 4.3.2. Landing Page Mock-up
 
 <b>Página Principal </b>
