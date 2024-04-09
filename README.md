@@ -631,6 +631,41 @@ Sobre una posible aplicación
 
 ### 2.2.2. Registro de entrevistas
 
+<b>Segmento objetivo 1:</b> Comerciantes
+
+<b>Entrevista 1</b><br/>
+
+- Nombre: Deyvid Joseph
+- Apellidos: Guevara Cueva
+- Edad: 21 años
+- Distrito: San Miguel
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
+- Duración: 15 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interviews/Deyvid_interview.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Se entrevistó a Deyvid Guevara, un joven de 21 años quien vive en el distrito de San Miguel.
+
+Indica que se encuentra un año en el ámbito de venta de camisetas, y en su experiencia, resalta aspectos importantes. Afirma que el precio de las camisetas suele variar por varios factores, como el material, la talla, la demanda o algún evento actual como el mundial, pero generalmente el precio oscila entre 50 y 70 nuevos soles. También indica que las camisetas más demandadas son las de fútbol, en especial las de la selección peruana. Además, la frecuencia de venta depende, mayormente, del contexto, como un evento deportivo.
+
+Al momento de indagar más sobre su experiencia, señala que los dos desafíos a afrontar son el capital a invertir y la cuantiosa competencia en el mercado actual. Sin embargo, afirma que teniendo una buena estrategia de negocio se puede llegar a más personas y tener un público sólido. Una de las estrategias que empleó fue la venta online mediante WhatsApp e Instagram, lo cual afirma que aumentó significativamente sus ventas. Sin embargo, uno de los problemas es la poca versatilidad de estos medios, lo que conllevó que a veces no concretase alguna venta.
+
+El entrevistador confirma que tiene experiencia en la confección de camisetas con diseño personalizado. Indica que el proceso consiste en comunicarse primero con el cliente, que le envía el diseño y se encarga de confeccionarlo a su gusto. No obstante, insiste que el problema más recurrente es el medio de comunicación, pues le toma mucho tiempo responder mensajes y a veces no se muestra el catálogo completo.
+
+Al preguntarle sobre una posible aplicación de compra, venta y personalización de camisetas, se mostró bastante encantado, incluso dijo que tenía pensado implementar una página web para su propia empresa. Señala que esta aplicación le ayudaría bastante, pues podría responderle a los clientes con mayor rapidez, promocionaría sus productos fácilmente y también los mismos usuarios podrían usar la app como herramienta para hacer el diseño.
+
+Luego de describir la propuesta de FitShirt, indicó que es una muy buena idea de negocio y el aspecto que más le gusta es el de poder diseñar tu camiseta a través de la aplicación y que los confeccionistas puedan vender aquel diseño para atraer a un público que desee una camiseta “fuera de lo convencional”. Finalmente, menciona que recomendaría esta aplicación a más personas, sobretodo a sus propios clientes.
+
+<br/>
+
+<b>Segmento objetivo 2:</b> Clientes
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -2423,6 +2458,7 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 ### 4.3.1. Landing Page Wireframe
 
 <b>Página Principal </b>
+
 <td><img src="Images/LandingW1.png" alt="Imagen1 LandingWireframe"></td>
     <td>
 <b>Catálogo</b>
