@@ -299,6 +299,8 @@
 
 ### 4.8.1. Database Diagram
 
+<td><img src="Images/basededatosappweb.png" alt="Imagen del modelo logico" width="1500"></td>
+
 <br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
