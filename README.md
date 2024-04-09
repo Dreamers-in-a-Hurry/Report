@@ -1020,6 +1020,14 @@ Sobre una posible aplicación
     
 </table>
 
+A continuación, se presenta el Trello con los features a realizar:
+
+<div align="center">
+  <img src="Images/product_backlog/Trello_tb1.png" alt="Trello task board" style="margin: 5px 0;" width="900"/>
+</div>
+
+Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2b20649266d0B94C669/fitshirt
+
 <br><br>
 
 # Capítulo IV: Product Design
