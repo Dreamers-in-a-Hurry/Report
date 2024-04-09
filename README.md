@@ -1609,17 +1609,6 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
 
 ### 4.3.2. Landing Page Mock-up
 
-<b>Página Principal </b>
-<td><img src="Images/LandingM1.png" alt="Imagen1 LandingMockUp"></td>
-    <td>
-<b>Catálogo</b>
-<td><img src="Images/LandingM2.png" alt="Imagen2 LandingMockUp"></td>
-    <td>
-<b>Diseña</b>
-<td><img src="Images/LandingM3.png" alt="Imagen3 LandingMockUp"></td>
-    <td>
-
-
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
