@@ -265,6 +265,16 @@
 
 ### 4.3.1. Landing Page Wireframe
 
+<b>Página Principal </b>
+<td><img src="Images/LandingW1.png" alt="Imagen1 LandingWireframe"></td>
+    <td>
+<b>Catálogo</b>
+<td><img src="Images/LandingW2.png" alt="Imagen2 LandingWireframe"></td>
+    <td>
+<b>Diseña</b>
+<td><img src="Images/LandingW3.png" alt="Imagen3 LandingWireframe"></td>
+    <td>
+    
 ### 4.3.2. Landing Page Mock-up
 
 <b>Página Principal </b>
