@@ -437,7 +437,7 @@ Enfocándonos en esta problemática, nos preguntamos: ¿Cómo podemos transforma
   <li> Sexo: Masculino y Femenino </li>
   <li> Edades: Entre 18 y 55 años </li>
   <li> Nivel Socioeconómico: Clases A y B (alta y media alta) </li>
-</ul> 
+</ul>
 
 <b>Aspectos geográficos:</b>
 
@@ -464,7 +464,7 @@ Enfocándonos en esta problemática, nos preguntamos: ¿Cómo podemos transforma
   <li> Sexo: Masculo y Femenino </li>
   <li> Edades: Entre 18 y 40 años </li>
   <li> Nivel Socioeconómico: Clases A. B y C (Clase alta, clase media alta y clase media) </li>
-</ul> 
+</ul>
 
 <b>Aspectos geográficos:</b>
 
@@ -492,20 +492,20 @@ Enfocándonos en esta problemática, nos preguntamos: ¿Cómo podemos transforma
 
 <center>
 
-| Nombre    | FitShirt | Mercado Libre    | Facebook Marketplace | Adidas |
-|:-----------:|:------:|:-----------:|:------:|:------:|
-|     Logo  |       |    <img width=200 src="https://seeklogo.com/images/M/mercado-libre-logo-058319A524-seeklogo.com.png"/>       | <img width=64 src="https://seeklogo.com/images/M/marketplace-facebook-logo-BC79D3F4C3-seeklogo.com.png">     | <img width=100 src="https://seeklogo.com/images/A/adidas-logo-107B082DA0-seeklogo.com.png">      |
-|   Overview                    | Plataforma con una interfaz intuitiva donde podrás encontrar cualquier camiseta deportiva.        |  Mercado Libre es una plataforma líder de comercio electrónico que ofrece una amplia gama de productos y servicios.         | Plataforma de compraventa en línea integrada dentro de la red social Facebook.        | Adidas es una empresa multinacional alemana de ropa, calzado y accesorios deportivos, reconocida a nivel mundial por su marca.        |
-|   Ventaja Competitiva         | Buscamos especializarnos en la venta y compra exclusiva de camisetas con diseños personalizables.        |  Dentro del área del comercio electrónico, la popularidad de mercado libre lo convierte en una popular herramienta para intercambiar bienes.         | Su ventaja radica en su enorme base de usuarios activos en Facebook, lo que le proporciona una amplia audiencia para los vendedores y facilita la búsqueda de productos para los compradores.        | La ventaja está en la marca, en la tecnología innovadora en sus productos, y las colaboraciones con celebridades deportivas.        |
-|   Mercado Objetivo            | Jóvenes, adultos y empresas que se encuentran involucradas con el comercio de camisetas deportivas.        |  Consumidores y vendedores en Perú, abarcando la mayoría de los segmentos demográficos.         | Se dirige a usuarios de Facebook interesados en comprar y vender productos.        | Se dirige a consumidores interesados en la moda y el rendimiento deportivo.        |
-|   Estrategias de Marketing    | Deseamos enfocarnos en publicidad dentro de redes sociales y campañas en eventos deportivos de relevancia en Perú.         |  Utiliza publicidad en línea, alianzas estratégicas y campañas promocionales para aumentar su visibilidad y atraer a nuevos usuarios y vendedores.         | Utiliza la plataforma de Facebook para promocionar el Marketplace, además de colaboraciones con vendedores destacados para aumentar la visibilidad.        | Utiliza estrategias de marketing global, entre las que resaltan los patrocinios de eventos deportivos y culturales.        |
-|   Productos y Servicios       | Ofrece productos personalizados de camisetas deportivas de diferentes equipos, deportes y sectores.        |  Ofrece productos electrónicos hasta de consumo, así como servicios de logística, pagos en línea y herramientas para vendedores.         | Ofrece artículos de segunda mano hasta productos nuevos, así como servicios locales como alquileres, clases y más.        | Ofrece una amplia gama de productos, incluyendo calzado deportivo, ropa, accesorios y equipos para una variedad de deportes y actividades físicas.        |
-|   Precios y Costos    | Dentro de la plataforma se basa en la venta de camisetas que diversos proveedores podrán compartir, lo que el precio dependerá de cada proveedor.        |  Al ser una plataforma que permite ventas de diversos productos, no existe ningún precio predeterminado al momento de realizar transacciones.         | Del mismo modo que Mercado Libre, en Facebook Marketplace, no existe un precio definido para todos los productos que ofrecen.        | Adidas, dentro de su línea de camisetas ofrece distintos precios que varían entre los 30 dólares a 100 dólares, dependiendo del diseño, colección, etc.        |
-|   Canales de Distribución     | Nuestro canal de distribución será la interfaz web, así como la presencia en redes sociales, con el objetivo de llegar a nuestro segmento objetivo.        |  A través de su plataforma digital, garantizando una experiencia de compra segura y conveniente para sus usuarios.transacciones.         | Su principal canal es a través de la plataforma de Facebook, garantizando una experiencia de compra integrada.        | Distribuye sus productos a través de tiendas minoristas propias, tiendas en línea, distribuidores autorizados y socios comerciales.        |
-|   Fortalezas                  | FitShirt es la única empresa la cual podrá permitir a los clientes, solicitar un posible diseño no producido anteriormente, lo que genera exclusividad y originalidad.        |  Cuenta con tecnología avanzada, una sólida red de usuarios y una amplia oferta de productos y servicios.         | Su principal fortaleza es la base de usuarios masiva y su integración con la red social Facebook, además de su facilidad de uso.        | Adidas es una marca icónica, productos de alta calidad, innovación tecnológica en sus productos y envidiable presencia global.        |
-|   Debilidades                 | Al ser una plataforma nueva dentro de un mercado renovado gracias a la digitalización, puede significar una debilidad la falta de respaldo económico frente a un posible éxito.        |  Puede enfrentar desafíos como la competencia intensa en el mercado digital y posibles limitaciones logísticas.         | Puede enfrentar desafíos relacionados con la competencia de otras plataformas de compraventa en línea y la gestión de la calidad de los productos y transacciones.        | Puede enfrentar desafíos relacionados con la competencia en la industria del deporte y la moda, así como fluctuaciones en las tendencias de consumo y cambios en la demanda del mercado.        |
-|   Oportunidades               | El incremente del comercio electrónico en la última década en nuestro país, representa una oportunidad para comerciar prendas deportivas, las cuales incrementan su demanda constantemente.        |  Tiene oportunidades de crecimiento en el mercado peruano debido al aumento del comercio electrónico y los cambios en los hábitos de consumo de los usuarios.         | Debido a su base de usuarios activos, y la posibilidad de expandir sus servicios a nivel global representan una oportunidad latente.        | Principalmente existen oportunidades de expansión, debido al desarrollo de productos innovadores y enfoque en la venta directa al consumidor.        |
-|   Amenazas                    | Debido al reciente nacimiento de la plataforma, la desconfianza que nacería a partir del desconocimiento del público sobre nuestra plataforma podría impedir el uso de nuestra plataforma.        |  Las amenazas incluyen la competencia fuerte de otras plataformas, cambios en la regulación gubernamental y posibles impactos económicos.         | Principalmente existe amenazas debido a lo sencillo que pueden expresarse las estafas, además que la competencia  es intensa en el mercado de compraventa.        | Cambios en las preferencias de los consumidores hacia marcas competidoras, incluyendo gigantes en la industria como Nike.        |
+|          Nombre          |                                                                                          FitShirt                                                                                           |                                                                        Mercado Libre                                                                         |                                                                                     Facebook Marketplace                                                                                      |                                                                                          Adidas                                                                                          |
+| :----------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|           Logo           |                                                                                                                                                                                             |                             <img width=200 src="https://seeklogo.com/images/M/mercado-libre-logo-058319A524-seeklogo.com.png"/>                              |                                           <img width=64 src="https://seeklogo.com/images/M/marketplace-facebook-logo-BC79D3F4C3-seeklogo.com.png">                                            |                                               <img width=100 src="https://seeklogo.com/images/A/adidas-logo-107B082DA0-seeklogo.com.png">                                                |
+|         Overview         |                                                 Plataforma con una interfaz intuitiva donde podrás encontrar cualquier camiseta deportiva.                                                  |                      Mercado Libre es una plataforma líder de comercio electrónico que ofrece una amplia gama de productos y servicios.                      |                                                        Plataforma de compraventa en línea integrada dentro de la red social Facebook.                                                         |                              Adidas es una empresa multinacional alemana de ropa, calzado y accesorios deportivos, reconocida a nivel mundial por su marca.                              |
+|   Ventaja Competitiva    |                                              Buscamos especializarnos en la venta y compra exclusiva de camisetas con diseños personalizables.                                              |         Dentro del área del comercio electrónico, la popularidad de mercado libre lo convierte en una popular herramienta para intercambiar bienes.          | Su ventaja radica en su enorme base de usuarios activos en Facebook, lo que le proporciona una amplia audiencia para los vendedores y facilita la búsqueda de productos para los compradores. |                               La ventaja está en la marca, en la tecnología innovadora en sus productos, y las colaboraciones con celebridades deportivas.                               |
+|     Mercado Objetivo     |                                             Jóvenes, adultos y empresas que se encuentran involucradas con el comercio de camisetas deportivas.                                             |                                    Consumidores y vendedores en Perú, abarcando la mayoría de los segmentos demográficos.                                    |                                                          Se dirige a usuarios de Facebook interesados en comprar y vender productos.                                                          |                                                       Se dirige a consumidores interesados en la moda y el rendimiento deportivo.                                                        |
+| Estrategias de Marketing |                                     Deseamos enfocarnos en publicidad dentro de redes sociales y campañas en eventos deportivos de relevancia en Perú.                                      |      Utiliza publicidad en línea, alianzas estratégicas y campañas promocionales para aumentar su visibilidad y atraer a nuevos usuarios y vendedores.       |                      Utiliza la plataforma de Facebook para promocionar el Marketplace, además de colaboraciones con vendedores destacados para aumentar la visibilidad.                      |                                   Utiliza estrategias de marketing global, entre las que resaltan los patrocinios de eventos deportivos y culturales.                                    |
+|  Productos y Servicios   |                                             Ofrece productos personalizados de camisetas deportivas de diferentes equipos, deportes y sectores.                                             |               Ofrece productos electrónicos hasta de consumo, así como servicios de logística, pagos en línea y herramientas para vendedores.                |                                      Ofrece artículos de segunda mano hasta productos nuevos, así como servicios locales como alquileres, clases y más.                                       |                    Ofrece una amplia gama de productos, incluyendo calzado deportivo, ropa, accesorios y equipos para una variedad de deportes y actividades físicas.                    |
+|     Precios y Costos     |                      Dentro de la plataforma se basa en la venta de camisetas que diversos proveedores podrán compartir, lo que el precio dependerá de cada proveedor.                      |         Al ser una plataforma que permite ventas de diversos productos, no existe ningún precio predeterminado al momento de realizar transacciones.         |                                 Del mismo modo que Mercado Libre, en Facebook Marketplace, no existe un precio definido para todos los productos que ofrecen.                                 |                 Adidas, dentro de su línea de camisetas ofrece distintos precios que varían entre los 30 dólares a 100 dólares, dependiendo del diseño, colección, etc.                  |
+| Canales de Distribución  |                     Nuestro canal de distribución será la interfaz web, así como la presencia en redes sociales, con el objetivo de llegar a nuestro segmento objetivo.                     |               A través de su plataforma digital, garantizando una experiencia de compra segura y conveniente para sus usuarios.transacciones.                |                                        Su principal canal es a través de la plataforma de Facebook, garantizando una experiencia de compra integrada.                                         |                           Distribuye sus productos a través de tiendas minoristas propias, tiendas en línea, distribuidores autorizados y socios comerciales.                            |
+|        Fortalezas        |           FitShirt es la única empresa la cual podrá permitir a los clientes, solicitar un posible diseño no producido anteriormente, lo que genera exclusividad y originalidad.            |                           Cuenta con tecnología avanzada, una sólida red de usuarios y una amplia oferta de productos y servicios.                           |                               Su principal fortaleza es la base de usuarios masiva y su integración con la red social Facebook, además de su facilidad de uso.                                |                              Adidas es una marca icónica, productos de alta calidad, innovación tecnológica en sus productos y envidiable presencia global.                              |
+|       Debilidades        |       Al ser una plataforma nueva dentro de un mercado renovado gracias a la digitalización, puede significar una debilidad la falta de respaldo económico frente a un posible éxito.       |                        Puede enfrentar desafíos como la competencia intensa en el mercado digital y posibles limitaciones logísticas.                        |              Puede enfrentar desafíos relacionados con la competencia de otras plataformas de compraventa en línea y la gestión de la calidad de los productos y transacciones.               | Puede enfrentar desafíos relacionados con la competencia en la industria del deporte y la moda, así como fluctuaciones en las tendencias de consumo y cambios en la demanda del mercado. |
+|      Oportunidades       | El incremente del comercio electrónico en la última década en nuestro país, representa una oportunidad para comerciar prendas deportivas, las cuales incrementan su demanda constantemente. | Tiene oportunidades de crecimiento en el mercado peruano debido al aumento del comercio electrónico y los cambios en los hábitos de consumo de los usuarios. |                             Debido a su base de usuarios activos, y la posibilidad de expandir sus servicios a nivel global representan una oportunidad latente.                              |                      Principalmente existen oportunidades de expansión, debido al desarrollo de productos innovadores y enfoque en la venta directa al consumidor.                       |
+|         Amenazas         | Debido al reciente nacimiento de la plataforma, la desconfianza que nacería a partir del desconocimiento del público sobre nuestra plataforma podría impedir el uso de nuestra plataforma.  |           Las amenazas incluyen la competencia fuerte de otras plataformas, cambios en la regulación gubernamental y posibles impactos económicos.           |                   Principalmente existe amenazas debido a lo sencillo que pueden expresarse las estafas, además que la competencia es intensa en el mercado de compraventa.                   |                                Cambios en las preferencias de los consumidores hacia marcas competidoras, incluyendo gigantes en la industria como Nike.                                 |
 
 </center>
 
@@ -653,72 +653,1346 @@ Sobre una posible aplicación
 
 ## 3.2. User Stories
 
-**Epic: Gestión de cuenta del usuario**
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Gestión de cuenta del usuario
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            01
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Daniel Chirinos
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Creación de cuenta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero crear una cuenta en la aplicación para acceder a las funcionalidades.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
 
-- Como usuario, quiero crear una cuenta en la aplicación para acceder a las funcionalidades.
-- Como usuario, quiero iniciar sesión con mi correo y contraseña para un acceso seguro.
-- Como usuario, quiero editar la información en mi perfil, como mi correo electrónico y contraseña para mantener mis datos personales actualizados.
-- Como usuario, quiero administrar los datos de mi tarjeta para realizar transacciones dentro de la aplicación.
-- Como usuario, quiero editar los datos de mis tarjetas registradas para que estén actualizados.
+<b>Scenario 1:</b> Registro exitoso <br/>
+Dado que el cliente quiere registrarse en la plataforma <br/>
+Cuando el cliente ingresa un correo electrónico válido y una contraseña segura <br/>
+Entonces el sistema procesará el registro <br/>
+Y creará una cuenta en la aplicación. <br/>
 
-**Epic: Visualización y gestión de diseños**
+<b>Scenario 2:</b> Correo electrónico en uso <br/>
+Dado que el cliente quiere registrarse en la plataforma <br/>
+Cuando el cliente ingresa un correo electrónico que ya está en uso <br/>
+Entonces el sistema no permitirá que el usuario complete el registro <br/>
+Y mostrará un mensaje de error indicando que ese correo ya ha sido registrado. <br/>
 
-- Como confeccionista, quiero visualizar la lista de diseños que he subido a la plataforma para hacer un seguimiento preciso.
-- Como confeccionista, quiero ser capaz de subir mis diseños para que puedan publicitarse y ser comprados por otros usuarios.
-- Como confeccionista, quiero editar mis publicaciones de camisetas para actualizarlas con el inventario actual.
-- Como confeccionista, quiero establecer el precio y la descripción de mis camisetas deportivas para tener una mayor atracción a clientes.
-- Como confeccionista, quiero ver la disponibilidad de las camisetas para no tener problemas por falta de stock y evitar desilusiones.
+<b>Scenario 3:</b> Contraseña no segura <br/>
+Dado que el cliente quiere registrarse en la plataforma <br/>
+Cuando el cliente ingrese una contraseña inválida <br/>
+Entonces el sistema no permitirá que el usuario complete el registro <br/>
+Y mostrará un mensaje de error indicando que el correo es muy poco seguro. <br/>
 
-**Epic: Manejo del catálogo de camisetas**
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
 
-- Como cliente, quiero ver las imágenes de las camisetas en alta resolución para poder realizar mi compra con más seguridad.
-- Como cliente, quiero recibir recomendaciones personalizadas basadas en mis compras anteriores y mis intereses deportivos para encontrar un posible producto a comprar.
-- Como cliente, quiero visualizar los diseños que ofrece la plataforma para elegir y realizar mi compra.
-- Como usuario, quiero poder filtrar las camisetas por tamaño, color, equipo, jugador, deporte o diseñador para encontrar la opción que mejor se adapte a mis preferencias.
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Gestión de cuenta del usuario
+        </td>
+    </tr>
+    <tr align="left">
+       <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            02
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Daniel Chirinos
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Inicio de sesión
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+Como usuario, quiero iniciar sesión con mi correo y contraseña para un acceso seguro.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
 
-**Epic: Diseño de camisetas**
+<b>Scenario 1:</b> Inicio de sesión exitoso <br/>
+Dado que el usuario ya se encuentra registrado en la plataforma <br/>
+Cuando ingresa su respectivo correo y contraseña <br/>
+Entonces el sistema permitirá al usuario iniciar sesión correctamente en la plataforma. <br/>
 
-- Como cliente, quiero escoger un lienzo de camiseta para personalizarla desde una base.
-- Como cliente, quiero escoger qué items agregarle a mi camiseta para personalizarla a mi gusto.
-- Como cliente, quiero deshacer
+<b>Scenario 02:</b> Inicio de sesión fallido </br>
+Dado que el usuario ya se encuentra registrado en la plataforma</br>
+Cuando ingresa un correo o contraseña incorrecta</br>
+Entonces el sistema no permitirá al usuario iniciar sesión </br>
+Y se mostrará un mensaje de error indicando que las creedenciales son incorrectas.
 
-**Epic: Contacto con el confeccionsta**
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
 
-- Como cliente, quiero ver un listado de confeccionistas para escoger el que más me agrade.
-- Como cliente, quiero contactar con un confeccionista para que confeccione la camiseta que previamente diseñé.
-- Como cliente, quiero firmar un contrato con el confeccionista que indique que puede vender libremente mi camiseta para poder tener ingresos económicos.
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización y gestión de diseños
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            03
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          George Aliaga
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Visualización de publicaciones
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como confeccionista, quiero visualizar la lista de camisetas que he subido a la plataforma para hacer un seguimiento preciso de mi inventario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
 
-**Epic: Manejo de la lista de favoritos**
+<b>Scenario 1: </b> Visualizar la lista completa de camisetas <br/>
+Dado que el usuario confeccionista ha subido una o más camisetas a la plataforma. <br/>
+Cuando accede a la página _Mis Camisetas_. <br/>
+Entonces se mostrará una lista completa de todas las camisetas que el confeccionista ha subido, incluyendo la información relevante. <br/>
 
-- Como cliente, quiero añadir a favoritos determinados diseños para que pueda acceder rápidamente a ellos.
-- Como cliente, quiero editar mi lista de favoritos para que esté actualizada con mis gustos
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
 
-**Epic: Reseñas y calificaciones**
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización y gestión de diseños
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            04
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Publicación de camisetas
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como confeccionista, quiero publicar las camisetas que estoy vendiendo para que puedan ser compradas por los usuarios.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
 
-- Como cliente, quiero ver reseñas y calificaciones de otros compradores para tomar una decisión de compra informada.
-- Como cliente, quiero escribir una reseña sobre el confeccionista que ha hecho mi camiseta para informar a los demás compradores sobre mi opinión.
-- Como cliente, quiero editar una reseña que hice previamente para dar una información adecuada.
+<b>Scenario 1:</b> Publicar una nueva camiseta exitosamente <br/>
+Dado que el usuario confeccionista quiere publicar una camiseta para la venta <br/>
+Y esté en el apartado de _Mis camisetas_ <br/>
+Cuando acceda a la opción de _Publicar camiseta_ <br/>
+E ingrese la información de la camiseta, como `nombre`, `descripción`, `talla` y `precio` <br/>
+Y presiones el botón _Aceptar_ <br/>
+Entonces la publicación se subirá a la aplicación.
 
-**Epic: Sistema de notificaciones**
+<b>Scenario 2:</b> Publicar una nueva camiseta erróneamente <br/>
+Dado que el usuario confeccionista quiere publicar una camiseta para la venta <br/>
+Y esté en el apartado de _Mis camisetas_ <br/>
+Cuando acceda a la opción de _Publicar camiseta_ <br/>
+E ingrese incorrectamente la información de la camiseta, como `nombre`, `descripción`, `talla` y `precio` <br/>
+Y presiones el botón _Aceptar_ <br/>
+Entonces se mostrará un mensaje de error
+Y la publicación no se subirá a la red.
 
-- Como confeccionista, quiero recibir notificaciones cuando un usuario compre mi camiseta para preparar la entrega a la brevedad posible.
-- Como cliente, quiero recibir notificaciones cuando realice una compra para hacer un seguimiento de la misma
+ </td>
+</tr>
+</tr>
 
-**Epic: Sistema de puntos de recompensas**
+</table>
+<br/>
 
-- Como cliente, quiero ganar puntos por mis compras de camisetas deportivas para obtener descuentos u ofertas exclusivas en futuras compras.
-- Como cliente, quiero canjear mis puntos de compra para disfrutar de los diferentes beneficios en las compras
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización y gestión de diseños
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            05
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Edición de publicaciones
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como confeccionista, quiero editar mis publicaciones de camisetas para actualizarlas con el inventario actual.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
 
-**Epic: Seguimiento del pedido**
+<b>Scenario 1: </b> Editar una camiseta publicada exitosamente<br/>
+Dado que el confeccionista ha publicado la camiseta que desea editar <br/>
+Cuando cceda a la opción _Editar_ <br/>
+E ingrese correctamente el campo de la camiseta a editar <br/>
+Entonces se mostrará un mensaje de "Edición satisfactoria" <br/>
+Y la publicación estará editada <br/>
 
-- Como cliente, quiero poder realizar un seguimiento de mi pedido desde el momento de la compra hasta la entrega para tener una noción del día de entrega.
-- Como cliente, quiero poder devolver o cambiar una camiseta fácilmente para mejorar mi experiencia de compra.
+<b>Scenario 2: </b> Editar una camiseta publicada erroneamente<br/>
+Dado que el confeccionista ha publicado la camiseta que desea editar <br/>
+Cuando cceda a la opción _Editar_ <br/>
+E ingrese incorrectamente algún campo de la camiseta a editar <br/>
+Entonces se mostrará un mensaje de "Error al momento de editar" <br/>
+Y la publicación no estará editada <br/>
 
-**Epic: Funcionalidades Premium**
+<b>Scenario 3: </b> Eliminar una camiseta publicada<br/>
+Dado que el confeccionista ha publicado la camiseta que desea eliminar <br/>
+Cuando cceda a la opción _Eliminar_ <br/>
+Y confirme la eliminación de la misma <br/>
+Entonces se mostrará un mensaje de "Eliminación exitosa" <br/>
+Y la publicación será eliminada <br/>
 
-- Como usuario, quiero mejorar mi cuenta a Premium para disfrutar de los diferentes beneficios.
-- Como confeccionista, quiero destacar mis publicaciones en las búsquedas para aumentar las posibilidades de que mis productos sean vendidos
-- Como cliente, quiero realizar más diseños personalizados de los que me permite normalmente, para personalizar las camisetas que yo desee
+ </td>
+</tr>
+</tr>
+
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización del catálogo de camisetas
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            06
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Catálogo de camisetas
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero visualizar las camisetas que ofrecen las diferentes empresas para elegir y realizar una compra informada.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Visualizar el catálogo de camisetas <br/>
+Dado que el cliente accede al apartado _Catálogo_ <br/>
+Cuando no se ha aplicado ningún filtro <br/>
+Entonces la aplicación muestra el catálogo de camisetas <br/>
+Y el cliente puede ver `Imagen`, `Nombre`, `Precio`, `Valoración` y `Confeccionista` de cada una. <br/>
+
+ </td>
+</tr>
+</tr>
+
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización del catálogo de camisetas
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            07
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Visualizar la descripción de cada camiseta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero visualizar la descripción y demás valores de cada camiseta para escoger la que más se acomode a lo que busco.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b>Visualizar la descripción completa de una camiseta <br/>
+Dado que el cliente se encuentra en el apartado de _Catálogo_ <br/>
+Cuando seleccione una camiseta específica <br/>
+Entonces accederá al apartado de _Detalles_ de la camiseta <br/>
+Y podrá visualizar la descripción de cada una, incluyendo `Nombre`, `Imágenes`, `Precio`, `Tallas`, `Valoración` y `Confeccionista`. <br/>
+
+<b>Scenario 2: </b>Visualizar las imágenes de la camiseta <br/>
+Dado que el cliente se encuentra en el apartado de _Catálogo_ <br/>
+Cuando seleccione una camiseta específica <br/>
+Entonces accederá al apartado de _Detalles_ de la camiseta <br/>
+Y la app mostrará una galería de imágenes de la camiseta. <br/>
+
+<b>Scenario 3: </b>Visualizar la información del vendedor <br/>
+Dado que el cliente se encunetra en el apartado de _Detalles_ de la camiseta
+Y quiere conocer más sobre el vendedor
+Cuando acceda a la sección de _Confeccionista_
+Entonces la aplicación mostrará la información del vendedor, incluyendo `Nombre`, `Foto`, `Camisetas publicadas`.
+
+ </td>
+</tr>
+</tr>
+
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización del catálogo de camisetas
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            08
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Filtrar camisetas
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero aplicar filtros para encontrar la opción que mejor se adapte a mis preferencias.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b>Filtrar las camisetas por el rango de precio <br/>
+Dado que el cliente se encuentra en el apartado de _Catálogo_ <br/>
+Y desea buscar camisetas en un rango de precio <br/>
+Cuando seleccione un rango de precio en el filtro <br/>
+Entonces la aplicación actualizará la lista <br/>
+Y solo mostrará las camisetas que coinciden con el rango de precio. <br/>
+
+<b>Scenario 2: </b>Filtrar por color<br/>
+Dado que el cliente se encuentra en el apartado de _Catálogo_<br/>
+Y desea buscar camisetas de un color específico<br/>
+Cuando seleccione el color en el filtro<br/>
+Entonces la aplicación actualizará la lista<br/>
+Y solo mostrará las camisetas que coinciden con el color seleccionado.<br/>
+
+<b>Scenario 3: </b>Filtrar por deporte<br/>
+Dado que el cliente se encuentra en el apartado de _Catálogo_<br/>
+Y desea buscar camisetas de un deporte<br/>
+Cuando seleccione el deporte en el filtro<br/>
+Entonces la aplicación actualizará la lista<br/>
+Y solo mostrará las camisetas que coinciden con el deporte seleccionado.<br/>
+
+ </td>
+</tr>
+</tr>
+
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Carrito de compras
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            09
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Diego Defilippi
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Visualización del carrito de compras
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero tener un carrito de compras en la página para agregar las camisetas que yo deseo comprar.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Visualizar el carrito de compras<br/>
+Dado que el cliente ha agregado items a su carrito de compras<br/>
+Y quiere visualizarlas<br/>
+Cuando seleccione el ícono de _Carrito de compras_<br/>
+Entonces se mostrará las camisetas que desea comprar, incluyendo `Imagen`, `Nombre`, `Precio`, `Cantidad`, `Subtotal` de cada una<br/>
+Y el `Total de la compra`.<br/>
+
+<b>Scenario 2: </b> Visualizar el carrito de compras vacío<br/>
+Dado que el cliente aún no ha agregado items a su carrito de compras<br/>
+Cuando seleccione el ícono de _Carrito de compras_<br/>
+Entonces se mostrará el mensaje de "Carrito vacío".<br/>
+
+<b>Scenario 3: </b>Carrito de compras persistente<br/>
+Dado que el cliente ha añadido items a su carrito<br/>
+Y comienza ha navegar por otras páginas de la aplicación web<br/>
+Cuando seleccione el ícono de _Carrito de compras_<br/>
+Entonces el sistema conserva las camisetas que el cliente había agregado anteriormente<br/>
+
+ </td>
+</tr>
+</tr>
+
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Carrito de compras
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            10
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Diego Defilippi
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Adición al carrito de compras
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero agregar camisetas a mi carrito de compras para tener un listado de lo que deseo comprar.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b>Agregar una camiseta al carrito<br/>
+Dado que el cliente ha encontrado una camiseta que desea comprar<br/>
+Cuando seleccione la opción de _Agregar a carrito_<br/>
+Entonces se actualiza la lista del carrito de compras con el nuevo item.<br/>
+
+<b>Scenario 2: </b>Agregar un monto de un camiseta al carrito<br/>
+Dado que el cliente ha encontrado una camiseta que desea comprar<br/>
+Y se encuentre en al sección de _Detalles_ de la camiseta <br/>
+Y modifique el número de camisetas de ese modelo <br/>
+Cuando seleccione la opción de _Agregar a carrito_<br/>
+Entonces se actualiza la lista del carrito de compras con el nuevo item y la cantidad que digitó.<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Carrito de compras
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            11
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Diego Defilippi
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Edición de cantidad en el carrito
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero modificar el número de camisetas que deseo comprar desde el carrito de compras para editar el número de ítems de una manera más cómoda. 
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Modificar la cantidad de una camiseta en el carrito</br>
+Dado que el cliente se encuentra en el apartado del carrito de compras</br>
+Y quiere modificar la cantidad de una camiseta en el carrito</br>
+Y esta camiseta no fue `Personalizada`</br>
+Cuando modifique la cantidad en el campo de cantidad</br>
+Entonces el sistema actualizará el `Subtotal` y el `Total` del carrito.</br>
+
+<b>Scenario 2: </b> Modificar la cantidad de una camiseta en el carrito por una inválida</br>
+Dado que el cliente se encuentra en el apartado del carrito de compras</br>
+Y quiere modificar la cantidad de una camiseta en el carrito</br>
+Y esta camiseta no fue `Personalizada`</br>
+Cuando modifique la cantidad en el campo de cantidad por una mayor al stock</br>
+Entonces el sistema no actualizará la cantidad digitada</br>
+Y volverá al valor antes establecido.</br>
+
+<b>Scenario 3: </b> Eliminar una camiseta del carrito</br>
+Dado que el cliente se encuentra en el apartado del carrito de compras</br>
+Y ya no quiere comprar una camiseta que ha añadido al carrito</br>
+Cuando seleccione la opción de _Eliminar_</br>
+Entonces el sistema actualizará la lista del carrito</br>
+Y también el `Total` de la compra.</br>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Carrito de compras
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            12
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Diego Defilippi
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Finalizar la lista
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero tener la opción de ir al apartado del pago de productos desde el carrito de compras para comprar mis productos.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b>Finalizar la compra<br/>
+Dado que el cliente ha agregado uno o más items a su carrito</br>
+Y desea terminar su compra<br/>
+Cuando seleccione la opción de _Comprar_<br/>
+Entonces el sistema redirige al cliente a la página de pago<br/>
+
+<b>Scenario 2: </b>Finalizar la compra de usuario no loggeado<br/>
+Dado que el cliente ha agregado uno o más items a su carrito</br>
+Y desea terminar su compra<br/>
+Y no ha creado cuenta en la aplicación <br/>
+Cuando seleccione la opción de _Comprar_<br/>
+Entonces el sistema redirige al cliente al apartado de inicio de sesión<br/>
+
+<b>Scenario 3: </b>Finalizar la compra con carrito vacío<br/>
+Dado que el cliente no ha agregado items a su carrito</br>
+Cuando seleccione la opción de _Comprar_<br/>
+Entonces la página web no se actualiza<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Compra de productos
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            13
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            tit
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero tener una sección donde se muestre un listado de los productos que agregué en mi carrito de compras para posteriormente realizar el pago
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Visualización de lista<br/>
+Dado que el cliente ha agregado uno o más items a su carrito</br>
+Y desea terminar su compra<br/>
+Cuando seleccione la opción de _Comprar_<br/>
+Entonces el sistema redirige al cliente a la _Página de pago_<br/>
+Y podrá visualizar los items que agregó al carrito de compras previamente incluyendo el `Nombre`, `Imagen`, `Cantidad`, `Subtotal` de cada camiseta, junto al `Total` de la compra<br/>
+Y también el método de pago a efectuar.</br>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Compra de productos
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            14
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Seguir comprando
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero tener la opción de retornar al catálogo de compras para seguir comprando.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b>Volver al catálogo <br/>
+Dado que el cliente se encuentra en el apartado de _Pago_<br/>
+Y desee seguir comprando<br/>
+Cuando seleccione la opción _Cancelar_<br/>
+Entonces el sistema lo redigirirá a la sección del _Catálogo_<br/>
+Y su carrito de compras se mantendrá intacto. <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Compra de productos
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            15
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Pago de los productos
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero colocar los datos de mi tarjeta para efectuar el pago de la compra.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b>Mostrar un formulario para ingresar los datos de la tarjeta <br/>
+Dado que el cliente se encuentra en el apartado de _Pagar_<br/>
+Cuando haya confirmado los items a comprar<br/>
+Entonces el sistema mostrará un formulario para que el cliente ingrese los datos de la tarjeta, incluyendo `Número de tarjeta`, `Nombre del titular`, `Fecha de vencimiento`, `CVV`.<br/>
+
+<b>Scenario 2: </b>Validación exitosa de los datos de la tarjeta <br/>
+Dado que el cliente ha ingresado correctamente los datos de la tarjeta<br/>
+Cuando seleccione la opnión de _Pagar_<br/>
+Entonces el sistema validará los datos<br/>
+Y se mostrará el mensaje de "Pago efectuado exitosamente" <br/>
+
+<b>Scenario 3: </b>Validación no exitosa de los datos de la tarjeta <br/>
+Dado que el cliente ha ingresado incorrectamente los datos de la tarjeta<br/>
+Cuando seleccione la opnión de _Pagar_<br/>
+Entonces el sistema validará los datos<br/>
+Y se mostrará el mensaje de "Pago no efectuado con exito" <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Diseño de camisetas
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            16
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Adición de texto a la camiseta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero agregarle texto a una camiseta del catálogo para que tenga un diseño apropiado para mí.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Visualizar opciones de personalización <br/>
+Dado que el usuario se encuentra en la sección de _Detalles_ de una camiseta<br/>
+Y está activada la opción de personalizar<br/>
+Cuando seleccione la opción _Personalizar_<br/>
+Entonces se visualizará un formulario donde se podrá agregar el `Nombre del jugador` y el `Dorsal`<br/>
+
+<b>Scenario 2: </b> Ingreso de datos de personalización <br/>
+Dado que el usuario se encuentra el formulario de _Personalización_<br/>
+Y haya agregado los datos del `Nombre del jugador` y el `Dorsal`
+Cuando seleccione la opción _Agregar al carrito_<br/>
+Entonces la camiseta personalizada se agregará a la lista del carrito de compras<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Diseño de camisetas
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            17
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Personalización de camiseta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero personalizar mi camiseta para que se ajuste a mi gusto
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b>Apartado de diseño <br/>
+Dado que el cliente quiere diseñar una camiseta <br/>
+Cuando seleccione el apartado de _Diseño_<br/>
+Entonces el cliente será redirigido a la sección de _Diseño_<br/>
+Y se mostrará los diferentes items a personalizar, incluyendo `Color`, `Diseño`, `Tipo` y `Escudo`
+
+<b>Scenario 2: </b>Selección de colores <br/>
+Dado que el cliente se encuentra en la sección de _Diseño_ <br/>
+Cuando se encuentre en el apartado de `Color`<br/>
+Entonces el cliente visualizará los tres tipos de colores a escoger, `Primario`, `Secundario` y `Terciario`<br/>
+Y también verá una gama de colores para cada tipo<br/>
+Y escogerá, para cada tipo, el color que más le guste.<br/>
+
+<b>Scenario 3: </b>Selección de tipo de camiseta <br/>
+Dado que el cliente se encuentra en la sección de _Diseño_ <br/>
+Cuando se encuentre en el apartado de `Tipo de camiseta`<br/>
+Entonces el cliente visualizará los tipos de camisetas, incluyendo `Football`, `Voleyball`, `Basketball`, etc <br/>
+Y podrá escoger el tipo que más le guste.<br/>
+
+<b>Scenario 4: </b>Selección de diseño <br/>
+Dado que el cliente se encuentra en la sección de _Diseño_ <br/>
+Cuando se encuentre en el apartado de `Diseño`<br/>
+Entonces el cliente visualizará los diseños de camisetas, incluyendo `Rayado`, `Cuadriculado`, etc <br/>
+Y podrá escoger el diseño que más le guste.<br/>
+
+<b>Scenario 5: </b>Selección de escudo <br/>
+Dado que el cliente se encuentra en la sección de _Diseño_ <br/>
+Cuando se encuentre en el apartado de `Escudo`<br/>
+Entonces el cliente visualizará los escudos para camiseta, incluyendo `FC Barcelona`, `Juventus`, `Alianza Lima`, etc <br/>
+Y podrá escoger el escudo que más le guste.<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Diseño de camisetas
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            18
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Guardar el diseño
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero guardar el diseño de mi camiseta para usarlo en un futuro.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b>Guardar exitosamente el diseño <br/>
+Dado que el cliente ha terminado con su diseño<br/>
+Y ha seleccionado todos los ítems<br/>
+Cuando seleccione la opción de _Guardar_<br/>
+Entonces el diseño será guardado en la cuenta del usuario <br/>
+
+<b>Scenario 2: </b>Guardado no exitoso del diseño <br/>
+Dado que el cliente ha terminado con su diseño<br/>
+Y no ha seleccionado todos los ítems<br/>
+Cuando seleccione la opción de _Guardar_<br/>
+Entonces se mostrará el mensaje de "Se debe llenar todos los campos"<br/>
+Y el diseño será guardado<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            19
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          George Aliaga
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Mejorar mi cuenta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero mejorar mi cuenta a Premium para disfrutar de los diferentes beneficios.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b>Acceder a la página de mejora de cuenta <br/>
+Dado que el usuario se ha creado una cuenta<br/>
+Y su cuenta es normal<br/>
+Cuando seleccione el apartado _Premium_<br/>
+Entonces el sistema lo redigirirá a la página de _Mejora de cuenta_<br/>
+Y visualizará los beneficios de la cuenta premium, incluyendo `Descripción`, `Imagen`, `Valor`
+
+<b>Scenario 2: </b>Seleccionar un plan de suscripción <br/>
+Dado que el usuario está en la página de _Mejora de cuenta_<br/>
+Y haya leído los beneficios de una cuenta premium <br/>
+Cuando seleccione _Mejorar cuenta_<br/>
+Entonces el sistema lo redigirirá al apartado de _Pagos_<br/>
+
+<b>Scenario 3: </b>Realizar el pago de la suscripción <br/>
+Dado que el usuario ha seleccionado la opción de _Mejorar cuenta_<br/>
+Y esté en el apartado de _Pagos_ <br/>
+Y visualizó un formulario para que el usuario ingrese los datos de la tarjeta, incluyendo Número de tarjeta, Nombre del titular, Fecha de vencimiento, CVV <br/>
+Cuando rellene el formulario<br/>
+Y seleccione la opción _Pagar_
+Entonces se procesará el pago exitosamente<br/>
+Y se mostrará el mensaje de "Transacción realizada con éxito" <br/>
+
+<b>Scenario 4: </b>Error en el pago <br/>
+Dado que el usuario rellení el formulario incorrectamente<br/>
+Cuando seleccione la opción _Pagar_
+Entonces se validarán los datos<br/>
+Y se mostrará el mensaje de "Error en la transacción" <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            20
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Daniel Chirinos
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Destacar publicaciones
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como confeccionista, quiero destacar mis publicaciones en las búsquedas para aumentar las posibilidades de que mis productos sean vendidos
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Destacar exitosamente una publicación<br/>
+Dado que el confeccionista tiene cuenta premium<br/>
+Y ha hecho una publicación de una camiseta<br/>
+Cuando seleccione la opción _Destacar_<br/>
+Entonces la publicación será destacada<br/>
+
+<b>Scenario 2: </b> Destacar no exitosamente una publicación<br/>
+Dado que el confeccionista tiene cuenta no premium<br/>
+Y ha hecho una publicación de una camiseta<br/>
+Cuando seleccione la opción _Destacar_<br/>
+Entonces será redirigido a la sección de _Premium_ para que mejore su cuenta<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Premium
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            21
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          *Falta*
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Diseñar más camiseta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero realizar más diseños personalizados de los que me permite normalmente, para personalizar las camisetas que yo desee
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Usuario no premium quiere diseñar más camisetas
+Dado que el usuario es no premium
+Y ya ha realizado un diseño de camiseta anteriormente en menos de un mes
+Cuando ingrese a la sección de _Diseño_
+Entonces será redirigido a la sección de _Premium_ para que mejore su cuenta<br/>
+
+<b>Scenario 2: </b> Usuario premium quiere diseñar más camisetas
+Dado que el usuario no premium
+Y ya ha realizado un diseño de camiseta anteriormente en menos de un mes
+Cuando ingrese a la sección de _Diseño_
+Podrá seguir haciendo el diseño de más camisetas<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
 
 ## 3.3. Impact Mapping
 
@@ -753,6 +2027,7 @@ Sobre una posible aplicación
 ### 4.3.2. Landing Page Mock-up
 
 <b>Página Principal </b>
+
 <td><img src="Images/LandingM1.png" alt="Imagen1 LandingMockUp"></td>
     <td>
 <b>Catálogo</b>
@@ -770,7 +2045,6 @@ Sobre una posible aplicación
     <br>
     
 [Ver diseño en Figma](https://www.figma.com/file/34WQCRohgfDxl5QPuWQxKc/FitShirt?type=design&node-id=0-1&mode=design&t=trCfJ8GunZpOGtwE-0)
-
 
 ## 4.4. Web Applications UX/UI Design
 
