@@ -387,9 +387,9 @@ Las estadísticas revelan un creciente interés por la personalización de produ
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-El mercado de prendas deportivas experimenta un crecimiento constante, proyectándose alcanzar un valor de 340 mil millones de dólares según Mordor Intelligence (2023). Sin embargo, persiste un problema significativo: la escasez de opciones accesibles y variadas para la compra y venta de camisetas deportivas personalizadas. Esta limitación se manifiesta en la oferta limitada de diseños y la dificultad para encontrar productos que reflejen la identidad y gustos del consumidor. Además, al buscar diseños personalizados, los usuarios enfrentan procesos costosos y complejos, con poca garantía de que sus visiones sean comprendidas completamente por los diseñadores.
+Nuestra iniciativa, FitShirt, surge en respuesta a una necesidad insatisfecha en el mercado de prendas deportivas personalizadas. A pesar del crecimiento constante de este sector, los consumidores se enfrentan a una oferta limitada y poco variada, así como a procesos tediosos y costosos al buscar diseños únicos y personalizados. Esta falta de opciones accesibles afecta a deportistas, entusiastas de la moda deportiva y diseñadores por igual, generando una brecha en la satisfacción de las necesidades del mercado.
 
-FitShirt busca resolver esta problemática ofreciendo una solución integral. La plataforma brinda un amplio catálogo de diseños y una herramienta de personalización intuitiva para que los usuarios creen camisetas únicas. Además, facilita la comunicación directa entre cliente y diseñador, promoviendo una comprensión más precisa de las necesidades del cliente y asegurando un resultado final satisfactorio. Con estas características, FitShirt tiene el potencial de transformar el mercado de las camisetas deportivas personalizadas, democratizando el acceso a productos únicos y satisfaciendo las demandas de una amplia comunidad de usuarios.
+Enfocándonos en esta problemática, nos preguntamos: ¿Cómo podemos transformar la experiencia de compra y diseño de camisetas deportivas personalizadas, ofreciendo una plataforma integral que satisfaga las necesidades de variedad, accesibilidad y confiabilidad de los usuarios? Con FitShirt, buscamos democratizar el acceso a productos personalizados, ofreciendo un amplio catálogo de diseños, una herramienta de personalización intuitiva y una conexión directa entre cliente y diseñador, todo dentro de una plataforma segura y fácil de usar. ¿Cómo podemos asegurar que FitShirt no solo aborde las necesidades del mercado actual, sino que también revolucione la forma en que se accede y se diseña ropa deportiva personalizada?
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -428,6 +428,59 @@ FitShirt busca resolver esta problemática ofreciendo una solución integral. La
 <td><img src="Images/Lean UX Canvas.png" alt="Imagen del canvas" width="1500"></td>
 
 # 1.3. Segmentos Objetivo
+
+<h3> Segmento #1: Empresas Mayoristas y Minoristas (Emprendedores), dirigidas al rubro del comercio de venta de ropa deportiva</h3>
+
+<b>Aspectos demográficos:</b>
+
+<ul>
+  <li> Sexo: Masculino y Femenino </li>
+  <li> Edades: Entre 18 y 55 años </li>
+  <li> Nivel Socioeconómico: Clases A y B (alta y media alta) </li>
+</ul> 
+
+<b>Aspectos geográficos:</b>
+
+<ul>
+  <li> Nacionalidad: Peruana </li>
+  <li> Zona Geográfica de Residencia: Urbana </li>
+  <li> Departamento: Lima Metropolitana </li>
+</ul>
+
+<b>Aspectos psicograficos:</b>
+
+<ul>
+  <li> Personas naturales o jurídicas que están preocupados por la naciente era digital en la actualidad, y que desean ser parte del avance. </li>
+  <li> Emprendedores que ven potencial en las ventas en línea y la creciente pasión por deportes como el futbol. </li>
+  <li> Empresas de venta al por mayor y menor de ropa deportiva que buscan incrementar sus ventas. </li>
+</ul>
+
+<br>
+<h3> Segmento #2: Jóvenes y/o adultos aficionados de los deportes</h3>
+
+<b>Aspectos demográficos:</b>
+
+<ul>
+  <li> Sexo: Masculo y Femenino </li>
+  <li> Edades: Entre 18 y 40 años </li>
+  <li> Nivel Socioeconómico: Clases A. B y C (Clase alta, clase media alta y clase media) </li>
+</ul> 
+
+<b>Aspectos geográficos:</b>
+
+<ul>
+  <li> Nacionalidad: Peruana </li>
+  <li> Zona Geográfica de Residencia: Urbana </li>
+  <li> Departamento: Lima Metropolitana </li>
+</ul>
+
+<b>Aspectos psicograficos:</b>
+
+<ul>
+  <li> Jóvenes apasionados que les gusta el deporte y practican el deporte. Ya sea fútbol o baloncesto, y desean lucir la camiseta de su equipo preferido. </li>
+  <li> Adultos que de la misma forma, son aficionados e incluso coleccionistas de camisetas deportivas, quienes aprecian con gran cariño por las circunstancias que aquellas camisetas puedan haber pasado. </li>
+  <li> Empresas de venta al por mayor y menor de ropa deportiva que buscan incrementar sus ventas. </li>
+</ul>
 
 <br><br>
 
