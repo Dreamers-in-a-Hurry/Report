@@ -2423,6 +2423,7 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 ### 4.3.1. Landing Page Wireframe
 
 <b>Página Principal </b>
+
 <td><img src="Images/LandingW1.png" alt="Imagen1 LandingWireframe"></td>
     <td>
 <b>Catálogo</b>
@@ -2437,7 +2438,7 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 <b>Contactanos</b>
 <td><img src="Images/LandingW5.jpg" alt="Imagen5 LandingWireframe"></td>
     <td>
-    
+
 ### 4.3.2. Landing Page Mock-up
 
 <b>Página Principal </b>
@@ -2450,14 +2451,14 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 <b>Diseña</b>
 <td><img src="Images/LandingM3.png" alt="Imagen3 LandingMockUp"></td>
     <td>
-<b>¿Quienes Somos? <b>
+<b>¿Quienes Somos? </b>
 <td><img src="Images/LandingM4.jpg" alt="Imagen4 LandingMockUp"></td>
     <td>
-<b>Contactanos <b>
+<b>Contactanos </b>
 <td><img src="Images/LandingM5.jpg" alt="Imagen5 LandingMockUp"></td>
     <td>
     <br>
-    
+  
 [Ver diseño en Figma](https://www.figma.com/file/34WQCRohgfDxl5QPuWQxKc/FitShirt?type=design&node-id=0-1&mode=design&t=trCfJ8GunZpOGtwE-0)
 
 ## 4.4. Web Applications UX/UI Design
@@ -2476,9 +2477,52 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 
 ### 4.6.1. Software Architecture Context Diagram
 
+<div align="center">
+  <img src="Images/domain_driven_architecture/context.diagram.png" alt="FitShirt context diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+
 ### 4.6.2. Software Architecture Container Diagrams
 
+<div align="center">
+  <img src="Images/domain_driven_architecture/container.diagram.png" alt="FitShirt container diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+Inventory Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.inventory.diagram.png" alt="Inventory component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+<br/>
+
+Catalogue Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.catalogue.diagram.png" alt="Catalogue component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+<br/>
+
+Shopping Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.shopping.diagram.png" alt="Shopping component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+<br/>
+
+Security Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.security.diagram.png" alt="Security component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+<br/>
+
+Users Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.user.diagram.png" alt="User component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+<br/>
 
 ## 4.7. Software Object-Oriented Design
 
