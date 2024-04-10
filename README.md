@@ -2478,10 +2478,14 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 ### 4.6.1. Software Architecture Context Diagram
 
 <div align="center">
-  <img src="Images/domain_driven_architecture/context.diagram.png" alt="FitShirt context diagram" style="margin: 5px 0;" width="900"/>
+  <img src="Images/domain_driven_architecture/context.diagram.png" alt="FitShirt context diagram" style="margin: 5px 0;" width="1100"/>
 </div>
 
 ### 4.6.2. Software Architecture Container Diagrams
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/container.diagram.png" alt="FitShirt container diagram" style="margin: 5px 0;" width="1100"/>
+</div>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
