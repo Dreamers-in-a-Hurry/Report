@@ -699,7 +699,49 @@ Luego de describir la propuesta de FitShirt, indicó que es una muy buena idea d
 
 <br/>
 
+<b>Entrevista 2</b><br/>
+
+- Nombre: Luis 
+- Apellidos: Pelaez
+- Edad: 23 años
+- Distrito: San Isidro
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/ETBdgHxXrqNNl4wj1-FoUUwBmmt8Xdha5DYI7IYT_RD4mA?e=NNS8iH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ">Entrevista</a>
+- Duración: 7 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews\Luis_Comerciante_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Luis nos comentó que empezó a trabajar en la venta de camisetas hace unos 2 o 3 años, ya que detectó que es algo popular en Perú, y comenzaron importando camisetas deportivas desde el extranjero. Nos cuenta que la cantidad de camisetas y el precio de las mismas dependen de la temporada actual, lo cual está relacionado con los eventos deportivos actuales o el cambio de indumentaria oficial de alguna selección conocida; en su mayoría trabaja con ropa deportiva de fútbol. Nos expresó que un momento difícil para su emprendimiento fue durante la pandemia, ya que las personas evitaban comprar cosas innecesarias al inicio de esta. Los pedidos de camisetas los realizan por internet y para promocionar su producto utilizan redes sociales como Instagram, en la que pagan por publicidad. En relación a la aplicación que le presentamos, considera que es una buena idea para aquellos negocios que no son grandes o que venden productos oficiales. En cuanto a la confección, considera que no es tarea fácil y no sabe cuán rentable sería realizarla si no es al por mayor, pero no le tiene miedo al desafío de la confección. Nos dijo que una buena funcionalidad de la aplicación sería que le brinde información estratégica para incrementar sus ventas, como un dashboard o tendencias de compras de las personas.
+
+<br/>
+
 <b>Segmento objetivo 2:</b> Clientes
+
+<b>Entrevista 2</b><br/>
+
+- Nombre: Miguel 
+- Apellidos: Rodríguez
+- Edad: 22 años
+- Distrito: Surco
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EQ0Fc7mvvIJPnvX-IJE6FEQB5318KeW378412mZRRRVpGg?e=w8gigt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ">Entrevista</a>
+- Duración: 4 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews\Miguel_Usuario_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Miguel nos comentó que cuando compra una camiseta deportiva, lo motiva que sea original; considera que este factor es importante además de que sea del equipo que le gusta. La mayoría de las camisetas que ha adquirido son de fútbol, pero también está interesado en comprar camisetas de béisbol. No las compra con mucha frecuencia, pero cada mes se da el gusto de comprarse una. Si le resulta difícil conseguir una camiseta original, usualmente espera a que baje su precio o adquiere una réplica a un precio más cómodo. En cuanto a la calidad del producto, considera que debe tener un color agradable, ser cómodo al tacto y fresca. Realiza sus compras por internet y realiza el pago por PayPal o con tarjetas de crédito. Nos dijo que un precio razonable para una camiseta deportiva podría rondar los 50 dólares.
+
+<br/>
 
 ### 2.2.3. Análisis de entrevistas
 
