@@ -330,7 +330,7 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 <tr>
   <tr align="center">
     <td rowspan="4">
-      <img src="Images/profile_images/Foto_Agustin.png" alt="Imagen del integrante Agustin" style="margin-bottom: 5px;" width="700"/>
+      <img src="Images/profile_images/Foto_Agustin.jpg" alt="Imagen del integrante Agustin" style="margin-bottom: 5px;" width="700"/>
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
