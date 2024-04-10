@@ -2492,35 +2492,35 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 Inventory Bounded Context Component Diagram
 
 <div align="center">
-  <img src="Images/domain_driven_architecture/component.inventory.png" alt="Inventory component diagram" style="margin: 5px 0;" width="1100"/>
+  <img src="Images/domain_driven_architecture/component.inventory.diagram.png" alt="Inventory component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
 <br/>
 
 Catalogue Bounded Context Component Diagram
 
 <div align="center">
-  <img src="Images/domain_driven_architecture/component.catalogue.png" alt="Catalogue component diagram" style="margin: 5px 0;" width="1100"/>
+  <img src="Images/domain_driven_architecture/component.catalogue.diagram.png" alt="Catalogue component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
 <br/>
 
 Shopping Bounded Context Component Diagram
 
 <div align="center">
-  <img src="Images/domain_driven_architecture/component.shopping.png" alt="Shopping component diagram" style="margin: 5px 0;" width="1100"/>
+  <img src="Images/domain_driven_architecture/component.shopping.diagram.png" alt="Shopping component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
 <br/>
 
 Security Bounded Context Component Diagram
 
 <div align="center">
-  <img src="Images/domain_driven_architecture/component.security.png" alt="Security component diagram" style="margin: 5px 0;" width="1100"/>
+  <img src="Images/domain_driven_architecture/component.security.diagram.png" alt="Security component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
 <br/>
 
 Users Bounded Context Component Diagram
 
 <div align="center">
-  <img src="Images/domain_driven_architecture/component.user.png" alt="User component diagram" style="margin: 5px 0;" width="1100"/>
+  <img src="Images/domain_driven_architecture/component.user.diagram.png" alt="User component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
 <br/>
 
