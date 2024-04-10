@@ -685,6 +685,7 @@ Luego de describir la propuesta de FitShirt, indicó que es una muy buena idea d
 ## 2.4. Ubiquitous Language
 
 <br> 
+
 Product: Las camisetas deportivas disponibles para la venta en la aplicación.
 
 Inventory: El stock de camisetas disponibles para la venta en la aplicación.
@@ -706,7 +707,6 @@ Notification: Mensajes enviados al cliente para proporcionar actualizaciones sob
 Customer Support: Asistencia proporcionada a los clientes con respecto a consultas, problemas o solicitudes relacionadas con sus pedidos.
 
 Review: Opinión proporcionada por los clientes sobre las camisetas o su experiencia de compra.
-
 <br>
 
 # Capítulo III: Requirements Specification
