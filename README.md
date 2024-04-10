@@ -306,133 +306,111 @@
 ### 4.4.1. Web Applications Wireframes
 <b>Página de Producto:</b>
 <div style="text-align: center;"><img width="300"src="Images\Wireframes Mobile\All_Itemsh.png" alt="Imagen1 ProductList"></div>
- 
 
 La siguiente Imagen permite al usuario encontrar las diferentes camisetas deportivas que son publicadas por los diversos comerciantes, aquí se les ofrece la opción de seleccionar el producto que quieran y filtrarlos en base a sus preferencias.
 
 <b>Cambio de Contraseña:</b>
 <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Change_Paswword.png" alt="Imagen2 CambioContraseña"></div>
- 
 
 La siguiente interfaz permite al usuario cambiar su contraseña actual con el fin de que pueda proporcionar la seguridad adecuada a su cuenta privada.
 
 <b>Confirmación de Compra:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Confirm_Cart_Purchase.png" alt="Imagen3 ConfirmaciónCompra"></div>
- 
 
 La siguiente interfaz permite al usuario reafirmar o cancelar la acción de compra realizada, esto permite evitar errores posteriores y mejora la experiencia de usuario.
 
 <b>Crear Diseño:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Create_Design.png" alt="Imagen4 CrearDiseño"></div>
- 
 
 La siguiente interfaz permite al usuario crear un diseño personalizado, en el que tiene la opción de escoger los colores primario, secundarios y terciarios, el diseño y el Escudo.
 
 <b>Personalizar Camisa Deportiva:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Custome_Item_Purchase.png" alt="Imagen5 PersonalizarCamisa"></div>
- 
 
 Esta interfaz permite al usuario personalizar su camisa deportiva añadiendole un nombre y un dorsal de su preferencia.
 
 <b>Editar Diseño:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Edit_Designh.png" alt="Imagen6 EditarDiseño"></div>
- 
 
 Esta interfaz Permite al Usuario ver y editar la descripción de un diseño, además de ir a la siguiente interfaz donde puede editar las imágenes.
 
 <b>Sección de Productos Filtrada:</b>
 <div style="text-align: center;"><img width="300" src="Images\Web_App_Img\Filter_Applied.png" alt="Imagen7 Sección de Productos Filtrada"></div>
- 
 
 Esta interfaz muestra los productos filtrados después que el usuario escogió los filtros de su preferencia y seleccionó el botón filtrar.
 
 <b>Imágenes de diseño:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Image_Design.png" alt="Imagen8 Imágenes de diseño"></div>
- 
 
 Esta interfaz permite al usuario visualizar las imágenes de un diseño, editarlas y confirmarlas.
 
 <b>Carga exitosa:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Image_Loaded.png" alt="Imagen9 Carga exitosa"></div>
- 
 
 Esta interfaz permite al usuario reconocer que la carga de imágenes fue exitosa.
 
 <b>Edición exitosa:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\ImageEdited.png" alt="Imagen10 Edición exitosa" ></div>
- 
 
 Esta interfaz permite al usuario reconocer que la edición de imágenes fue exitosa.
 
 <b>Insertar Imagen de Diseño:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Import_Image.png" alt="Imagen11 Insertar Imagen de Diseño"></div>
- 
 
 Esta interfaz permite al usuario ingresar las imágenes de un diseño.
 
 <b>Detalles de producto</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Item_purchase.png" alt="Imagen12 Detalles de producto"></div>
- 
 
 Esta interfaz permite al usuario ver los detalles de un producto, definir la talla y cantidad que desea para añadir al carrito de compras.
 
 <b>Edición de Perfil:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Edit_Profile.png" alt="Imagen13 Edición de Perfil"></div>
- 
 
 Esta interfaz permite que el usuario cambie la información de su perfil.
 
 <b>Interfaz de Login:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Login.png" alt="Imagen14 Interfaz de Login"></div>
- 
 
 Esta interfaz permite al usuario ingresar sus credenciales de acceso a la aplicación y en caso de no tener una cuenta, le permite ir a la interfaz de registro.
 
 <b>Ingreso de Método de Pago:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Metodo_Pago.png" alt="Imagen15 Ingreso de Método de Pago"></div>
- 
 
 Esta interfaz permite al usuario ingresar el método de pago para realizar compras en la aplicación.
 
 <b>Interfaz de Diseños:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\MyDesigns.png" alt="Imagen16 Interfaz de Diseños"></div>
- 
 
 Esta interfaz permite al comerciante o usuario visualizar sus diseños y mediante los iconos puedes decidir si quieren que se muestren al público para realizar su venta o si quiere que determinado producto tenga más visibilidad. También puede dirigirse a las interfaces para crear o subir diseños.
 
 <b>Comfirmación de Premium:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Premium_purchase.png" alt="Imagen17 Comfirmación de Premium"></div>
- 
 
 Esta interfaz permite rectificar que el usuario quiere hacer compra de la membresía premium.
 
 <b>Mejora a Premium:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Premium.png" alt="Imagen18 Mejora a Premium"></div>
- 
 
 Esta interfaz muestra los beneficios de adquirir la membresía premium y permite hacer compra de esta mediante un botón.
 
 <b>Interfaz de Perfil:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Profile.png" alt="Imagen19 Interfaz de Perfil"></div>
- 
 
 Meduante esta Interfaz el usuario podrá acceder a su perfil y será capaz de escoger si desea cambiar su contraseña, añadir un método de pago o editar su perfil.
 
 <b>Interfaz de Registro:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Register.png" alt="Imagen20 Interfaz de Registro"></div>
- 
 
 Mediante esta interfaz el usuario podrá crear su cuenta en nuestra aplicación, para que pueda gozar de nuestros servicios y funcionalidades.
 
 <b>Carrito de Compras Vacío:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Shop_Cart0.png" alt="Imagen21 Carrito de Compras Vacío"></div>
- 
 
 Esta interfaz muestra el carrito de compras sin ningún artículo para comprar.
 
 <b>Carrito de Compra:</b>
  <div style="text-align: center;"><img width="300" src="Images\Wireframes Mobile\Shop_Cart4.png" alt="Imagen22 Carrito de Compra"></div>
- 
 
 Esta interfaz es el de carrito de compra, acá puede ver todos los artículos que añadió para su copra posterior, con sus subtotales, cantidad, precio unitario y total. También puede eliminar items del carrito.
 
@@ -449,124 +427,104 @@ Esta interfaz permite al usuario subir un diseño que ya tenga hecho, aqui puede
  <div style="text-align: center;"><img src="Images\Web_App_Img\All_Items.png" alt="Imagen1 ProductList"></div>
  
 La siguiente Imagen permite al usuario encontrar las diferentes camisetas deportivas que son publicadas por los diversos comerciantes, aquí se les ofrece la opción de seleccionar el producto que quieran y filtrarlos en base a sus preferencias.
-<br><br>
+
 <b>Cambio de Contraseña:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Change_Paswword.png" alt="Imagen2 CambioContraseña"></div>
- 
 
 La siguiente interfaz permite al usuario cambiar su contraseña actual con el fin de que pueda proporcionar la seguridad adecuada a su cuenta privada.
 
 <b>Confirmación de Compra:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Confirm_Cart_Purchase.png" alt="Imagen3 ConfirmaciónCompra"></div>
- 
 
 La siguiente interfaz permite al usuario reafirmar o cancelar la acción de compra realizada, esto permite evitar errores posteriores y mejora la experiencia de usuario.
 
 <b>Crear Diseño:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Create_Design.png" alt="Imagen4 CrearDiseño"></div>
- 
 
 La siguiente interfaz permite al usuario crear un diseño personalizado, en el que tiene la opción de escoger los colores primario, secundarios y terciarios, el diseño y el Escudo.
 
 <b>Personalizar Camisa Deportiva:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Custome_Item_Purchase.png" alt="Imagen5 PersonalizarCamisa"></div>
- 
 
 Esta interfaz permite al usuario personalizar su camisa deportiva añadiendole un nombre y un dorsal de su preferencia.
 
 <b>Editar Diseño:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Edit_Designh.png" alt="Imagen6 EditarDiseño"></div>
- 
 
 Esta interfaz Permite al Usuario ver y editar la descripción de un diseño, además de ir a la siguiente interfaz donde puede editar las imágenes.
 
 <b>Sección de Productos Filtrada:</b>
 <div style="text-align: center;"><img src="Images\Web_App_Img\Filter_Applied.png" alt="Imagen7 Sección de Productos Filtrada"></div>
- 
 
 Esta interfaz muestra los productos filtrados después que el usuario escogió los filtros de su preferencia y seleccionó el botón filtrar.
 
 <b>Imágenes de diseño:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Image_Design.png" alt="Imagen8 Imágenes de diseño"></div>
- 
 
 Esta interfaz permite al usuario visualizar las imágenes de un diseño, editarlas y confirmarlas.
 
 <b>Carga exitosa:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Image_Loaded.png" alt="Imagen9 Carga exitosa"></div>
- 
 
 Esta interfaz permite al usuario reconocer que la carga de imágenes fue exitosa.
 
 <b>Edición exitosa:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\ImageEdited.png" alt="Imagen10 Edición exitosa" ></div>
- 
 
 Esta interfaz permite al usuario reconocer que la edición de imágenes fue exitosa.
 
 <b>Insertar Imagen de Diseño:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Import_Image.png" alt="Imagen11 Insertar Imagen de Diseño"></div>
- 
 
 Esta interfaz permite al usuario ingresar las imágenes de un diseño.
 
 <b>Detalles de producto</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Item_purchase.png" alt="Imagen12 Detalles de producto"></div>
- 
 
 Esta interfaz permite al usuario ver los detalles de un producto, definir la talla y cantidad que desea para añadir al carrito de compras.
 
 <b>Edición de Perfil:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Edit_Profile.png" alt="Imagen13 Edición de Perfil"></div>
- 
 
 Esta interfaz permite que el usuario cambie la información de su perfil.
 
 <b>Interfaz de Login:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Login.png" alt="Imagen14 Interfaz de Login"></div>
- 
 
 Esta interfaz permite al usuario ingresar sus credenciales de acceso a la aplicación y en caso de no tener una cuenta, le permite ir a la interfaz de registro.
 
 <b>Ingreso de Método de Pago:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Metodo_Pago.png" alt="Imagen15 Ingreso de Método de Pago"></div>
- 
 
 Esta interfaz permite al usuario ingresar el método de pago para realizar compras en la aplicación.
 
 <b>Interfaz de Diseños:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\MyDesigns.png" alt="Imagen16 Interfaz de Diseños"></div>
- 
 
 Esta interfaz permite al comerciante o usuario visualizar sus diseños y mediante los iconos puedes decidir si quieren que se muestren al público para realizar su venta o si quiere que determinado producto tenga más visibilidad. También puede dirigirse a las interfaces para crear o subir diseños.
 
 <b>Comfirmación de Premium:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Premium_purchase.png" alt="Imagen17 Comfirmación de Premium"></div>
- 
 
 Esta interfaz permite rectificar que el usuario quiere hacer compra de la membresía premium.
 
 <b>Mejora a Premium:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Premium.png" alt="Imagen18 Mejora a Premium"></div>
- 
 
 Esta interfaz muestra los beneficios de adquirir la membresía premium y permite hacer compra de esta mediante un botón.
 
 <b>Interfaz de Perfil:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Profile.png" alt="Imagen19 Interfaz de Perfil"></div>
- 
 
 Meduante esta Interfaz el usuario podrá acceder a su perfil y será capaz de escoger si desea cambiar su contraseña, añadir un método de pago o editar su perfil.
 
 <b>Interfaz de Registro:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Register.png" alt="Imagen20 Interfaz de Registro"></div>
- 
 
 Mediante esta interfaz el usuario podrá crear su cuenta en nuestra aplicación, para que pueda gozar de nuestros servicios y funcionalidades.
 
 <b>Carrito de Compras Vacío:</b>
  <div style="text-align: center;"><img src="Images\Web_App_Img\Shop_Cart0.png" alt="Imagen21 Carrito de Compras Vacío"></div>
- 
 
 Esta interfaz muestra el carrito de compras sin ningún artículo para comprar.
 
