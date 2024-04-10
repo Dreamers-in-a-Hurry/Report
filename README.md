@@ -569,7 +569,7 @@ Y la publicación será eliminada <br/>
             <b>Owner</b>
         </td>
         <td>
-          Agustin Maita
+          Agustin Sanchez
         </td>
     </tr>
         <tr align="left">
@@ -624,7 +624,7 @@ Y el cliente puede ver `Imagen`, `Nombre`, `Precio`, `Valoración` y `Confeccion
             <b>Owner</b>
         </td>
         <td>
-          Agustin Maita
+          Agustin Sanchez
         </td>
     </tr>
         <tr align="left">
