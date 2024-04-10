@@ -2438,7 +2438,7 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 <b>Contactanos</b>
 <td><img src="Images/LandingW5.jpg" alt="Imagen5 LandingWireframe"></td>
     <td>
-    
+
 ### 4.3.2. Landing Page Mock-up
 
 <b>Página Principal </b>
@@ -2451,14 +2451,14 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 <b>Diseña</b>
 <td><img src="Images/LandingM3.png" alt="Imagen3 LandingMockUp"></td>
     <td>
-<b>¿Quienes Somos? <b>
+<b>¿Quienes Somos? </b>
 <td><img src="Images/LandingM4.jpg" alt="Imagen4 LandingMockUp"></td>
     <td>
-<b>Contactanos <b>
+<b>Contactanos </b>
 <td><img src="Images/LandingM5.jpg" alt="Imagen5 LandingMockUp"></td>
     <td>
     <br>
-    
+  
 [Ver diseño en Figma](https://www.figma.com/file/34WQCRohgfDxl5QPuWQxKc/FitShirt?type=design&node-id=0-1&mode=design&t=trCfJ8GunZpOGtwE-0)
 
 ## 4.4. Web Applications UX/UI Design
@@ -2488,6 +2488,36 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 </div>
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+Inventory Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.inventory.png" alt="Inventory component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+
+Catalogue Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.catalogue.png" alt="Catalogue component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+
+Shopping Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.shopping.png" alt="Shopping component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+
+Security Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.security.png" alt="Security component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
+
+Users Bounded Context Component Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/component.user.png" alt="User component diagram" style="margin: 5px 0;" width="1100"/>
+</div>
 
 ## 4.7. Software Object-Oriented Design
 
