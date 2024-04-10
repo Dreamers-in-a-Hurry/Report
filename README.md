@@ -311,6 +311,145 @@
 
 ### 4.4.3. Web Applications Mock-ups
 
+<b>Página de Producto:</b>
+<td><img src="Images\Web_App_Img\All_Items.png" alt="Imagen1 ProductList"></td>
+    <td>
+La siguiente Imagen permite al usuario encontrar las diferentes camisetas deportivas que son publicadas por los diversos comerciantes, aquí se les ofrece la opción de seleccionar el producto que quieran y filtrarlos en base a sus preferencias.
+<br><br>
+<b>Cambio de Contraseña:</b>
+<td><img src="Images\Web_App_Img\Change_Paswword.png" alt="Imagen2 CambioContraseña"></td>
+    <td>
+
+La siguiente interfaz permite al usuario cambiar su contraseña actual con el fin de que pueda proporcionar la seguridad adecuada a su cuenta privada.
+
+<b>Confirmación de Compra:</b>
+<td><img src="Images\Web_App_Img\Confirm_Cart_Purchase.png" alt="Imagen3 ConfirmaciónCompra"></td>
+    <td>
+
+La siguiente interfaz permite al usuario reafirmar o cancelar la acción de compra realizada, esto permite evitar errores posteriores y mejora la experiencia de usuario.
+
+<b>Crear Diseño:</b>
+<td><img src="Images\Web_App_Img\Create_Design.png" alt="Imagen4 CrearDiseño"></td>
+    <td>
+
+La siguiente interfaz permite al usuario crear un diseño personalizado, en el que tiene la opción de escoger los colores primario, secundarios y terciarios, el diseño y el Escudo.
+
+<b>Personalizar Camisa Deportiva:</b>
+<td><img src="Images\Web_App_Img\Custome_Item_Purchase.png" alt="Imagen5 PersonalizarCamisa"></td>
+    <td>
+
+Esta interfaz permite al usuario personalizar su camisa deportiva añadiendole un nombre y un dorsal de su preferencia.
+
+<b>Editar Diseño:</b>
+<td><img src="Images\Web_App_Img\Edit_Designh.png" alt="Imagen6 EditarDiseño"></td>
+    <td>
+
+Esta interfaz Permite al Usuario ver y editar la descripción de un diseño, además de ir a la siguiente interfaz donde puede editar las imágenes.
+
+<b></b>
+<td>Sección de Productos Filtrada:<img src="Images\Web_App_Img\Filter_Applied.png" alt="Imagen7 Sección de Productos Filtrada"></td>
+    <td>
+
+Esta interfaz muestra los productos filtrados después que el usuario escogió los filtros de su preferencia y seleccionó el botón filtrar.
+
+<b>Imágenes de diseño:</b>
+<td><img src="Images\Web_App_Img\Image_Design.png" alt="Imagen8 Imágenes de diseño"></td>
+    <td>
+
+Esta interfaz permite al usuario visualizar las imágenes de un diseño, editarlas y confirmarlas.
+
+<b>Carga exitosa:</b>
+<td><img src="Images\Web_App_Img\Image_Loaded.png" alt="Imagen9 Carga exitosa"></td>
+    <td>
+
+Esta interfaz permite al usuario reconocer que la carga de imágenes fue exitosa.
+
+<b>Edición exitosa:</b>
+<td><img src="Images\Web_App_Img\ImageEdited.png" alt="Imagen10 Edición exitosa" ></td>
+    <td>
+
+Esta interfaz permite al usuario reconocer que la edición de imágenes fue exitosa.
+
+<b>Insertar Imagen de Diseño:</b>
+<td><img src="Images\Web_App_Img\Import_Image.png" alt="Imagen11 Insertar Imagen de Diseño"></td>
+    <td>
+
+Esta interfaz permite al usuario ingresar las imágenes de un diseño.
+
+<b>Detalles de producto</b>
+<td><img src="Images\Web_App_Img\Item_purchase.png" alt="Imagen12 Detalles de producto"></td>
+    <td>
+
+Esta interfaz permite al usuario ver los detalles de un producto, definir la talla y cantidad que desea para añadir al carrito de compras.
+
+<b>Edición de Perfil:</b>
+<td><img src="Images\Web_App_Img\Edit_Profile.png" alt="Imagen13 Edición de Perfil"></td>
+    <td>
+
+Esta interfaz permite que el usuario cambie la información de su perfil.
+
+<b>Interfaz de Login:</b>
+<td><img src="Images\Web_App_Img\Login.png" alt="Imagen14 Interfaz de Login"></td>
+    <td>
+
+Esta interfaz permite al usuario ingresar sus credenciales de acceso a la aplicación y en caso de no tener una cuenta, le permite ir a la interfaz de registro.
+
+<b>Ingreso de Método de Pago:</b>
+<td><img src="Images\Web_App_Img\Metodo_Pago.png" alt="Imagen15 Ingreso de Método de Pago"></td>
+    <td>
+
+Esta interfaz permite al usuario ingresar el método de pago para realizar compras en la aplicación.
+
+<b>Interfaz de Diseños:</b>
+<td><img src="Images\Web_App_Img\MyDesigns.png" alt="Imagen16 Interfaz de Diseños"></td>
+    <td>
+
+Esta interfaz permite al comerciante o usuario visualizar sus diseños y mediante los iconos puedes decidir si quieren que se muestren al público para realizar su venta o si quiere que determinado producto tenga más visibilidad. También puede dirigirse a las interfaces para crear o subir diseños.
+
+<b>Comfirmación de Premium:</b>
+<td><img src="Images\Web_App_Img\Premium_purchase.png" alt="Imagen17 Comfirmación de Premium"></td>
+    <td>
+
+Esta interfaz permite rectificar que el usuario quiere hacer compra de la membresía premium.
+
+<b>Mejora a Premium:</b>
+<td><img src="Images\Web_App_Img\Premium.png" alt="Imagen18 Mejora a Premium"></td>
+    <td>
+
+Esta interfaz muestra los beneficios de adquirir la membresía premium y permite hacer compra de esta mediante un botón.
+
+<b>Interfaz de Perfil:</b>
+<td><img src="Images\Web_App_Img\Profile.png" alt="Imagen19 Interfaz de Perfil"></td>
+    <td>
+
+Meduante esta Interfaz el usuario podrá acceder a su perfil y será capaz de escoger si desea cambiar su contraseña, añadir un método de pago o editar su perfil.
+
+<b>Interfaz de Registro:</b>
+<td><img src="Images\Web_App_Img\Register.png" alt="Imagen20 Interfaz de Registro"></td>
+    <td>
+
+Mediante esta interfaz el usuario podrá crear su cuenta en nuestra aplicación, para que pueda gozar de nuestros servicios y funcionalidades.
+
+<b>Carrito de Compras Vacío:</b>
+<td><img src="Images\Web_App_Img\Shop_Cart0.png" alt="Imagen21 Carrito de Compras Vacío"></td>
+    <td>
+
+Esta interfaz muestra el carrito de compras sin ningún artículo para comprar.
+
+<b>Carrito de Compra:</b>
+<td><img src="Images\Web_App_Img\Shop_Cart4.png" alt="Imagen22 Carrito de Compra"></td>
+    <td>
+
+Esta interfaz es el de carrito de compra, acá puede ver todos los artículos que añadió para su copra posterior, con sus subtotales, cantidad, precio unitario y total. También puede eliminar items del carrito.
+
+<b>Subir Diseño:</b>
+<td><img src="Images\Web_App_Img\Upload_Design.png" alt="Imagen23 Subir Diseño"></td>
+    <td>
+
+Esta interfaz permite al usuario subir un diseño que ya tenga hecho, aqui puede agregar su descripción del producto e ir a la siguiente interfaz para insertar imágenes.
+
+[Ver diseño en Figma](https://www.figma.com/file/rAcxltmkjSIrKyjWHsL1dL/WEB%2FMOBILE-FITSHIRT?type=design&node-id=0%3A1&mode=design&t=5XHQaKGutqJZ8IPJ-1)
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
