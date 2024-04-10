@@ -2423,6 +2423,7 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 ### 4.3.1. Landing Page Wireframe
 
 <b>Página Principal </b>
+
 <td><img src="Images/LandingW1.png" alt="Imagen1 LandingWireframe"></td>
     <td>
 <b>Catálogo</b>
@@ -2475,6 +2476,10 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
+
+<div align="center">
+  <img src="Images/domain_driven_architecture/context.diagram.png" alt="FitShirt context diagram" style="margin: 5px 0;" width="900"/>
+</div>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
