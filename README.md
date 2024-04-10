@@ -451,6 +451,18 @@ Esta interfaz permite al usuario subir un diseño que ya tenga hecho, aqui puede
 [Ver diseño en Figma](https://www.figma.com/file/rAcxltmkjSIrKyjWHsL1dL/WEB%2FMOBILE-FITSHIRT?type=design&node-id=0%3A1&mode=design&t=5XHQaKGutqJZ8IPJ-1)
 
 ### 4.4.4. Web Applications User Flow Diagrams
+<td><img src="Images\Web_App_User_Flow_Diagrams\F1.PNG" alt="Imagen1"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F2.PNG" alt="Imagen2"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F3.PNG" alt="Imagen3"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F4.PNG" alt="Imagen4"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F5.PNG" alt="Imagen5"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F6.PNG" alt="Imagen6"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F7.PNG" alt="Imagen7"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F8.PNG" alt="Imagen8"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F9.PNG" alt="Imagen9"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F10.PNG" alt="Imagen10"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F11.PNG" alt="Imagen11"></td>
+<td><img src="Images\Web_App_User_Flow_Diagrams\F12.PNG" alt="Imagen12"></td>
 
 ## 4.5. Web Applications Prototyping
 
