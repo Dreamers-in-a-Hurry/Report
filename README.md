@@ -722,6 +722,27 @@ Luis nos comentó que empezó a trabajar en la venta de camisetas hace unos 2 o 
 
 <b>Segmento objetivo 2:</b> Clientes
 
+<b>Entrevista 1</b><br/>
+
+- Nombre: Salvador Hugo 
+- Apellidos: Roncero Zarancilla
+- Edad: 21 años
+- Distrito: Lima
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EQlOdKvoDfxEjpp4CNfofcMBBhyuYqFcGxFuPPgIXbFd1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=bb429a" >Entrevista</a>
+- Duración: 16:18 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews/Salvador_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Salvador nos comenta que su motivación de las camisetas es la calidad de tela, los colores y la combinación de estilos que sacan las marcas deportivas. Considera que el factor más importante en las camisetas son los colores. Para el es importante de que las camisetas sean sueltas, transpirables y que tengan flexibilidad. Le gustaría que las camisetas tengan una mejor previsualización a la hora de comprar. Tambien le parece buena la idea de personalizar su propia camiseta y facturar de la misma a otros clientes. 
+
+<br/>
+
 <b>Entrevista 2</b><br/>
 
 - Nombre: Miguel 
