@@ -95,6 +95,8 @@
   - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  
 
 ### [Capítulo III: Requirements Specification](#capc3adtulo-iii-requirements-specification-1)
 
@@ -680,7 +682,32 @@ Luego de describir la propuesta de FitShirt, indicó que es una muy buena idea d
 
 ### 2.3.5. As-is Scenario Mapping
 
-<br><br>
+## 2.4. Ubiquitous Language
+
+<br> 
+Product: Las camisetas deportivas disponibles para la venta en la aplicación.
+
+Inventory: El stock de camisetas disponibles para la venta en la aplicación.
+
+Customer: Personas que navegan y potencialmente compran camisetas a través de la aplicación.
+
+Order: Una solicitud realizada por un cliente para comprar una o varias camisetas.
+
+Shopping Cart: Una colección temporal de camisetas elegidas por el cliente para su posible compra.
+
+Checkout: La transferencia de fondos del cliente a la aplicación a cambio de las camisetas compradas.
+
+Payment: El proceso de entrega de las camisetas compradas a la dirección especificada por el cliente.
+
+Discount: Una reducción en el precio de una camiseta, generalmente ofrecida a través de promociones o ofertas especiales.
+
+Notification: Mensajes enviados al cliente para proporcionar actualizaciones sobre sus pedidos, como confirmación del pedido, estado de envío, etc.
+
+Customer Support: Asistencia proporcionada a los clientes con respecto a consultas, problemas o solicitudes relacionadas con sus pedidos.
+
+Review: Opinión proporcionada por los clientes sobre las camisetas o su experiencia de compra.
+
+<br>
 
 # Capítulo III: Requirements Specification
 
