@@ -433,7 +433,7 @@ Entonces se mostrará una lista completa de todas las camisetas que el confeccio
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Agustin Sanchez
         </td>
     </tr>
         <tr align="left">
@@ -499,7 +499,7 @@ Y la publicación no se subirá a la red.
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Agustin Sanchez
         </td>
     </tr>
         <tr align="left">
@@ -569,7 +569,7 @@ Y la publicación será eliminada <br/>
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Agustin Maita
         </td>
     </tr>
         <tr align="left">
@@ -624,7 +624,7 @@ Y el cliente puede ver `Imagen`, `Nombre`, `Precio`, `Valoración` y `Confeccion
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Agustin Maita
         </td>
     </tr>
         <tr align="left">
