@@ -327,6 +327,39 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
     </td>
   </tr>
 
+<tr>
+  <tr align="center">
+    <td rowspan="4">
+      <img src="Images/profile_images/Foto_Agustin.png" alt="Imagen del integrante Agustin" style="margin-bottom: 5px;" width="700"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Agustin Alejandro Sanchez Maita
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U20181A313
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Me llamo Agustin, tengo 23 años y me encuentro en el septimo ciclo de la carrera de Ingeniería de Software. Considero que soy una persona responsable y que tiene ganas de trabajar en equipo con el fin de completar el presente proyecto. Espero aprender lo necesario junto a mi equipo para presentar una aplicación de calidad.
+    </td>
+  </tr>
+
 </table>
 
 ## 1.2. Solution Profile
