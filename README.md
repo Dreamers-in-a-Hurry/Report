@@ -2494,30 +2494,35 @@ Inventory Bounded Context Component Diagram
 <div align="center">
   <img src="Images/domain_driven_architecture/component.inventory.png" alt="Inventory component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
+<br/>
 
 Catalogue Bounded Context Component Diagram
 
 <div align="center">
   <img src="Images/domain_driven_architecture/component.catalogue.png" alt="Catalogue component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
+<br/>
 
 Shopping Bounded Context Component Diagram
 
 <div align="center">
   <img src="Images/domain_driven_architecture/component.shopping.png" alt="Shopping component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
+<br/>
 
 Security Bounded Context Component Diagram
 
 <div align="center">
   <img src="Images/domain_driven_architecture/component.security.png" alt="Security component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
+<br/>
 
 Users Bounded Context Component Diagram
 
 <div align="center">
   <img src="Images/domain_driven_architecture/component.user.png" alt="User component diagram" style="margin: 5px 0;" width="1100"/>
 </div>
+<br/>
 
 ## 4.7. Software Object-Oriented Design
 
