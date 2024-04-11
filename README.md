@@ -3609,83 +3609,115 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
      </tr>
      <tr>
-       <td rowspan="3">US01</td>
-       <td rowspan="3">Visualizar la descripción de la aplicación</td>
+       <td rowspan="7">US01</td>
+       <td rowspan="7">Visualizar la descripción de la aplicación</td>
        <td>T01</td>
        <td>Estructura de las secciones</td>
        <td>Programar la estructua HTML de las secciones </td>
-       <td>0.5</td>
-       <td>###</td>
+       <td>0.1</td>
+       <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
     <tr>
        <td>T02</td>
        <td>Agregar CSS general</td>
        <td>Asignar stilos generales para la página</td>
-       <td>0.5</td>
-       <td>###</td>
+       <td>0.1</td>
+       <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
-     <tr>
+    <tr>
        <td>T03</td>
-       <td>Agregar CSS específicos</td>
-       <td>Dar formato y estilo a cada sección de la página </td>
-       <td>1</td>
-       <td>###</td>
+       <td>Agregar Hero section</td>
+       <td>Agregar html y css al Hero section </td>
+       <td>0.5</td>
+       <td>Agustin Sanchez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T04</td>
+       <td>Agregar Catalogue section</td>
+       <td>Agregar html y css al Catalogue section </td>
+       <td>0.5</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T05</td>
+       <td>Agregar Designing section</td>
+       <td>Agregar html y css al Designing section </td>
+       <td>0.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T06</td>
+       <td>Agregar About section</td>
+       <td>Agregar html y css al About section </td>
+       <td>0.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T07</td>
+       <td>Agregar Footer section</td>
+       <td>Agregar html y css al Footer section </td>
+       <td>0.5</td>
+       <td>Agustin Sanches</td>
        <td>Done</td>
     </tr>
     <tr>
        <td rowspan="2">US02</td>
        <td rowspan="2">Contacto como visitante</td>
-       <td>T04</td>
+       <td>T08</td>
        <td>Estructura del formulario de contacto</td>
        <td>Programar la estructura del formulario en HTML</td>
        <td>0.5</td>
-       <td>###</td>
+       <td>falta</td>
        <td>Done</td>
     </tr>
     <tr>
-       <td>T05</td>
+       <td>T09</td>
        <td>Agregar CSS formulario</td>
-       <td>Agregar stylos al formulario</td>
+       <td>Agregar stilos al formulario</td>
        <td>0.5</td>
-       <td>###</td>
+       <td>falta</td>
        <td>Done</td>
     </tr>
    <tr>
        <td rowspan="2">US03</td>
        <td rowspan="2">Landing Page intuitiva</td>
-       <td>T06</td>
+       <td>T10</td>
        <td>Estructura Navbar</td>
        <td>Crear HTML del navbar con direccionamiento a secciones</td>
        <td>0.5</td>
-       <td>###</td>
+       <td>falta</td>
        <td>Done</td>
     </tr>
     <tr>
-       <td>T07</td>
+       <td>T11</td>
        <td>Estilos Navbar</td>
-       <td>Asignar stilos generales para la página</td>
+       <td>Asignar stilos al navbar</td>
        <td>0.5</td>
-       <td>###</td>
+       <td>falta</td>
        <td>Done</td>
     </tr>
     <tr>
        <td rowspan="2">US04</td>
        <td rowspan="2">Landing Page responsiva</td>
-       <td>T08</td>
+       <td>T12</td>
        <td>Main responsive</td>
        <td>Agregar CSS media queries a las diferentes secciones del main</td>
        <td>1.5</td>
-       <td>###</td>
+       <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
     <tr>
-       <td>T09</td>
+       <td>T13</td>
        <td>Navbar responsive</td>
        <td>Agregar CSS media queries al navbar</td>
        <td>0.5</td>
-       <td>###</td>
+       <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
 </table>
@@ -3743,57 +3775,57 @@ Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-i
     </tr>
     <tr>
         <td>feature/hero-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>f310ccc</td>
+        <td>Agustín Sanchez</td>
         <td>feat: added hero html</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/hero-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>6b181628</td>
+        <td>Agustín Sanchez</td>
         <td>feat: added hero css</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>2af2b26</td>
+        <td>George Aliaga</td>
         <td>feat: added catalogue html</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>653d300</td>
+        <td>George Aliaga</td>
         <td>feat: added catalogue css</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/designing-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>c863f9f</td>
+        <td>Daniel Chirinos</td>
         <td>feat: added designing html</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/designing-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>a66eaab</td>
+        <td>Daniel Chirinos</td>
         <td>feat: added designing css</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/about-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>0676103</td>
+        <td>Daniel Chirinos</td>
         <td>feat: added about html</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/about-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>7d1e198</td>
+        <td>Daniel Chirinos</td>
         <td>feat: added about css</td>
         <td>11/04/2024</td>
     </tr>
@@ -3813,15 +3845,15 @@ Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-i
     </tr>
     <tr>
         <td>feature/footer</td>
-        <td>###</td>
-        <td>###</td>
+        <td>80851d2</td>
+        <td>Agustín Sanchez</td>
         <td>feat: added footer html</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/footer</td>
-        <td>###</td>
-        <td>###</td>
+        <td>a762455</td>
+        <td>Agustín Sanchez</td>
         <td>feat: added footer css</td>
         <td>11/04/2024</td>
     </tr>
