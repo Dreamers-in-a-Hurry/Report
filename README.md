@@ -717,7 +717,94 @@ Enlance del Prototipo: https://www.figma.com/proto/NgftH2JsrQBU8XiT7UGm3w/MOBILE
 
 ### 5.1.1. Software Development Environment Configuration
 
+<table border="1">
+
+  <tr>
+    <td>Project Management</td>
+    <td>Microsoft 365<br>Alojamiento de los videos de entrevistas, explicación de prototipos y otros relacionados al proyecto</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Discord<br>Plataforma de mensajería instantánea donde se llevaron a cabo las reuniones, repartición de tarea y desarrollo del proyecto colaborativo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Whatsapp<br>Aplicación de mensajería instantánea donde se realizaron recordatorios de las reuniones.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Trello<br>Software de administración Y gestión de proyectos que se utilizó para establecer y designar las tareas</td>
+  </tr>
+  <tr>
+    <td>Requirements Management</td>
+    <td>Structurizr<br>Structurizr es una herramienta de modelado y documentación que permitió el desarrollo de los diagramas C4</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vertabelo<br>Herramienta de diseño para el modelado de diagrama de bases de datos.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>LucidChart<br>Herramienta de diseño para el modelado de diagramas UML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Miro<br>Herramienta de diseño para la creación de los As-Is y To-Be Scenario Mapping</td>
+  </tr>
+  <tr>
+    <td>Product UX/UI Design</td>
+    <td>Figma<br>Herramienta que se utilizó para la creación de wireframes, mockups y prototipos.</td>
+  </tr>
+  <tr>
+    <td>Software Development</td>
+    <td>Git<br>Es un software de control de versiones para los trabajos en equipos y confiabilidad del desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Node.js<br>Node.js es un entorno de ejecución de JavaScript del lado del servidor, que permite desarrollar aplicaciones web escalables y de alto rendimiento fuera del navegador.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>GitHub<br>Sistema de control de versiones Git.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>HTML5<br>Lenguaje de etiquetas, utilizado para la estructuración y la presentación de contenido.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CSS<br>CSS es un lenguaje utilizado para estilizar y dar formato a documentos HTML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>JavaScript<br>JavaScript es un lenguaje de programación de alto nivel, interpretado y multi-paradigma, utilizado para crear interactividad en páginas web.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>VScode<br>Es un editor de código fuente con extensiones que ayudan al desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vue.js Framework<br>Framework basado en Single Page Applications para el desarrollo de frontend</td>
+  </tr>
+  <tr>
+    <td>Software Deployment</td>
+    <td>Github Pages<br>Plataforma que nos facilitó realizar el despliegue de nuestro landing page de manera rápida y práctica.</td>
+  </tr>
+</table>
+
+
 ### 5.1.2. Source Code Management
+
+Utilizamos la metodología de git flow con finalidad es tener un control mayor sobre la gestión del proyecto, avanzar el proyecto de forma simultanea tanto como en la implementación del la aplicación y creación del reporte.
+
+Esto nos permitio separar el proyecto en la rama principal (main) en la que se encuentra la versión presentable del proyecto, que a la vez no cuenta con errores. También tenemos la rama secundario (develop) que sirve para unificar los cambios de las demás ramas. También contamos con más branches una para determinadas fuincionalidades amplias de la aplicación y una para cada chapter del reporte.
+
+ <div align="center"><img src="Images\Source_Code_Management_Network\N1.PNG" alt="Imagen1"></div>
+ <div align="center"><img src="Images\Source_Code_Management_Network\N2.PNG" alt="Imagen2"></div>
+ <div align="center"><img src="Images\Source_Code_Management_Network\N3.PNG" alt="Imagen3"></div>
+ <div align="center"><img src="Images\Source_Code_Management_Network\N4.PNG" alt="Imagen4"></div>
+
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
