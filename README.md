@@ -247,6 +247,22 @@
 
 ### 4.1.1. General Style Guidelines
 
+<b>Branding:</b> El logo de nuestro proyecto está representado por su nombre y un icono de una camiseta para representar
+lo que ofrece nuestra aplicación.
+
+Se decidio que las letras del nombre sean de dos colores.
+
+<td><img src="Images/SguideLines/logo.png" alt="logo"></td>
+
+<b>Typography:</b> Nuestro logotipo presenta la fuente Xpress Rounded, que refleja un estilo moderno y amigable, encapsulando así
+la naturaleza innovadora y entretenida de nuestra aplicación. Para mantener coherencia con las imágenes de señas que utilizaremos, optamos por letras blancas, asegurando que nuestra marca sea inclusiva y que ningún usuario se sienta discriminado.
+
+En particular, las letras 'Fit' se destacan en negro, mientras que 'Shirt' se presenta en un vibrante tono azul. Esta combinación de colores refuerza la identidad visual de FitShirt, añadiendo un toque de dinamismo y frescura a nuestro logotipo.
+
+<b>Colores:</b> Los colores de nuestra página fueron seleccionados con el objetivo de ofrecer una experiencia visualmente agradable para el usuario, al mismo tiempo que transmiten sensaciones de calma y equilibrio. La combinación de blanco y gris aporta un aspecto positivo y único a nuestra marca, creando una atmósfera de serenidad y sofisticación.
+
+<td><img src="Images/SguideLines/colores.png" alt="colores"></td>
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
