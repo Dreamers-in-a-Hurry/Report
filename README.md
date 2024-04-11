@@ -720,6 +720,29 @@ Luis nos comentó que empezó a trabajar en la venta de camisetas hace unos 2 o 
 
 <br/>
 
+<br/>
+
+<b>Entrevista 3</b><br/>
+
+- Nombre: Fabrizzio
+- Apellidos: Cornejo
+- Edad: 23 años
+- Distrito: San Juan de Miraflores
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/EWxr78YTglJNplgnC44eEs0BwlZFUKIavUdf0UdOMoKe7w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7Tkag2">Entrevista</a>
+- Duración: 9 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews\Fabrizzio_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Fabrizzio nos cuenta que lleva trabajando como vendedor de ropa deportiva desde el 2021, a pesar de trabaje y estudie al dia de hoy, reconoce que gran parte de la sustentabilidad de su trabajo se debe a las redes sociales y su influencia para poder crecer. De la misma forma, nos comenta que las camisetas suele tener precios variados que van a partir de 40 soles para arriba, siendo el promedio de precios el más vendido, debido al favor precio-calidad. Referente a la confección, nos comenta que el trabaja en compañia de su pariente maternal, quien se encarga de la confección, lo cual simboliza un cliente potencial espectacular para nuestra empresa. En adición, Fabrizzio nos menciona que la confianza con el cliente es la base del negocio, por lo que nos recomiendo enfocar la seguridad dentro de nuestra plataforma.
+
+<br/>
+
 <b>Segmento objetivo 2:</b> Clientes
 
 <b>Entrevista 1</b><br/>
