@@ -843,12 +843,12 @@ Henry mostró un fuerte interés en camisetas deportivas, especialmente las rela
 
 Usuario:
 <div align="center">
-  <img src="AsIsUser.png" alt="As_Is_Usuario" style="margin: 10px 0;" width="90%"/>
+  <img src="Images\AsIsUser.png" alt="As_Is_Usuario" style="margin: 10px 0;" width="90%"/>
 </div>
 
 Confeccionista:
 <div align="center">
-  <img src="AsIsSeller.png" alt="As_Is_Seller" style="margin: 10px 0;" width="90%"/>
+  <img src="Images\AsIsSeller.png" alt="As_Is_Seller" style="margin: 10px 0;" width="90%"/>
 </div>
 
 ## 2.4. Ubiquitous Language
