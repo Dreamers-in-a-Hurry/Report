@@ -189,7 +189,10 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Realicé mis tareas y las entregué en fecha.<br/>
         <br><br>
         <b>Sanchez Maita, Agustin Alejandro</b>
-        <br><br>
+        <br>
+        - Elaboré los Wireframes, Mockups y Prototypes de la Aplicación Web utilizando la herramienta figma para realizar el entregable con mayor rapidez.<br>
+        - Logré cumplir las actividades que se me asignaron haciendo uso de las herramientas aprendidas en el curso.
+        <br>
     </td>
     <td>TB1
     <br>
@@ -214,7 +217,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Guía de GitFlow para el proyecto
         <br><br>
         <b>Sanchez Maita, Agustin Alejandro</b>
-        <br><br>
+        <br>
+        - Al realizar los Mockups de la aplicación se tomó de referencias las interfaces de nuestros competidores, recopilando las funcionalidades más destacables para ofrecer un mejor servicio al usuario.
+        <br>
 </td>
     <td>TB1
     <br>
