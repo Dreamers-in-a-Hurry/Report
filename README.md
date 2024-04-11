@@ -179,7 +179,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <td> TB1<br><br>
         <b>Aliaga Pimentel, George Arturo </b><br>
         <br><br> 
-        <b>Chirinos Arevalo, Daniel Rodrigo</b><br>
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        dasdas
+        <br>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
         <br><br> 
