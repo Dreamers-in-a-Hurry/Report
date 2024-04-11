@@ -3215,9 +3215,30 @@ Users Bounded Context Component Diagram
 
 ## Conclusiones y recomendaciones
 
+- Se ha logrado una comprensión profunda del problema que la startup busca resolver, incluyendo las necesidades de los usuarios y las características del mercado.
+- Se ha definido la propuesta de valor única de la startup y cómo se diferencia de la competencia a partir de un análisis detallado de sus competidores.
+- Se han identificado los principales insights y aprendizajes de las entrevistas, que se han utilizado para mejorar el diseño del producto.
+- Se han creado diferentes user stories para las funcionalidades que los usuarios necesitas y se han priorizado utilizando criterios como el valor para el cliente, la complejidad técnica y el esfuerzo de desarrollo.
+- El empleo de Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
+- Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrolla del diagrama de clases, de datos y el modelo C4.
+
 <br><br>
 
 # Bibliografía
+
+Browne, C. (2024, 22 de enero). _What are User Flows in User Experience (UX) Design?_. Recuperado el 4 de abril de 2024, de https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+
+DeBeasi, R & Holmes, J. (2018, 6 de noviembre). _Domain Driven Design, Tackling Complexity in the Heart of Software_. Recuperado el 4 de abril de 2024, de https://openpracticelibrary.com/blog/domain-driven-design/
+
+McCay, A. (2023). _How to create an impact map in 7 easy steps: A complete guide + examples_. Recuperado el 8 de abril de 2024, de https://uxpressia.com/blog/build-impact-map-4-easy-steps
+
+Mordor Intelligence (2023). _Tamaño del mercado de ropa deportiva y análisis de participación tendencias de crecimiento y pronósticos (2024-2029)_. Recuperado el 23 de marzo de 202, de https://www.mordorintelligence.com/es/industry-reports/global-sports-apparel-market-industry
+
+Netigy. (s.f.). _Conventional Commits_. Recuperado el 16 de marzo de 2024, de https://www.conventionalcommits.org/en/v1.0.0/
+
+Osetskyi, V. (2017). _Acceptance Criteria in Scrum: Explanation, Examples, and Template_. Recuperado el 4 de abril de 2024, de https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl
+
+Tune, N. (2015, 15 de agosto). _Domain-Driven Architecture Diagrams_. Recuperado el 4 de abril de 2024, de https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
 
 <br><br>
 
