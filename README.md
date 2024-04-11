@@ -2192,6 +2192,224 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
 </tr>
 </table>
 <br/>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Landing Page
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            22
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Diego Defilippi
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Visualizar la descripción de la aplicación
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como visitante, quiero ver una descripción clara y concisa de la aplicación para informarme adecuadamente
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Visualizar las funcionalidades de la aplicación <br/>
+Dado que el visitante está buscando ropa deportiva <br/>
+Cuando ingrese a la Landing Page <br/>
+Podrá ver las principales funcionalidades de la aplicación<br/>
+Y verá lo más novedoso de la aplicación<br/>
+Y verá lo opción de diseñar camiseta<br/>
+
+<b>Scenario 2: </b> Leer la descripción de la StartUp <br/>
+Dado que el visitante ingresó a la landing page <br/>
+Cuando vaya a la sección _Nosotros_ <br/>
+Entonces leerá la descripción de la StartUp<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Landing Page
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            23
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Daniel Chirinos
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Contacto como visitante
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como visitante, quiero completar un formulario de contacto para recibir más información.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Visualizar formulario de contacto <br/>
+Dado que el visitante ingresó a la landing page <br/>
+Cuando vaya a la sección _Contacto_ <br/>
+Entonces visualizará el formulario para recibir mayor información sobre la aplicación. <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Landing Page
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            24
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          George Aliaga
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Landing Page intuitiva
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como visitante, quiero que la Landing Page sea fácil de navegar para un uso intuitivo
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Navegación a través de secciones <br/>
+Dado que el visitante ingresó a la landing page <br/>
+Cuando esté en la barra de navegación <br/>
+Entonces podrá navegar por las diferentes secciones con solo seleccionarla en la barra. <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Landing Page
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            25
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Agustín Sanchez 
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Landing Page responsiva
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como visitante, quiero que la Landing Page se adapte a mi dispositivo móvil para acceder remotamente
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Navegación responsiva <br/>
+Dado que el visitante quiere ingresar a la Landing Page a través de su celular <br/>
+Cuando ingrese a la misma mediante su dispositivo <br/>
+Entonces podrá navegar por la página sin problemas <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
 
 ## 3.3. Impact Mapping
 
@@ -2232,6 +2450,71 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
             01
         </td>
         <td>
+            22
+        </td>
+        <td>
+            Visualizar la descripción de la aplicación
+        </td>
+        <td>
+            Como visitante, quiero ver una descripción clara y concisa de la aplicación para informarme adecuadamente
+        </td>
+        <td>
+            2
+        </td>
+    </tr><tr>
+        <td>
+            02
+        </td>
+        <td>
+            23
+        </td>
+        <td>
+            Contacto como visitante
+        </td>
+        <td>
+            Como visitante, quiero completar un formulario de contacto para recibir más información.
+        </td>
+        <td>
+            2
+        </td>
+    </tr><tr>
+        <td>
+            03
+        </td>
+        <td>
+            24
+        </td>
+        <td>
+            Landing Page intuitiva
+        </td>
+        <td>
+            Como visitante, quiero que la Landing Page sea fácil de navegar para un uso intuitivo
+        </td>
+        <td>
+            1
+        </td>
+    </tr><tr>
+        <td>
+            04
+        </td>
+        <td>
+            25
+        </td>
+        <td>
+            Landing Page responsiva
+        </td>
+        <td>
+            Como visitante, quiero que la Landing Page se adapte a mi dispositivo móvil para acceder remotamente
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            05
+        </td>
+        <td>
             06
         </td>
         <td>
@@ -2246,7 +2529,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            02
+            06
         </td>
         <td>
             09
@@ -2263,7 +2546,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            03
+            07
         </td>
         <td>
             10
@@ -2280,7 +2563,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            04
+            08
         </td>
         <td>
             11
@@ -2297,7 +2580,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            05
+            09
         </td>
         <td>
             07
@@ -2314,7 +2597,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            06
+            10
         </td>
         <td>
             01
@@ -2331,7 +2614,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            07
+            11
         </td>
         <td>
             02
@@ -2348,7 +2631,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            08
+            12
         </td>
         <td>
             03
@@ -2365,7 +2648,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            09
+            13
         </td>
         <td>
             13
@@ -2382,7 +2665,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            10
+            14
         </td>
         <td>
             12
@@ -2399,7 +2682,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            11
+            15
         </td>
         <td>
             14
@@ -2416,7 +2699,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            12
+            16
         </td>
         <td>
             04
@@ -2433,7 +2716,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            13
+            17
         </td>
         <td>
             05
@@ -2450,7 +2733,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            14
+            18
         </td>
         <td>
             08
@@ -2467,7 +2750,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            15
+            19
         </td>
         <td>
             15
@@ -2484,7 +2767,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            16
+            20
         </td>
         <td>
             19
@@ -2501,7 +2784,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            17
+            21
         </td>
         <td>
             20
@@ -2518,7 +2801,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            18
+            22
         </td>
         <td>
             16
@@ -2535,7 +2818,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            19
+            23
         </td>
         <td>
             17
@@ -2552,7 +2835,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            20
+            24
         </td>
         <td>
             21
@@ -2569,7 +2852,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            21
+            25
         </td>
         <td>
             18
@@ -3258,7 +3541,7 @@ Users Bounded Context Component Diagram
       </tr>
        <tr align="left">
         <td>
-            <b>Sprint n - 0</b>
+            <b>Sprint n - 1</b>
             <b>Review Summary</b>
         </td>
         <td>
