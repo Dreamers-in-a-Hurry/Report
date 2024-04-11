@@ -788,6 +788,16 @@ Review: Opinión proporcionada por los clientes sobre las camisetas o su experie
 
 ## 3.1. To-Be Scenario Mapping
 
+Usuario:
+<div align="center">
+  <img src="Images\As-is_To-be Scneario_Mapping\Usuario_TO_BE_MAPPING.PNG" alt="To_be_Usuario" style="margin: 10px 0;" width="90%"/>
+</div>
+
+Confeccionista:
+<div align="center">
+  <img src="Images\As-is_To-be Scneario_Mapping\Vendedor_TO_BE_MAPPING.PNG" alt="To_be_Confeccionista" style="margin: 10px 0;" width="90%"/>
+</div>
+
 ## 3.2. User Stories
 
 <table align="center"     border="1" width="90%" style="text-align:center;">
