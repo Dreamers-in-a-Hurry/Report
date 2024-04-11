@@ -784,6 +784,25 @@ Henry mostró un fuerte interés en camisetas deportivas, especialmente las rela
 
 ### 2.2.3. Análisis de entrevistas
 
+Análisis de las entrevistas del sector Comerciantes:
+
+- Importancia de la calidad de las camisetas. Algodón, poliéster, dri-fit, etc. Influyen en la transpirabilidad, comodidad y durabilidad.
+- Demanda de camisetas de fútbol, especialmente de la selección peruana. El fútbol es un deporte que une al país y las camisetas son una forma de expresar orgullo.
+- Desafíos: capital, competencia, comunicación con clientes.
+- Estrategias: venta online, redes sociales, personalización.
+- Buena acogida a la propuesta de FitShirt.
+- Sugerencias: información estratégica, mejor previsualización, confección a pequeña escala.
+
+Análisis de las entrevistas del sector Clientes:
+
+- Motivación: La motivación para comprar camisetas varía según el entrevistado. Salvador busca calidad y comodidad, mientras que Miguel y Henry buscan originalidad y equipo favorito. (Obtenido de las entrevistas 1, 2 y 3).
+- Factores importantes: Los factores más importantes en las camisetas también varían. Salvador prioriza la calidad de la tela, mientras que Miguel y Henry se enfocan en el diseño y la originalidad. (Obtenido de las entrevistas 1, 2 y 3).
+- Frecuencia de compra: La frecuencia de compra también varía. Miguel compra una camiseta al mes, mientras que Henry compra cada 4-5 meses. (Obtenido de las entrevistas 2 y 3).
+- Precio: El precio que los entrevistados consideran razonable también varía. Miguel menciona $50, mientras que Henry está dispuesto a pagar S/.200-250 por una camiseta personalizada. (Obtenido de las entrevistas 2 y 3).
+- Canales de compra: Miguel compra por internet, mientras que Henry no menciona su canal de compra preferido. (Obtenido de las entrevistas 2 y 3).
+- Personalización: Salvador y Henry están abiertos a la idea de personalizar camisetas. Henry incluso ha solicitado personalizaciones en el pasado. (Obtenido de las entrevistas 1 y 3).
+- Opinión sobre FitShirt: Solo Henry expresa una opinión sobre FitShirt, mostrándose entusiasmado con la idea. (Obtenido de la entrevista 3).
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
