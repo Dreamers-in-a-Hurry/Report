@@ -2475,7 +2475,7 @@ Entonces podrá navegar por la página sin problemas <br/>
             Como visitante, quiero completar un formulario de contacto para recibir más información.
         </td>
         <td>
-            2
+            1
         </td>
     </tr><tr>
         <td>
@@ -3571,7 +3571,7 @@ Para asegurar un avance constante en el proyecto, se considera crucial perfeccio
             <b>Sprint 1 Velocity</b>
         </td>
         <td>
-            8  
+            6
         </td>
     </tr>
        <tr align="left">
@@ -3579,13 +3579,116 @@ Para asegurar un avance constante en el proyecto, se considera crucial perfeccio
             <b>Sum of Story Points</b>
         </td>
         <td>
-            8  
+            6
         </td>
     </tr>
 </table>
 </br>
 
 #### 5.2.1.2. Sprint Backlog 1
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="3">US01</td>
+       <td rowspan="3">Visualizar la descripción de la aplicación</td>
+       <td>T01</td>
+       <td>Estructura de las secciones</td>
+       <td>Programar la estructua HTML de las secciones </td>
+       <td>0.5</td>
+       <td>###</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS general</td>
+       <td>Asignar stilos generales para la página</td>
+       <td>0.5</td>
+       <td>###</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td>T03</td>
+       <td>Agregar CSS específicos</td>
+       <td>Dar formato y estilo a cada sección de la página </td>
+       <td>1</td>
+       <td>###</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US02</td>
+       <td rowspan="2">Contacto como visitante</td>
+       <td>T04</td>
+       <td>Estructura del formulario de contacto</td>
+       <td>Programar la estructura del formulario en HTML</td>
+       <td>0.5</td>
+       <td>###</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T05</td>
+       <td>Agregar CSS formulario</td>
+       <td>Agregar stylos al formulario</td>
+       <td>0.5</td>
+       <td>###</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td rowspan="2">US03</td>
+       <td rowspan="2">Landing Page intuitiva</td>
+       <td>T06</td>
+       <td>Estructura Navbar</td>
+       <td>Crear HTML del navbar con direccionamiento a secciones</td>
+       <td>0.5</td>
+       <td>###</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T07</td>
+       <td>Estilos Navbar</td>
+       <td>Asignar stilos generales para la página</td>
+       <td>0.5</td>
+       <td>###</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US04</td>
+       <td rowspan="2">Landing Page responsiva</td>
+       <td>T08</td>
+       <td>Main responsive</td>
+       <td>Agregar CSS media queries a las diferentes secciones del main</td>
+       <td>1.5</td>
+       <td>###</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T09</td>
+       <td>Navbar responsive</td>
+       <td>Agregar CSS media queries al navbar</td>
+       <td>0.5</td>
+       <td>###</td>
+       <td>Done</td>
+    </tr>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
