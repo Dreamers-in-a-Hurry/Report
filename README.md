@@ -802,6 +802,8 @@ Henry mostró un fuerte interés en camisetas deportivas, especialmente las rela
     <img src="Images\EmpathyMap1.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
+
+
 <b>Persona interesada en vender camisetas deportivas:</b>
 
 <div align="center">
