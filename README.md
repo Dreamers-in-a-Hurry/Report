@@ -188,7 +188,10 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Realicé las partes importantes como el diagrama de clases, diagrama de base de datos, parte del Lean UX, user stories y aporté ideas para el trabajo.<br/>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
-        <br><br> 
+        <br>
+        - Realice las actividades asignadas por parte de mi equipo, entre las que resalta los Information Architecture y los Segmetnos Objetivos.
+        - Participe en la formulacion inicial para la idea general del proyecto.
+        <br> 
         <b>Defilippi Santillán, Diego</b>
         <br>
         - Participé y aporté ideas en las reuniones virtuales, además de planificar y organizar las tareas a realizar.<br/>
