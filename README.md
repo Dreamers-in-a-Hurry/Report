@@ -2192,6 +2192,224 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
 </tr>
 </table>
 <br/>
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Landing Page
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            22
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Diego Defilippi
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Visualizar la descripción de la aplicación
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como visitante, quiero ver una descripción clara y concisa de la aplicación para informarme adecuadamente
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Visualizar las funcionalidades de la aplicación <br/>
+Dado que el visitante está buscando ropa deportiva <br/>
+Cuando ingrese a la Landing Page <br/>
+Podrá ver las principales funcionalidades de la aplicación<br/>
+Y verá lo más novedoso de la aplicación<br/>
+Y verá lo opción de diseñar camiseta<br/>
+
+<b>Scenario 2: </b> Leer la descripción de la StartUp <br/>
+Dado que el visitante ingresó a la landing page <br/>
+Cuando vaya a la sección _Nosotros_ <br/>
+Entonces leerá la descripción de la StartUp<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Landing Page
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            23
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Daniel Chirinos
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Contacto como visitante
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como visitante, quiero completar un formulario de contacto para recibir más información.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Visualizar formulario de contacto <br/>
+Dado que el visitante ingresó a la landing page <br/>
+Cuando vaya a la sección _Contacto_ <br/>
+Entonces visualizará el formulario para recibir mayor información sobre la aplicación. <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Landing Page
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            24
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          George Aliaga
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Landing Page intuitiva
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como visitante, quiero que la Landing Page sea fácil de navegar para un uso intuitivo
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Navegación a través de secciones <br/>
+Dado que el visitante ingresó a la landing page <br/>
+Cuando esté en la barra de navegación <br/>
+Entonces podrá navegar por las diferentes secciones con solo seleccionarla en la barra. <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Funcionalidades Landing Page
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            25
+        </td>
+        <td>
+            <b>Owner</b>
+        </td>
+        <td>
+          Agustín Sanchez 
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Landing Page responsiva
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como visitante, quiero que la Landing Page se adapte a mi dispositivo móvil para acceder remotamente
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1: </b> Navegación responsiva <br/>
+Dado que el visitante quiere ingresar a la Landing Page a través de su celular <br/>
+Cuando ingrese a la misma mediante su dispositivo <br/>
+Entonces podrá navegar por la página sin problemas <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
 
 ## 3.3. Impact Mapping
 
@@ -2232,6 +2450,71 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
             01
         </td>
         <td>
+            22
+        </td>
+        <td>
+            Visualizar la descripción de la aplicación
+        </td>
+        <td>
+            Como visitante, quiero ver una descripción clara y concisa de la aplicación para informarme adecuadamente
+        </td>
+        <td>
+            2
+        </td>
+    </tr><tr>
+        <td>
+            02
+        </td>
+        <td>
+            23
+        </td>
+        <td>
+            Contacto como visitante
+        </td>
+        <td>
+            Como visitante, quiero completar un formulario de contacto para recibir más información.
+        </td>
+        <td>
+            1
+        </td>
+    </tr><tr>
+        <td>
+            03
+        </td>
+        <td>
+            24
+        </td>
+        <td>
+            Landing Page intuitiva
+        </td>
+        <td>
+            Como visitante, quiero que la Landing Page sea fácil de navegar para un uso intuitivo
+        </td>
+        <td>
+            1
+        </td>
+    </tr><tr>
+        <td>
+            04
+        </td>
+        <td>
+            25
+        </td>
+        <td>
+            Landing Page responsiva
+        </td>
+        <td>
+            Como visitante, quiero que la Landing Page se adapte a mi dispositivo móvil para acceder remotamente
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            05
+        </td>
+        <td>
             06
         </td>
         <td>
@@ -2246,7 +2529,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            02
+            06
         </td>
         <td>
             09
@@ -2263,7 +2546,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            03
+            07
         </td>
         <td>
             10
@@ -2280,7 +2563,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            04
+            08
         </td>
         <td>
             11
@@ -2297,7 +2580,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            05
+            09
         </td>
         <td>
             07
@@ -2314,7 +2597,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            06
+            10
         </td>
         <td>
             01
@@ -2331,7 +2614,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            07
+            11
         </td>
         <td>
             02
@@ -2348,7 +2631,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            08
+            12
         </td>
         <td>
             03
@@ -2365,7 +2648,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            09
+            13
         </td>
         <td>
             13
@@ -2382,7 +2665,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            10
+            14
         </td>
         <td>
             12
@@ -2399,7 +2682,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            11
+            15
         </td>
         <td>
             14
@@ -2416,7 +2699,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            12
+            16
         </td>
         <td>
             04
@@ -2433,7 +2716,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            13
+            17
         </td>
         <td>
             05
@@ -2450,7 +2733,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            14
+            18
         </td>
         <td>
             08
@@ -2467,7 +2750,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            15
+            19
         </td>
         <td>
             15
@@ -2484,7 +2767,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            16
+            20
         </td>
         <td>
             19
@@ -2501,7 +2784,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            17
+            21
         </td>
         <td>
             20
@@ -2518,7 +2801,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            18
+            22
         </td>
         <td>
             16
@@ -2535,7 +2818,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            19
+            23
         </td>
         <td>
             17
@@ -2552,7 +2835,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            20
+            24
         </td>
         <td>
             21
@@ -2569,7 +2852,7 @@ Podrá seguir haciendo el diseño de más camisetas<br/>
     </tr>
     <tr>
         <td>
-            21
+            25
         </td>
         <td>
             18
@@ -3195,19 +3478,495 @@ Users Bounded Context Component Diagram
 
 #### 5.2.1.1. Sprint Planning 1
 
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            11/04/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Dreamers in a Hurry     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Defilippi Santillán, Diego <br/>
+            - Sanchez Maita, Agustin Alejandro <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Landing Page y la lógica de funcionamiento de la plataforma FitShirt.
+            </br></br>
+            La Landing Page se implementó exitosamente dentro del plazo establecido.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se logró mantener una comunicación excelentes entre los integrantes del equipo, gracias al uso de plataformas como Discord, lo que conllevó a entregar el trabajo a tiempo. Sin embargo, se debe mejorar el aspecto de la organización, para terminar las próximas enteras sin estar al límite del deathline.
+</br></br>
+Para asegurar un avance constante en el proyecto, se considera crucial perfeccionar la estimación del desarrollo de user stories. Esto permitirá evitar desajustes en el calendario y garantizará un flujo de trabajo más estable. 
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+</table>
+</br>
+
 #### 5.2.1.2. Sprint Backlog 1
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="7">US01</td>
+       <td rowspan="7">Visualizar la descripción de la aplicación</td>
+       <td>T01</td>
+       <td>Estructura de las secciones</td>
+       <td>Programar la estructua HTML de las secciones </td>
+       <td>0.1</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS general</td>
+       <td>Asignar stilos generales para la página</td>
+       <td>0.1</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Agregar Hero section</td>
+       <td>Agregar html y css al Hero section </td>
+       <td>0.5</td>
+       <td>Agustin Sanchez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T04</td>
+       <td>Agregar Catalogue section</td>
+       <td>Agregar html y css al Catalogue section </td>
+       <td>0.5</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T05</td>
+       <td>Agregar Designing section</td>
+       <td>Agregar html y css al Designing section </td>
+       <td>0.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T06</td>
+       <td>Agregar About section</td>
+       <td>Agregar html y css al About section </td>
+       <td>0.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T07</td>
+       <td>Agregar Footer section</td>
+       <td>Agregar html y css al Footer section </td>
+       <td>0.5</td>
+       <td>Agustin Sanches</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US02</td>
+       <td rowspan="2">Contacto como visitante</td>
+       <td>T08</td>
+       <td>Estructura del formulario de contacto</td>
+       <td>Programar la estructura del formulario en HTML</td>
+       <td>0.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T09</td>
+       <td>Agregar CSS formulario</td>
+       <td>Agregar stilos al formulario</td>
+       <td>0.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td rowspan="2">US03</td>
+       <td rowspan="2">Landing Page intuitiva</td>
+       <td>T10</td>
+       <td>Estructura Navbar</td>
+       <td>Crear HTML del navbar con direccionamiento a secciones</td>
+       <td>0.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T11</td>
+       <td>Estilos Navbar</td>
+       <td>Asignar stilos al navbar</td>
+       <td>0.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US04</td>
+       <td rowspan="2">Landing Page responsiva</td>
+       <td>T12</td>
+       <td>Main responsive</td>
+       <td>Agregar CSS media queries a las diferentes secciones del main</td>
+       <td>1.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T13</td>
+       <td>Navbar responsive</td>
+       <td>Agregar CSS media queries al navbar</td>
+       <td>0.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Landing-page">Enlace</a>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Landing Page</td>
+        <td>main</td>
+        <td>c7569ab</td>
+        <td>Diego Defilippi</td>
+        <td>First commit</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>233314b</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added html sections</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9d13895</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added general styles</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/navbar</td>
+        <td>4e8f0fc</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added navbar html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/navbar</td>
+        <td>f6df2f7</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added navbar styles</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/hero-section</td>
+        <td>f310ccc</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added hero html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/hero-section</td>
+        <td>6b181628</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added hero css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-section</td>
+        <td>2af2b26</td>
+        <td>George Aliaga</td>
+        <td>feat: added catalogue html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-section</td>
+        <td>653d300</td>
+        <td>George Aliaga</td>
+        <td>feat: added catalogue css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/designing-section</td>
+        <td>c863f9f</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added designing html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/designing-section</td>
+        <td>a66eaab</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added designing css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-section</td>
+        <td>0676103</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added about html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-section</td>
+        <td>7d1e198</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added about css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-section</td>
+        <td>8902c05</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added contact html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-section</td>
+        <td>df3fe9f</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added contact css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/footer</td>
+        <td>80851d2</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added footer html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/footer</td>
+        <td>a762455</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added footer css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/responsive</td>
+        <td>aec4ec5</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added responsive css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>Develop|MERGING</td>
+        <td>eff2f12</td>
+        <td>Diego Defilippi</td>
+        <td>Release Landing Page v. 1.0</td>
+        <td>11/04/2024</td>
+    </tr>
+    
+</table>
+
+<br><br>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+En la presente entrega no se ha trabajado ningún aspecto de la aplicación web, solo la Landing Page; por lo que consideramos innecesario testear el avance. No obstante, el estado de la Landing Page será presentado en la siguiente sección del informe.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+Como resultado del primer sprint, se presenta el despliegue de la Landing Page.
+
+<b>Hero Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/hero.section.png" alt="Hero section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Catalogue Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/catalogue.section.png" alt="Catalogue section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Designing Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/designing.section.png" alt="Designing section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>About Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/about.section.png" alt="About section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Contact Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/contact.section.png" alt="Contact section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Hero Section - Responsive design in iPhone SE</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/hero.responsive.section.png" alt="Hero Section as Responsive design in iPhone SE" style="margin: 10px 0;" width="70%"/>
+</div>
+
+<b>Catalogue Section - Responsive design in iPhone SE</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/catalogue.responsive.section.png" alt="Catalogue Section as Responsive design in iPhone SE" style="margin: 10px 0;" width="70%"/>
+</div>
+
+<b>Contact Section - Responsive design in iPhone SE</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/contact.responsive.section.png" alt="Contact Section as Responsive design in iPhone SE" style="margin: 10px 0;" width="70%"/>
+</div>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para esta primera entrega, se ha desplegado lo que es la landing page utilizando el servicio gratuito de GitHub Pages. El landing page es visible en el siguiente link: <a href="https://dreamers-in-a-hurry.github.io/Landing-page/">Landing page</a>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Para el desarrollo de la Landing page, se utilizaron las siguientes texnologías:
+
+- HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la página, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+Asimismo, para el despliegue de la página, se utilizó el servicio de GitHub Pages. Este permite crear sitios web estáticos directamente desde un repositorio Git. Es ideal para crear landing pages, portfolios o documentación, y se integra perfectamente con Github para un flujo de trabajo sin interrupciones.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+La StartUp _Dreamers in a Hurry_ ha realizado el presente sprint usando Git y Github como herramientas principales para el control de versiones y GitFlow como metodología de trabajo.
+
+En primer lugar, se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Landing page. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `main` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `main`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como _commits_.
+
+Para mayor información sobre la metodología empleada por el equipo, como nomenclaturas, tipos de ramas y commits, véase la [Guía](./docs/Github_upload_guide.md) presente en el repositorio.
+
+GitFlow del sprint:
+
+<div align="center">
+    <img src="./Images/collaboration_insights/gitflow.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Contribuciones del equipo:
+
+<div align="center">
+    <img src="./Images/collaboration_insights/contributions.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 <br><br>
 
