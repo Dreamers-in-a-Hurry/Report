@@ -267,6 +267,49 @@ En particular, las letras 'Fit' se destacan en negro, mientras que 'Shirt' se pr
 
 ## 4.2. Information Architecture
 
+Centrandonos en el objetivo denuestra plataforma <b>FitShirt</b>, buscamos brindar una interfaz interactiva, que inspire confianza y segura. Debemos de tener en cuenta que buscamos que exista transaccion de bienes, por lo que estas caractersticias deben de prevalecer. Parte importante para lograr este objetivo es la arquitectura de información. Por ende, a continuación de verá lo planeado hasta el momento dentro de nuestra plataforma.
+
+<b> 1. Página de Inicio: </b>
+
+- Vista Previa del Catálogo: <br>
+Sección que muestre algunas camisetas destacadas y personalizadas para captar la atención de los visitantes.
+
+- Opciones de Diseño: <br>
+Enlace y previsualización que lleven a los usuarios a la herramienta de diseño de camisetas, donde podrán personalizar sus propios diseños.
+
+- Quiénes Somos y Contacto: <br>
+Información sobre la plataforma y sobre nosotros. Además, el cómo contactar al equipo de soporte para consultas y asistencia.
+
+<b> 2. Catálogo: </b>
+
+- Categorías de Camisetas: <br>
+División del catálogo en categorías como fútbol, baloncesto, béisbol, etc., para facilitar la búsqueda.
+
+- Filtros de Búsqueda: <br>
+Herramientas para filtrar por talla, color, precio y estilo de camiseta para una navegación más personalizada.
+
+- Vista Detallada de Productos: <br>
+Páginas individuales para cada camiseta con imágenes detalladas, descripciones, precios y opciones de personalización.
+
+<b> 3. Diseño: </b>
+
+- Herramienta de Personalización: <br>
+Interfaz interactiva donde los usuarios pueden seleccionar colores, seleccionar gadgets para cada camiseta y también, agregar texto o imágenes opcionales
+
+- Vista Previa en Tiempo Real: <br>
+Visualización en tiempo real de cómo quedará el diseño de la camiseta antes de confirmarlo o guardarlo.
+
+- Opciones de Tallas y Cantidad: <br>
+Selección de tallas disponibles y cantidad de camisetas a comprar.
+
+<b> 4. Registro: </b>
+
+- Registro de Usuarios: <br>
+Formulario para que los usuarios se registren en la plataforma como compradores, incluyendo información básica como nombre, correo electrónico y contraseña.
+
+- Registro de Vendedores: <br>
+Formulario adicional para vendedores interesados en utilizar la plataforma para vender sus propios diseños de camisetas, con información adicional como datos de contacto y métodos de pago.
+
 ### 4.2.1. Organization Systems
 
 ### 4.2.2. Labeling Systems
