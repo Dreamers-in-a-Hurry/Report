@@ -95,6 +95,8 @@
   - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
   - [2.3.4. Empathy Mapping](#234-empathy-mapping)
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  
 
 ### [Capítulo III: Requirements Specification](#capc3adtulo-iii-requirements-specification-1)
 
@@ -322,6 +324,39 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
     <b>Acerca de:</b>
     <br>
     Me llamo Aarón Alejandro, tengo 18 años y estoy inmerso en el quinto ciclo de la carrera de Ingeniería de Software. debido a la elecciòn de mi carrera poseo gusto por la programacion, y por ende, conocimientos acerca del diseño y elaboración de distintas estructuras de datos y el desarrollo frontend, así como el marco teórico de todo lo mencionado. En lo que respecta a mi personalidad, siempre me he caracterizado por ser una persona alegre, creativa y curiosa. Deseo apoyar a mi equipo y culminar exitosamente el presente curso.
+    </td>
+  </tr>
+
+<tr>
+  <tr align="center">
+    <td rowspan="4">
+      <img src="Images/profile_images/Foto_Agustin.jpg" alt="Imagen del integrante Agustin" style="margin-bottom: 5px;" width="700"/>
+    </td>
+    <td align="left">
+      <b>Nombre y Apellido:</b>
+      <br>            
+      Agustin Alejandro Sanchez Maita
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Código:</b>
+    <br>
+    U20181A313
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Carrera:</b>
+    <br>
+    Ingeniería de Software
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <b>Acerca de:</b>
+    <br>
+    Me llamo Agustin, tengo 23 años y me encuentro en el septimo ciclo de la carrera de Ingeniería de Software. Considero que soy una persona responsable y que tiene ganas de trabajar en equipo con el fin de completar el presente proyecto. Espero aprender lo necesario junto a mi equipo para presentar una aplicación de calidad.
     </td>
   </tr>
 
@@ -631,6 +666,124 @@ Sobre una posible aplicación
 
 ### 2.2.2. Registro de entrevistas
 
+<b>Segmento objetivo 1:</b> Comerciantes
+
+<b>Entrevista 1</b><br/>
+
+- Nombre: Deyvid Joseph
+- Apellidos: Guevara Cueva
+- Edad: 21 años
+- Distrito: San Miguel
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
+- Duración: 15 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interviews/Deyvid_interview.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Se entrevistó a Deyvid Guevara, un joven de 21 años quien vive en el distrito de San Miguel.
+
+Indica que se encuentra un año en el ámbito de venta de camisetas, y en su experiencia, resalta aspectos importantes. Afirma que el precio de las camisetas suele variar por varios factores, como el material, la talla, la demanda o algún evento actual como el mundial, pero generalmente el precio oscila entre 50 y 70 nuevos soles. También indica que las camisetas más demandadas son las de fútbol, en especial las de la selección peruana. Además, la frecuencia de venta depende, mayormente, del contexto, como un evento deportivo.
+
+Al momento de indagar más sobre su experiencia, señala que los dos desafíos a afrontar son el capital a invertir y la cuantiosa competencia en el mercado actual. Sin embargo, afirma que teniendo una buena estrategia de negocio se puede llegar a más personas y tener un público sólido. Una de las estrategias que empleó fue la venta online mediante WhatsApp e Instagram, lo cual afirma que aumentó significativamente sus ventas. Sin embargo, uno de los problemas es la poca versatilidad de estos medios, lo que conllevó que a veces no concretase alguna venta.
+
+El entrevistador confirma que tiene experiencia en la confección de camisetas con diseño personalizado. Indica que el proceso consiste en comunicarse primero con el cliente, que le envía el diseño y se encarga de confeccionarlo a su gusto. No obstante, insiste que el problema más recurrente es el medio de comunicación, pues le toma mucho tiempo responder mensajes y a veces no se muestra el catálogo completo.
+
+Al preguntarle sobre una posible aplicación de compra, venta y personalización de camisetas, se mostró bastante encantado, incluso dijo que tenía pensado implementar una página web para su propia empresa. Señala que esta aplicación le ayudaría bastante, pues podría responderle a los clientes con mayor rapidez, promocionaría sus productos fácilmente y también los mismos usuarios podrían usar la app como herramienta para hacer el diseño.
+
+Luego de describir la propuesta de FitShirt, indicó que es una muy buena idea de negocio y el aspecto que más le gusta es el de poder diseñar tu camiseta a través de la aplicación y que los confeccionistas puedan vender aquel diseño para atraer a un público que desee una camiseta “fuera de lo convencional”. Finalmente, menciona que recomendaría esta aplicación a más personas, sobretodo a sus propios clientes.
+
+<br/>
+
+<b>Entrevista 2</b><br/>
+
+- Nombre: Luis 
+- Apellidos: Pelaez
+- Edad: 23 años
+- Distrito: San Isidro
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/ETBdgHxXrqNNl4wj1-FoUUwBmmt8Xdha5DYI7IYT_RD4mA?e=NNS8iH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ">Entrevista</a>
+- Duración: 7 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews\Luis_Comerciante_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Luis nos comentó que empezó a trabajar en la venta de camisetas hace unos 2 o 3 años, ya que detectó que es algo popular en Perú, y comenzaron importando camisetas deportivas desde el extranjero. Nos cuenta que la cantidad de camisetas y el precio de las mismas dependen de la temporada actual, lo cual está relacionado con los eventos deportivos actuales o el cambio de indumentaria oficial de alguna selección conocida; en su mayoría trabaja con ropa deportiva de fútbol. Nos expresó que un momento difícil para su emprendimiento fue durante la pandemia, ya que las personas evitaban comprar cosas innecesarias al inicio de esta. Los pedidos de camisetas los realizan por internet y para promocionar su producto utilizan redes sociales como Instagram, en la que pagan por publicidad. En relación a la aplicación que le presentamos, considera que es una buena idea para aquellos negocios que no son grandes o que venden productos oficiales. En cuanto a la confección, considera que no es tarea fácil y no sabe cuán rentable sería realizarla si no es al por mayor, pero no le tiene miedo al desafío de la confección. Nos dijo que una buena funcionalidad de la aplicación sería que le brinde información estratégica para incrementar sus ventas, como un dashboard o tendencias de compras de las personas.
+
+<br/>
+
+<b>Segmento objetivo 2:</b> Clientes
+
+<b>Entrevista 1</b><br/>
+
+- Nombre: Salvador Hugo 
+- Apellidos: Roncero Zarancilla
+- Edad: 21 años
+- Distrito: Lima
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EQlOdKvoDfxEjpp4CNfofcMBBhyuYqFcGxFuPPgIXbFd1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=bb429a" >Entrevista</a>
+- Duración: 16:18 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews/Salvador_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Salvador nos comenta que su motivación de las camisetas es la calidad de tela, los colores y la combinación de estilos que sacan las marcas deportivas. Considera que el factor más importante en las camisetas son los colores. Para el es importante de que las camisetas sean sueltas, transpirables y que tengan flexibilidad. Le gustaría que las camisetas tengan una mejor previsualización a la hora de comprar. Tambien le parece buena la idea de personalizar su propia camiseta y facturar de la misma a otros clientes. 
+
+<br/>
+
+<b>Entrevista 2</b><br/>
+
+- Nombre: Miguel 
+- Apellidos: Rodríguez
+- Edad: 22 años
+- Distrito: Surco
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EQ0Fc7mvvIJPnvX-IJE6FEQB5318KeW378412mZRRRVpGg?e=w8gigt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ">Entrevista</a>
+- Duración: 4 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews\Miguel_Usuario_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Miguel nos comentó que cuando compra una camiseta deportiva, lo motiva que sea original; considera que este factor es importante además de que sea del equipo que le gusta. La mayoría de las camisetas que ha adquirido son de fútbol, pero también está interesado en comprar camisetas de béisbol. No las compra con mucha frecuencia, pero cada mes se da el gusto de comprarse una. Si le resulta difícil conseguir una camiseta original, usualmente espera a que baje su precio o adquiere una réplica a un precio más cómodo. En cuanto a la calidad del producto, considera que debe tener un color agradable, ser cómodo al tacto y fresca. Realiza sus compras por internet y realiza el pago por PayPal o con tarjetas de crédito. Nos dijo que un precio razonable para una camiseta deportiva podría rondar los 50 dólares.
+
+<br/>
+
+<b>Entrevista 3</b><br/>
+
+- Nombre: Henry 
+- Apellidos: Aguila Cortes
+- Edad: 21 años
+- Distrito: Carabayllo
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c273_upc_edu_pe/EdaoYwxN2kpIneZ7rP1bXOwBLwDZzNwZTjvOjp8bph9CjA?e=4RDLZf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista</a>
+- Duración: 14:32 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews\Henry_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Henry mostró un fuerte interés en camisetas deportivas, especialmente las relacionadas con el fútbol. Su motivación para comprar camisetas radica en el diseño, la calidad y su lealtad hacia su equipo favorito. Utiliza las camisetas principalmente para jugar partidos de fútbol y compra nuevas aproximadamente cada cuatro a cinco meses, mostrando un alto grado de compromiso con su pasión deportiva. Henry prefiere camisetas originales pero también considera réplicas si el precio es más accesible. Ha solicitado camisetas personalizadas en el pasado y se muestra dispuesto a invertir entre 200 a 250 soles en una camiseta personalizada. Se mostró entusiasmado con la idea de una aplicación como FitShirt, donde podría encontrar una variedad de camisetas personalizadas a través de un catálogo virtual. En resumen, Henry representa un potencial cliente para FitShirt, ya que muestra un fuerte interés en camisetas deportivas, valora la calidad y la personalización, y está abierto a nuevas opciones de compra a través de plataformas digitales.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -639,13 +792,65 @@ Sobre una posible aplicación
 
 ### 2.3.2. User Task Matrix
 
+**User Task Matrix de Comerciante :**
+
+<div align="center">
+    <img src="Images/User Task Matrix 1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**User Task Matrix de Cliente :**
+
+<div align="center">
+    <img src="Images/User Task Matrix 2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
 
+<b>Persona interesada en comprar camisetas deportivas:</b>
+
+<div align="center">
+    <img src="Images\EmpathyMap1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
+
+<b>Persona interesada en vender camisetas deportivas:</b>
+
+<div align="center">
+    <img src="Images\EmpathyMap2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
 ### 2.3.5. As-is Scenario Mapping
 
-<br><br>
+## 2.4. Ubiquitous Language
+
+<br>
+
+
+Inventory: El stock de camisetas disponibles para la venta en la aplicación.
+
+Customer: Personas que navegan y potencialmente compran camisetas a través de la aplicación.
+
+Order: Una solicitud realizada por un cliente para comprar una o varias camisetas.
+
+Shopping Cart: Una colección temporal de camisetas elegidas por el cliente para su posible compra.
+
+Checkout: La transferencia de fondos del cliente a la aplicación a cambio de las camisetas compradas.
+
+Payment: El proceso de entrega de las camisetas compradas a la dirección especificada por el cliente.
+
+Discount: Una reducción en el precio de una camiseta, generalmente ofrecida a través de promociones o ofertas especiales.
+
+Notification: Mensajes enviados al cliente para proporcionar actualizaciones sobre sus pedidos, como confirmación del pedido, estado de envío, etc.
+
+Customer Support: Asistencia proporcionada a los clientes con respecto a consultas, problemas o solicitudes relacionadas con sus pedidos.
+
+Product: Las camisetas deportivas disponibles para la venta en la aplicación.
+
+Review: Opinión proporcionada por los clientes sobre las camisetas o su experiencia de compra.<br>
 
 # Capítulo III: Requirements Specification
 
