@@ -722,6 +722,27 @@ Luis nos comentó que empezó a trabajar en la venta de camisetas hace unos 2 o 
 
 <b>Segmento objetivo 2:</b> Clientes
 
+<b>Entrevista 1</b><br/>
+
+- Nombre: Salvador Hugo 
+- Apellidos: Roncero Zarancilla
+- Edad: 21 años
+- Distrito: Lima
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EQlOdKvoDfxEjpp4CNfofcMBBhyuYqFcGxFuPPgIXbFd1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=bb429a" >Entrevista</a>
+- Duración: 16:18 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews/Salvador_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Salvador nos comenta que su motivación de las camisetas es la calidad de tela, los colores y la combinación de estilos que sacan las marcas deportivas. Considera que el factor más importante en las camisetas son los colores. Para el es importante de que las camisetas sean sueltas, transpirables y que tengan flexibilidad. Le gustaría que las camisetas tengan una mejor previsualización a la hora de comprar. Tambien le parece buena la idea de personalizar su propia camiseta y facturar de la misma a otros clientes. 
+
+<br/>
+
 <b>Entrevista 2</b><br/>
 
 - Nombre: Miguel 
@@ -743,17 +764,76 @@ Miguel nos comentó que cuando compra una camiseta deportiva, lo motiva que sea 
 
 <br/>
 
+<b>Entrevista 3</b><br/>
+
+- Nombre: Henry 
+- Apellidos: Aguila Cortes
+- Edad: 21 años
+- Distrito: Carabayllo
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c273_upc_edu_pe/EdaoYwxN2kpIneZ7rP1bXOwBLwDZzNwZTjvOjp8bph9CjA?e=4RDLZf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista</a>
+- Duración: 14:32 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews\Henry_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Henry mostró un fuerte interés en camisetas deportivas, especialmente las relacionadas con el fútbol. Su motivación para comprar camisetas radica en el diseño, la calidad y su lealtad hacia su equipo favorito. Utiliza las camisetas principalmente para jugar partidos de fútbol y compra nuevas aproximadamente cada cuatro a cinco meses, mostrando un alto grado de compromiso con su pasión deportiva. Henry prefiere camisetas originales pero también considera réplicas si el precio es más accesible. Ha solicitado camisetas personalizadas en el pasado y se muestra dispuesto a invertir entre 200 a 250 soles en una camiseta personalizada. Se mostró entusiasmado con la idea de una aplicación como FitShirt, donde podría encontrar una variedad de camisetas personalizadas a través de un catálogo virtual. En resumen, Henry representa un potencial cliente para FitShirt, ya que muestra un fuerte interés en camisetas deportivas, valora la calidad y la personalización, y está abierto a nuevas opciones de compra a través de plataformas digitales.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
+**User persona de Comerciante :**
+
+<div align="center">
+    <img src="Images/Deyvid Joseph.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**User persona de Cliente :**
+
+<div align="center">
+    <img src="Images/Henry Aguila Cortes.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 ### 2.3.2. User Task Matrix
+
+**User Task Matrix de Comerciante :**
+
+<div align="center">
+    <img src="Images/User Task Matrix 1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**User Task Matrix de Cliente :**
+
+<div align="center">
+    <img src="Images/User Task Matrix 2.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
+
+<b>Persona interesada en comprar camisetas deportivas:</b>
+
+<div align="center">
+    <img src="Images\EmpathyMap1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
+
+<b>Persona interesada en vender camisetas deportivas:</b>
+
+<div align="center">
+    <img src="Images\EmpathyMap2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 
 ### 2.3.5. As-is Scenario Mapping
 
