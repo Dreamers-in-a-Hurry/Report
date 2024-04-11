@@ -178,7 +178,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
-        <b>Aliaga Pimentel, George Arturo </b><br>
+        <b>Aliaga Pimentel, George Arturo </b>
+        <br>
+        - Asistí a todas las reuniones, aporté ideas, elaboré los Lean UX problem statements y assumptions además de los Empathy Mapping y User Journey
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
@@ -208,7 +210,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <td><b>
 Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
 <td> TB1<br><br>
-        <b>Aliaga Pimentel, George Arturo </b><br>
+        <b>Aliaga Pimentel, George Arturo </b>
+        <br>
+        - Desarrollé los style guidelines para la realización de los wireframes y posteriormente mockup de la landing page
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
