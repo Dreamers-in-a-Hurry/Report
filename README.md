@@ -2963,7 +2963,76 @@ En particular, las letras 'Fit' se destacan en negro, mientras que 'Shirt' se pr
 
 ## 4.2. Information Architecture
 
+Centrandonos en el objetivo denuestra plataforma <b>FitShirt</b>, buscamos brindar una interfaz interactiva, que inspire confianza y segura. Debemos de tener en cuenta que buscamos que exista transaccion de bienes, por lo que estas caractersticias deben de prevalecer. Parte importante para lograr este objetivo es la arquitectura de información. Por ende, a continuación de verá lo planeado hasta el momento dentro de nuestra plataforma.
+
+<b> 1. Página de Inicio: </b>
+
+- Vista Previa del Catálogo: <br>
+Sección que muestre algunas camisetas destacadas y personalizadas para captar la atención de los visitantes.
+
+- Opciones de Diseño: <br>
+Enlace y previsualización que lleven a los usuarios a la herramienta de diseño de camisetas, donde podrán personalizar sus propios diseños.
+
+- Quiénes Somos y Contacto: <br>
+Información sobre la plataforma y sobre nosotros. Además, el cómo contactar al equipo de soporte para consultas y asistencia.
+
+<b> 2. Catálogo: </b>
+
+- Categorías de Camisetas: <br>
+División del catálogo en categorías como fútbol, baloncesto, béisbol, etc., para facilitar la búsqueda.
+
+- Filtros de Búsqueda: <br>
+Herramientas para filtrar por talla, color, precio y estilo de camiseta para una navegación más personalizada.
+
+- Vista Detallada de Productos: <br>
+Páginas individuales para cada camiseta con imágenes detalladas, descripciones, precios y opciones de personalización.
+
+<b> 3. Diseño: </b>
+
+- Herramienta de Personalización: <br>
+Interfaz interactiva donde los usuarios pueden seleccionar colores, seleccionar gadgets para cada camiseta y también, agregar texto o imágenes opcionales
+
+- Vista Previa en Tiempo Real: <br>
+Visualización en tiempo real de cómo quedará el diseño de la camiseta antes de confirmarlo o guardarlo.
+
+- Opciones de Tallas y Cantidad: <br>
+Selección de tallas disponibles y cantidad de camisetas a comprar.
+
+<b> 4. Registro: </b>
+
+- Registro de Usuarios: <br>
+Formulario para que los usuarios se registren en la plataforma como compradores, incluyendo información básica como nombre, correo electrónico y contraseña.
+
+- Registro de Vendedores: <br>
+Formulario adicional para vendedores interesados en utilizar la plataforma para vender sus propios diseños de camisetas, con información adicional como datos de contacto y métodos de pago.
+
 ### 4.2.1. Organization Systems
+
+El sistema de organización se va a centrar en brindar la mejor experiencia al cliente para la visualización de productos, es por ello, que nuestra plataforma se basara en el acceso de los usuarios para que naveguen, busquen, diseñen y compren camisetas deportivas de manera segura y cómoda.
+
+<b> 1. Categorización de la Información: </b>
+
+- Catálogo de Camisetas: <br>
+Categorizado por deportes (fútbol, baloncesto, béisbol, etc.) y tipos de camisetas (mangas cortas, mangas largas, sin mangas, etc.).
+
+- Diseños Personalizados: <br>
+Categorizado por tipos de diseño (texto, imágenes, gráficos) y opciones de personalización (colores, estilos, tamaños de fuente).
+
+<b> 2. Filtros y Búsqueda: </b>
+- Filtros en el Catálogo: <br>
+Permiten a los usuarios filtrar camisetas por deporte, color, talla, precio y estilo.
+- Búsqueda Avanzada: <br>
+Opción de búsqueda avanzada en el catálogo y en la herramienta de diseño para encontrar productos específicos o diseños personalizados.
+
+<b> 3. Interfaz de Usuario Intuitiva: </b>
+- Menú Principal: <br>
+Navegación clara con acceso rápido a las secciones principales como Catálogo, Diseño, Quiénes Somos y Contacto.
+- Submenús Contextuales: <br>
+Dentro de las secciones principales, submenús contextuales que guían a los usuarios a funcionalidades específicas, como diferentes categorías de camisetas en el Catálogo o herramientas de diseño en la sección de Diseño.
+
+<b >4. Funcionalidades Específicas: </b>
+- Información Detallada de Productos: <br>
+Páginas individuales de productos que muestran imágenes detalladas, descripciones completas y opciones de personalización disponibles.
 
 ### 4.2.2. Labeling Systems
 
