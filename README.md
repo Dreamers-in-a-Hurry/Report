@@ -421,6 +421,76 @@ Esta interfaz permite al usuario subir un diseño que ya tenga hecho, aqui puede
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+Flujo para el inicio de Sesión:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F1.PNG" alt="Imagen1"></div>
+
+Cuando el Usuario ingresa a la aplicación y quiere acceder para realizar sus compras o gestionar sus diseños, tiene que ingresar sus credenciales de acceso para poder empezar a navegar
+
+Flujo para el registro en la aplicación: 
+
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F2.PNG" alt="Imagen2"></div>
+
+
+Cuando el usuario no tiene una cuenta en la aplicación y quiere ingresar para ver y probar los servicio que ofrecemos, este debe pulsar el botón regristrarse, completar el formulario de registro y luego darle a registrarse.
+
+Flujo para edición de perfil:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F3.PNG" alt="Imagen3"></div>
+
+
+Cuando el usuario quiere editar los datos de su perfil, tiene que seleccionar el icono de una persona en la barra lateral izquierda, aqui podra editar su información, añadir un método de pago y cambiar su contraseña.
+
+Flujo para mejorar cuenta premium:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F4.PNG" alt="Imagen4"></div>
+
+
+Cuando el usuario quiere tener más capacidad para diseños o que estos sean vistos por más personas. Debe seleccionar el icono de dimante en la barra lateral izquierda, aqui podrá ber los beneficios del premium y podrá adquirirlo.
+
+Flujo para publicar diseños:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F5.PNG" alt="Imagen5"></div>
+
+
+Como comerciante o confeccionista quiero publicar los diseños de las camisetas que voy a vender, por esto selecciono el icono del polo con un lápiz, luego soy redirigido a la interfaz de "Mis diseños" aquí puedo seleccionar el botón de "Subir Diseño", agrego los daptos del diseño y sus respectivas imágenes, luego acepto y el diseño se agrega a la lista.
+
+ Flujo para visualizar mis diseños:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F6.PNG" alt="Imagen6"></div>
+
+
+ El comerciante selecciona el icono de un polo con lapiz del lateral derecho el cual lo llevara donde se encuentra la lista de sus diseños, allí podrá gestionarlos a su disposición.
+ 
+ Flujo para editar diseños:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F7.PNG" alt="Imagen7"></div>
+
+
+ Al encontrarse en "Mis diseños" y seleccionar el botón editar diseño, el usuario logra editar los detalles e imagenes del diseño, para luego confirmar los cambio y que el sistema los refleje.
+ 
+ Flujo para visualizar Camiseta:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F8.PNG" alt="Imagen8"></div>
+
+
+ EL usuario al encontrarse en el catalogo de camisetas, puede seleccionar una de estas para luego definir la cantidad que desea, la talla y si es posible la personalizacion.
+
+Flujo para mejorar crear diseño:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F9.PNG" alt="Imagen9"></div>
+
+El usuario podrá escoger las caracteristicas de la camiseta, sea color, tipo, diseño, entre otros y su camiseta se generará.
+
+Flujo para mejorar personalizar camiseta:
+
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F10.PNG" alt="Imagen10"></div>
+
+ El usuario al seleccionar una camiseta y encontrar el botón personalizar, al seleccionarlo podrá editar el nombre y el dorso, luego de acepta esta personalizacion se añadira al carrito de compras.
+
+Flujo para realizar compra:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F11.PNG" alt="Imagen11"></div>
+
+El usuario escoge una camiseta y selecciona el botón de comprar, luego se dirige a su carrito de compras, edita la cantidad si lo requiere o elimina alguna camiseta, luego selecciona comprar, pasa la doble verificación de la compra y la compra se realiza con éxito, después es redirigo a la lista de camisetas para que continue con su compra.
+
+ Flujo para filtrar camisetas:
+ <div align="center"><img src="Images\Mobile App User Flow Diagram_Wireframes\F12.PNG" alt="Imagen12"></div>
+
+ El usuario selecciona los diferentes filtros en el catalogo de camisetas y luego le da al botón filtrar, el sistema le mostrará las camisetas con las carácteristicas escogidas
+
+
 ### 4.4.3. Web Applications Mock-ups
 
 <b>Página de Producto:</b>
@@ -541,18 +611,66 @@ Esta interfaz permite al usuario subir un diseño que ya tenga hecho, aqui puede
 [Ver diseño en Figma](https://www.figma.com/file/rAcxltmkjSIrKyjWHsL1dL/WEB%2FMOBILE-FITSHIRT?type=design&node-id=0%3A1&mode=design&t=5XHQaKGutqJZ8IPJ-1)
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+ Flujo para el inicio de Sesión:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F1.PNG" alt="Imagen1"></div>
+
+ Cuando el Usuario ingresa a la aplicación y quiere acceder para realizar sus compras o gestionar sus diseños, tiene que ingresar sus credenciales de acceso para poder empezar a navegar
+
+ Flujo para el registro en la aplicación: 
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F2.PNG" alt="Imagen2"></div>
+
+ Cuando el usuario no tiene una cuenta en la aplicación y quiere ingresar para ver y probar los servicio que ofrecemos, este debe pulsar el botón regristrarse, completar el formulario de registro y luego darle a registrarse.
+ 
+ Flujo para edición de perfil:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F3.PNG" alt="Imagen3"></div>
+
+ Cuando el usuario quiere editar los datos de su perfil, tiene que seleccionar el icono de una persona en la barra lateral izquierda, aqui podra editar su información, añadir un método de pago y cambiar su contraseña.
+
+ Flujo para mejorar cuenta premium:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F4.PNG" alt="Imagen4"></div>
+
+ Cuando el usuario quiere tener más capacidad para diseños o que estos sean vistos por más personas. Debe seleccionar el icono de dimante en la barra lateral izquierda, aqui podrá ber los beneficios del premium y podrá adquirirlo.
+
+ Flujo para publicar diseños:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F5.PNG" alt="Imagen5"></div>
+
+ Como comerciante o confeccionista quiero publicar los diseños de las camisetas que voy a vender, por esto selecciono el icono del polo con un lápiz, luego soy redirigido a la interfaz de "Mis diseños" aquí puedo seleccionar el botón de "Subir Diseño", agrego los daptos del diseño y sus respectivas imágenes, luego acepto y el diseño se agrega a la lista.
+
+ Flujo para visualizar mis diseños:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F6.PNG" alt="Imagen6"></div>
+
+ El comerciante selecciona el icono de un polo con lapiz del lateral derecho el cual lo llevara donde se encuentra la lista de sus diseños, allí podrá gestionarlos a su disposición.
+
+ Flujo para editar diseños:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F7.PNG" alt="Imagen7"></div>
+
+ Al encontrarse en "Mis diseños" y seleccionar el botón editar diseño, el usuario logra editar los detalles e imagenes del diseño, para luego confirmar los cambio y que el sistema los refleje.
+
+ Flujo para visualizar Camiseta:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F8.PNG" alt="Imagen8"></div>
+
+ EL usuario al encontrarse en el catalogo de camisetas, puede seleccionar una de estas para luego definir la cantidad que desea, la talla y si es posible la personalizacion.
+
+ Flujo para mejorar crear diseño:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F9.PNG" alt="Imagen9"></div>
+
+ El usuario podrá escoger las caracteristicas de la camiseta, sea color, tipo, diseño, entre otros y su camiseta se generará.
+
+ Flujo para mejorar personalizar camiseta:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F10.PNG" alt="Imagen10"></div>
+
+ El usuario al seleccionar una camiseta y encontrar el botón personalizar, al seleccionarlo podrá editar el nombre y el dorso, luego de acepta esta personalizacion se añadira al carrito de compras.
+
+ Flujo para realizar compra:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F11.PNG" alt="Imagen11"></div>
+
+ El usuario escoge una camiseta y selecciona el botón de comprar, luego se dirige a su carrito de compras, edita la cantidad si lo requiere o elimina alguna camiseta, luego selecciona comprar, pasa la doble verificación de la compra y la compra se realiza con éxito, después es redirigo a la lista de camisetas para que continue con su compra.
+
+ Flujo para filtrar camisetas:
  <div align="center"><img src="Images\Web_App_User_Flow_Diagrams\F12.PNG" alt="Imagen12"></div>
+
+ El usuario selecciona los diferentes filtros en el catalogo de camisetas y luego le da al botón filtrar, el sistema le mostrará las camisetas con las carácteristicas escogidas
 
 ## 4.5. Web Applications Prototyping
 <b>Demostración Prototypo Web:</b>
