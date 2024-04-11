@@ -3243,3 +3243,25 @@ Tune, N. (2015, 15 de agosto). _Domain-Driven Architecture Diagrams_. Recuperado
 <br><br>
 
 # Anexos
+
+Enlace del Video de la Explicación del Prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EZCfuUL-CyZBjMyHp8LdkagBG6jscX8zl7PfeklTZYVtCQ?e=YYTjdu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Enlace del Prototipo Movil: https://www.figma.com/proto/NgftH2JsrQBU8XiT7UGm3w/MOBILE-FITSHIRT?type=design&node-id=139-2995&t=LSHlHkTGqHIIYWEU-1&scaling=contain&page-id=0%3A1&mode=design
+
+Enlance del Video de la Explicación del Prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EUdsYyXsjZpGouMlFt7A9HEBWGfVWbpR0PloDuq0mJgaKA?e=SoOR8e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Enlance del Prototipo Web: https://www.figma.com/proto/rAcxltmkjSIrKyjWHsL1dL/WEB%2FMOBILE-FITSHIRT?type=design&node-id=3-18363&t=6X1dlatUsJWHBgui-1&scaling=contain&page-id=0%3A1&starting-point-node-id=3%3A18363&mode=design
+
+Enlance delWeb Ap Mockup Figma: https://www.figma.com/file/rAcxltmkjSIrKyjWHsL1dL/WEB%2FMOBILE-FITSHIRT?type=design&node-id=0%3A1&mode=design&t=5XHQaKGutqJZ8IPJ-1
+
+Enlance del Mobile APP Mockup Figma: https://www.figma.com/file/NgftH2JsrQBU8XiT7UGm3w/MOBILE-FITSHIRT?type=design&mode=design&t=x7YV0nIXJSDiKk5u-1
+
+Enlance del Figma landing page: https://www.figma.com/file/34WQCRohgfDxl5QPuWQxKc/FitShirt?type=design&node-id=0-1&mode=design&t=trCfJ8GunZpOGtwE-0
+
+Enlance del Product Backlog Trello link : https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2b20649266d0B94C669/fitshirt
+
+Enlance del repositorio del Report en GitHub: https://github.com/Dreamers-in-a-Hurry/Report
+
+Enlance del repositorio del Lanfing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
+
+Enlace de Miro As-is and To-be Scenario Maps: https://miro.com/app/board/uXjVKV_ceuM=/?share_link_id=601718785341
