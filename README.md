@@ -3533,7 +3533,6 @@ Users Bounded Context Component Diagram
         <td>
             - Aliaga Pimentel, George Arturo <br/>
             - Chirinos Arevalo, Daniel Rodrigo <br/>
-            - Cruz Ticona, Aaron Alejandro <br/>
             - Defilippi Santillán, Diego <br/>
             - Sanchez Maita, Agustin Alejandro <br/>    
         </td>
@@ -3673,7 +3672,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>Estructura del formulario de contacto</td>
        <td>Programar la estructura del formulario en HTML</td>
        <td>0.5</td>
-       <td>falta</td>
+       <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
     <tr>
@@ -3681,7 +3680,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>Agregar CSS formulario</td>
        <td>Agregar stilos al formulario</td>
        <td>0.5</td>
-       <td>falta</td>
+       <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
    <tr>
@@ -3691,7 +3690,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>Estructura Navbar</td>
        <td>Crear HTML del navbar con direccionamiento a secciones</td>
        <td>0.5</td>
-       <td>falta</td>
+       <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
     <tr>
@@ -3699,7 +3698,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>Estilos Navbar</td>
        <td>Asignar stilos al navbar</td>
        <td>0.5</td>
-       <td>falta</td>
+       <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
     <tr>
@@ -3738,7 +3737,7 @@ Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-i
         <th>Time ago</th>
     </tr>
     <tr>
-        <td rowspan=18>Landing Page</td>
+        <td rowspan=19>Landing Page</td>
         <td>main</td>
         <td>c7569ab</td>
         <td>Diego Defilippi</td>
@@ -3761,15 +3760,15 @@ Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-i
     </tr>
     <tr>
         <td>feature/navbar</td>
-        <td>###</td>
-        <td>###</td>
+        <td>4e8f0fc</td>
+        <td>Diego Defilippi</td>
         <td>feat: added navbar html</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/navbar</td>
-        <td>###</td>
-        <td>###</td>
+        <td>f6df2f7</td>
+        <td>Diego Defilippi</td>
         <td>feat: added navbar styles</td>
         <td>11/04/2024</td>
     </tr>
@@ -3831,15 +3830,15 @@ Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-i
     </tr>
     <tr>
         <td>feature/contact-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>8902c05</td>
+        <td>Diego Defilippi</td>
         <td>feat: added contact html</td>
         <td>11/04/2024</td>
     </tr>
     <tr>
         <td>feature/contact-section</td>
-        <td>###</td>
-        <td>###</td>
+        <td>df3fe9f</td>
+        <td>Diego Defilippi</td>
         <td>feat: added contact css</td>
         <td>11/04/2024</td>
     </tr>
@@ -3859,9 +3858,16 @@ Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-i
     </tr>
     <tr>
         <td>feature/responsive</td>
-        <td>###</td>
-        <td>###</td>
+        <td>aec4ec5</td>
+        <td>Diego Defilippi</td>
         <td>feat: added responsive css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>Develop|MERGING</td>
+        <td>eff2f12</td>
+        <td>Diego Defilippi</td>
+        <td>Release Landing Page v. 1.0</td>
         <td>11/04/2024</td>
     </tr>
     
@@ -3927,6 +3933,8 @@ Como resultado del primer sprint, se presenta el despliegue de la Landing Page.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+Para esta primera entrega, se ha desplegado lo que es la landing page utilizando el servicio gratuito de GitHub Pages. El landing page es visible en el siguiente link: <a href="https://dreamers-in-a-hurry.github.io/Landing-page/">Landing page</a>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para el desarrollo de la Landing page, se utilizaron las siguientes texnologías:
@@ -3950,7 +3958,15 @@ Para mayor información sobre la metodología empleada por el equipo, como nomen
 
 GitFlow del sprint:
 
+<div align="center">
+    <img src="./Images/collaboration_insights/gitflow.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 Contribuciones del equipo:
+
+<div align="center">
+    <img src="./Images/collaboration_insights/contributions.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 <br><br>
 
