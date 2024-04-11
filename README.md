@@ -788,6 +788,18 @@ Henry mostró un fuerte interés en camisetas deportivas, especialmente las rela
 
 ### 2.3.1. User Personas
 
+**User persona de Comerciante :**
+
+<div align="center">
+    <img src="Images/Deyvid Joseph.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**User persona de Cliente :**
+
+<div align="center">
+    <img src="Images/Henry Aguila Cortes.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 ### 2.3.2. User Task Matrix
 
 **User Task Matrix de Comerciante :**
@@ -803,6 +815,10 @@ Henry mostró un fuerte interés en camisetas deportivas, especialmente las rela
 </div>
 
 ### 2.3.3. User Journey Mapping
+
+<div align="center">
+    <img src="Images\journey.png" style="margin: 10px 0;" width="80%"/>
+</div>
 
 ### 2.3.4. Empathy Mapping
 
@@ -849,6 +865,18 @@ Review: Opinión proporcionada por los clientes sobre las camisetas o su experie
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+Usuario:
+
+<div align="center">
+  <img src="Images\As-is_To-be Scneario_Mapping\Usuario_TO_BE_MAPPING.PNG" alt="To_be_Usuario" style="margin: 10px 0;" width="90%"/>
+</div>
+
+Confeccionista:
+
+<div align="center">
+  <img src="Images\As-is_To-be Scneario_Mapping\Vendedor_TO_BE_MAPPING.PNG" alt="To_be_Confeccionista" style="margin: 10px 0;" width="90%"/>
+</div>
 
 ## 3.2. User Stories
 
@@ -3769,7 +3797,6 @@ Users Bounded Context Component Diagram
   </tr>
 </table>
 
-
 ### 5.1.2. Source Code Management
 
 Utilizamos la metodología de git flow con finalidad es tener un control mayor sobre la gestión del proyecto, avanzar el proyecto de forma simultanea tanto como en la implementación del la aplicación y creación del reporte.
@@ -3794,10 +3821,10 @@ Convenciones:
 - Se tiene que declarar el tipo de documento en la primera línea de la siguiente manera: <!DOCTYPE html>
 - Las etiquetas siempre tienen que esta en minúscula, ya que es más claro a la vista y es de facil escritura para los desarrolladores.
 - Usar las comillas para darle un valor a los atributos para una mejor legibilidad.
-  
+
 **CSS**: Lenguaje que permite dar formatos o estilos a los elementos html. Con este lenguaje se pueden crear diseños web agradables e intuitivos para el usuario.
 
-Convenciones: 
+Convenciones:
 
 - Unir los nombres de las clases compuestas con guiones: **box-container{}**
 - Usar la unidad de medida rem para mantener un diseño responsive: **1rem**
