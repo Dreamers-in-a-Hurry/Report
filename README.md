@@ -1032,6 +1032,9 @@ Esto nos permitio separar el proyecto en la rama principal (main) en la que se e
  <div align="center"><img src="Images\Source_Code_Management_Network\N3.PNG" alt="Imagen3"></div>
  <div align="center"><img src="Images\Source_Code_Management_Network\N4.PNG" alt="Imagen4"></div>
 
+URL del repositorio del Report en GitHub: https://github.com/Dreamers-in-a-Hurry/Report
+
+URL del repositorio del Lanfing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
