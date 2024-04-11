@@ -1034,11 +1034,32 @@ Esto nos permitio separar el proyecto en la rama principal (main) en la que se e
 
 URL del repositorio del Report en GitHub: https://github.com/Dreamers-in-a-Hurry/Report
 
-URL del repositorio del Lanfing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
+URL del repositorio del Landing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+**HTML**: Lenguaje utilizado para diseñar páginas web. Este lenguaje utiliza etiquetas para marcar y definir el contenido de la página web; Como un texto, imagenes, videos, etc.
+
+Convenciones:
+
+- Se tiene que declarar el tipo de documento en la primera línea de la siguiente manera: <!DOCTYPE html>
+- Las etiquetas siempre tienen que esta en minúscula, ya que es más claro a la vista y es de facil escritura para los desarrolladores.
+- Usar las comillas para darle un valor a los atributos para una mejor legibilidad.
+  
+**CSS**: Lenguaje que permite dar formatos o estilos a los elementos html. Con este lenguaje se pueden crear diseños web agradables e intuitivos para el usuario.
+
+Convenciones: 
+
+- Unir los nombres de las clases compuestas con guiones: **box-container{}**
+- Usar la unidad de medida rem para mantener un diseño responsive: **1rem**
+
 ### 5.1.4. Software Deployment Configuration
+
+Para despliegar el landing page, usamos las siguientes herraminetas.
+
+- Git: Para realizar el manejo de las versiones del proyecto.
+- GitHub: Dentro de la plataforma tenemos un repositorio, lo usamos para almacenar todo el proyecto con sus respectivas versiones.
+- GitFlow: Esto permite visualizar y controlar el flujo de trabajo hecho por el equipo de desarrollo.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
