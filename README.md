@@ -180,8 +180,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <b>Aliaga Pimentel, George Arturo </b><br>
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
-        dasdas
         <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las partes importantes como el diagrama de clases, diagrama de base de datos, parte del Lean UX, user stories y aporté ideas para el trabajo.<br/>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
         <br><br> 
@@ -208,7 +209,11 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <td> TB1<br><br>
         <b>Aliaga Pimentel, George Arturo </b><br>
         <br><br> 
-        <b>Chirinos Arevalo, Daniel Rodrigo</b><br>
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        -Desarrollé la hypothesis y canvas del Lean UX de acuerdo a nuestro problema.
+        -Realicé el diagrama de clases y el de base de datos de acuerdo a la plataforma realizada.
+        -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
         <br><br> 
