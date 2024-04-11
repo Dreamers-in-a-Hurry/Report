@@ -796,6 +796,12 @@ Henry mostró un fuerte interés en camisetas deportivas, especialmente las rela
     <img src="Images/Deyvid Joseph.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
+**User persona de Cliente :**
+
+<div align="center">
+    <img src="Images/Henry Aguila Cortes.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 ### 2.3.2. User Task Matrix
 
 **User Task Matrix de Comerciante :**
