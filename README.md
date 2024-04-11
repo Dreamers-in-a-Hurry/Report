@@ -3843,6 +3843,56 @@ En la presente entrega no se ha trabajado ningún aspecto de la aplicación web,
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+Como resultado del primer sprint, se presenta el despliegue de la Landing Page.
+
+<b>Hero Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/hero.section.png" alt="Hero section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Catalogue Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/catalogue.section.png" alt="Catalogue section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Designing Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/designing.section.png" alt="Designing section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>About Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/about.section.png" alt="About section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Contact Section</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/contact.section.png" alt="Contact section" style="margin: 10px 0;" width="90%"/>
+</div>
+
+<b>Hero Section - Responsive design in iPhone SE</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/hero.responsive.section.png" alt="Hero Section as Responsive design in iPhone SE" style="margin: 10px 0;" width="70%"/>
+</div>
+
+<b>Catalogue Section - Responsive design in iPhone SE</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/catalogue.responsive.section.png" alt="Catalogue Section as Responsive design in iPhone SE" style="margin: 10px 0;" width="70%"/>
+</div>
+
+<b>Contact Section - Responsive design in iPhone SE</b>
+
+<div align="center">
+    <img src="./Images/landing_page.evidence/contact.responsive.section.png" alt="Contact Section as Responsive design in iPhone SE" style="margin: 10px 0;" width="70%"/>
+</div>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
