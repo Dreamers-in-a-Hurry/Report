@@ -3195,6 +3195,113 @@ Users Bounded Context Component Diagram
 
 #### 5.2.1.1. Sprint Planning 1
 
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            11/04/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Dreamers in a Hurry     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Cruz Ticona, Aaron Alejandro <br/>
+            - Defilippi Santillán, Diego <br/>
+            - Sanchez Maita, Agustin Alejandro <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 0</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Landing Page y la lógica de funcionamiento de la plataforma FitShirt.
+            </br></br>
+            La Landing Page se implementó exitosamente dentro del plazo establecido.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se logró mantener una comunicación excelentes entre los integrantes del equipo, gracias al uso de plataformas como Discord, lo que conllevó a entregar el trabajo a tiempo. Sin embargo, se debe mejorar el aspecto de la organización, para terminar las próximas enteras sin estar al límite del deathline.
+</br></br>
+Para asegurar un avance constante en el proyecto, se considera crucial perfeccionar la estimación del desarrollo de user stories. Esto permitirá evitar desajustes en el calendario y garantizará un flujo de trabajo más estable. 
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            8  
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            8  
+        </td>
+    </tr>
+</table>
+</br>
+
 #### 5.2.1.2. Sprint Backlog 1
 
 #### 5.2.1.3. Development Evidence for Sprint Review
