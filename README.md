@@ -703,6 +703,217 @@ Enlance del Prototipo: https://www.figma.com/proto/NgftH2JsrQBU8XiT7UGm3w/MOBILE
 
 ### 4.7.2. Class Dictionary
 
+<table>
+    <td colspan= "3" align="center">Usuario</td>
+<tr>
+    <td>int</td>
+    <td>idUser</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del usuario</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del usuario</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>password</td>
+    <td>Contraseña del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>location</td>
+    <td>Ubicación del usuario</td>
+  </tr>
+   <tr>
+    <td>date</td>
+    <td>birthdate</td>
+    <td>Cumpleaños del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+   <tr>
+    <td>double</td>
+    <td>phone</td>
+    <td>Telefono del usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>escribirReseña()</td>
+    <td>Reseña que hará el usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>realizarCuestionario()</td>
+    <td>Cuestionario que realizará el usuario para las camisetas</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Proveedor</td>
+<tr>
+    <td>string</td>
+    <td>nombreEmpresa</td>
+    <td>Nombre de la empresa donde proviene el proveedor</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>tipoProveedor</td>
+    <td>Tipo de proveedor</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Premium</td>
+<tr>
+    <td>double</td>
+    <td>descuento</td>
+    <td>Descuento que recibirá el usuario premium</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>limiteDiseño</td>
+    <td>El usuario premium obtendrá una cantidad ilimitada de diseño de camisetas</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>limiteContacto</td>
+    <td>El usuario premium obtendrá una cantidad ilimitada de contactos con los proveedores</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Gratis</td>
+  <tr>
+    <td>bool</td>
+    <td>limiteDiseño</td>
+    <td>El usuario gratuito obtendrá un limite de diseño</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>limiteContacto</td>
+    <td>El usuario gratuito obtendrá un limite de contactos con los proveedores</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">CuestionarioDiseño</td>
+<tr>
+    <td>int</td>
+    <td>idCuestionario</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>descripcion</td>
+    <td>Descripción de la camiseta personalizada</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>opcionesdiseño</td>
+    <td>Funciones para el diseño de la camiseta</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Reseña</td>
+<tr>
+    <td>int</td>
+    <td>valoración</td>
+    <td>Calificación de la camiseta</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>comentario</td>
+    <td>Comentario de la camiseta</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">TarjetaDebito</td>
+<tr>
+    <td>int</td>
+    <td>numTarjeta</td>
+    <td>Número de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>cvv</td>
+    <td>Código de seguridad de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>fecha</td>
+    <td>Fecha de expiración de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del dueño de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>pago()</td>
+    <td>Realizar el pago con la tarjeta de debito</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Plataforma</td>
+<tr>
+    <td>void</td>
+    <td>vistaInicioSesion()</td>
+    <td>Pantalla de inicio de sesión</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaDiseñoCamiseta()</td>
+    <td>Pantalla de la personalización de camisetas deportivas</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPlanSuscripcion</td>
+    <td>Pantalla de el metodo de pago para el plan de suscripción</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaCatalogo()</td>
+    <td>Pantalla de el catalogo de nuestra plataforma</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaContacto()</td>
+    <td>Pantalla de los contactos hacia los proveedores</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPerfilUsuario()</td>
+    <td>Pantalla del perfil del usuario</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaTienda()</td>
+    <td>Pantalla de la tienda</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">PlanSuscripción</td>
+  <tr>
+    <td>void</td>
+    <td>metodopago()</td>
+    <td>Metodo de pago que realizará el usuario</td>
+  </tr>
+</table>
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
