@@ -2886,6 +2886,22 @@ Link del trello: https://trello.com/invite/b/y0DmY4eM/ATTI0926d79c9fe0096478bba2
 
 ### 4.1.1. General Style Guidelines
 
+<b>Branding:</b> El logo de nuestro proyecto está representado por su nombre y un icono de una camiseta para representar
+lo que ofrece nuestra aplicación.
+
+Se decidio que las letras del nombre sean de dos colores.
+
+<td><img src="Images/SGuidelines/logo.png" alt="logo"></td>
+
+<b>Typography:</b> Nuestro logotipo presenta la fuente Xpress Rounded, que refleja un estilo moderno y amigable, encapsulando así
+la naturaleza innovadora y entretenida de nuestra aplicación. Para mantener coherencia con las imágenes de señas que utilizaremos, optamos por letras blancas, asegurando que nuestra marca sea inclusiva y que ningún usuario se sienta discriminado.
+
+En particular, las letras 'Fit' se destacan en negro, mientras que 'Shirt' se presenta en un vibrante tono azul. Esta combinación de colores refuerza la identidad visual de FitShirt, añadiendo un toque de dinamismo y frescura a nuestro logotipo.
+
+<b>Colores:</b> Los colores de nuestra página fueron seleccionados con el objetivo de ofrecer una experiencia visualmente agradable para el usuario, al mismo tiempo que transmiten sensaciones de calma y equilibrio. La combinación de blanco y gris aporta un aspecto positivo y único a nuestra marca, creando una atmósfera de serenidad y sofisticación.
+
+<td><img src="Images/SGuidelines/color.png" alt="colo"></td>
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
@@ -3448,9 +3464,220 @@ Users Bounded Context Component Diagram
 
 ### 4.7.1. Class Diagrams
 
-<td><img src="Images/DiagramaDeClases.png" alt="Imagen del diagrama de clases" width="1500"></td>
+<td><img src="Images/DiagramaDeClases.png" alt="Imagen del diagrama de clases." width="1500"></td>
 
 ### 4.7.2. Class Dictionary
+
+<table>
+    <td colspan= "3" align="center">Usuario</td>
+<tr>
+    <td>int</td>
+    <td>idUser</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del usuario</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del usuario</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>password</td>
+    <td>Contraseña del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>location</td>
+    <td>Ubicación del usuario</td>
+  </tr>
+   <tr>
+    <td>date</td>
+    <td>birthdate</td>
+    <td>Cumpleaños del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+   <tr>
+    <td>double</td>
+    <td>phone</td>
+    <td>Telefono del usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>escribirReseña()</td>
+    <td>Reseña que hará el usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>realizarCuestionario()</td>
+    <td>Cuestionario que realizará el usuario para las camisetas</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Proveedor</td>
+<tr>
+    <td>string</td>
+    <td>nombreEmpresa</td>
+    <td>Nombre de la empresa donde proviene el proveedor</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>tipoProveedor</td>
+    <td>Tipo de proveedor</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Premium</td>
+<tr>
+    <td>double</td>
+    <td>descuento</td>
+    <td>Descuento que recibirá el usuario premium</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>limiteDiseño</td>
+    <td>El usuario premium obtendrá una cantidad ilimitada de diseño de camisetas</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>limiteContacto</td>
+    <td>El usuario premium obtendrá una cantidad ilimitada de contactos con los proveedores</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Gratis</td>
+  <tr>
+    <td>bool</td>
+    <td>limiteDiseño</td>
+    <td>El usuario gratuito obtendrá un limite de diseño</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>limiteContacto</td>
+    <td>El usuario gratuito obtendrá un limite de contactos con los proveedores</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">CuestionarioDiseño</td>
+<tr>
+    <td>int</td>
+    <td>idCuestionario</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>descripcion</td>
+    <td>Descripción de la camiseta personalizada</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>opcionesdiseño</td>
+    <td>Funciones para el diseño de la camiseta</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Reseña</td>
+<tr>
+    <td>int</td>
+    <td>valoración</td>
+    <td>Calificación de la camiseta</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>comentario</td>
+    <td>Comentario de la camiseta</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">TarjetaDebito</td>
+<tr>
+    <td>int</td>
+    <td>numTarjeta</td>
+    <td>Número de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>cvv</td>
+    <td>Código de seguridad de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>fecha</td>
+    <td>Fecha de expiración de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del dueño de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>pago()</td>
+    <td>Realizar el pago con la tarjeta de debito</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Plataforma</td>
+<tr>
+    <td>void</td>
+    <td>vistaInicioSesion()</td>
+    <td>Pantalla de inicio de sesión</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaDiseñoCamiseta()</td>
+    <td>Pantalla de la personalización de camisetas deportivas</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPlanSuscripcion</td>
+    <td>Pantalla de el metodo de pago para el plan de suscripción</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaCatalogo()</td>
+    <td>Pantalla de el catalogo de nuestra plataforma</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaContacto()</td>
+    <td>Pantalla de los contactos hacia los proveedores</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPerfilUsuario()</td>
+    <td>Pantalla del perfil del usuario</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaTienda()</td>
+    <td>Pantalla de la tienda</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">PlanSuscripción</td>
+  <tr>
+    <td>void</td>
+    <td>metodopago()</td>
+    <td>Metodo de pago que realizará el usuario</td>
+  </tr>
+</table>
 
 ## 4.8. Database Design
 
@@ -3466,11 +3693,122 @@ Users Bounded Context Component Diagram
 
 ### 5.1.1. Software Development Environment Configuration
 
+<table border="1">
+
+  <tr>
+    <td>Project Management</td>
+    <td>Microsoft 365<br>Alojamiento de los videos de entrevistas, explicación de prototipos y otros relacionados al proyecto</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Discord<br>Plataforma de mensajería instantánea donde se llevaron a cabo las reuniones, repartición de tarea y desarrollo del proyecto colaborativo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Whatsapp<br>Aplicación de mensajería instantánea donde se realizaron recordatorios de las reuniones.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Trello<br>Software de administración Y gestión de proyectos que se utilizó para establecer y designar las tareas</td>
+  </tr>
+  <tr>
+    <td>Requirements Management</td>
+    <td>Structurizr<br>Structurizr es una herramienta de modelado y documentación que permitió el desarrollo de los diagramas C4</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vertabelo<br>Herramienta de diseño para el modelado de diagrama de bases de datos.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>LucidChart<br>Herramienta de diseño para el modelado de diagramas UML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Miro<br>Herramienta de diseño para la creación de los As-Is y To-Be Scenario Mapping</td>
+  </tr>
+  <tr>
+    <td>Product UX/UI Design</td>
+    <td>Figma<br>Herramienta que se utilizó para la creación de wireframes, mockups y prototipos.</td>
+  </tr>
+  <tr>
+    <td>Software Development</td>
+    <td>Git<br>Es un software de control de versiones para los trabajos en equipos y confiabilidad del desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Node.js<br>Node.js es un entorno de ejecución de JavaScript del lado del servidor, que permite desarrollar aplicaciones web escalables y de alto rendimiento fuera del navegador.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>GitHub<br>Sistema de control de versiones Git.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>HTML5<br>Lenguaje de etiquetas, utilizado para la estructuración y la presentación de contenido.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>CSS<br>CSS es un lenguaje utilizado para estilizar y dar formato a documentos HTML.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>JavaScript<br>JavaScript es un lenguaje de programación de alto nivel, interpretado y multi-paradigma, utilizado para crear interactividad en páginas web.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>VScode<br>Es un editor de código fuente con extensiones que ayudan al desarrollo.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Vue.js Framework<br>Framework basado en Single Page Applications para el desarrollo de frontend</td>
+  </tr>
+  <tr>
+    <td>Software Deployment</td>
+    <td>Github Pages<br>Plataforma que nos facilitó realizar el despliegue de nuestro landing page de manera rápida y práctica.</td>
+  </tr>
+</table>
+
+
 ### 5.1.2. Source Code Management
+
+Utilizamos la metodología de git flow con finalidad es tener un control mayor sobre la gestión del proyecto, avanzar el proyecto de forma simultanea tanto como en la implementación del la aplicación y creación del reporte.
+
+Esto nos permitio separar el proyecto en la rama principal (main) en la que se encuentra la versión presentable del proyecto, que a la vez no cuenta con errores. También tenemos la rama secundario (develop) que sirve para unificar los cambios de las demás ramas. También contamos con más branches una para determinadas fuincionalidades amplias de la aplicación y una para cada chapter del reporte.
+
+ <div align="center"><img src="Images\Source_Code_Management_Network\N1.PNG" alt="Imagen1"></div>
+ <div align="center"><img src="Images\Source_Code_Management_Network\N2.PNG" alt="Imagen2"></div>
+ <div align="center"><img src="Images\Source_Code_Management_Network\N3.PNG" alt="Imagen3"></div>
+ <div align="center"><img src="Images\Source_Code_Management_Network\N4.PNG" alt="Imagen4"></div>
+
+URL del repositorio del Report en GitHub: https://github.com/Dreamers-in-a-Hurry/Report
+
+URL del repositorio del Landing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+**HTML**: Lenguaje utilizado para diseñar páginas web. Este lenguaje utiliza etiquetas para marcar y definir el contenido de la página web; Como un texto, imagenes, videos, etc.
+
+Convenciones:
+
+- Se tiene que declarar el tipo de documento en la primera línea de la siguiente manera: <!DOCTYPE html>
+- Las etiquetas siempre tienen que esta en minúscula, ya que es más claro a la vista y es de facil escritura para los desarrolladores.
+- Usar las comillas para darle un valor a los atributos para una mejor legibilidad.
+  
+**CSS**: Lenguaje que permite dar formatos o estilos a los elementos html. Con este lenguaje se pueden crear diseños web agradables e intuitivos para el usuario.
+
+Convenciones: 
+
+- Unir los nombres de las clases compuestas con guiones: **box-container{}**
+- Usar la unidad de medida rem para mantener un diseño responsive: **1rem**
+
 ### 5.1.4. Software Deployment Configuration
+
+Para despliegar el landing page, usamos las siguientes herraminetas.
+
+- Git: Para realizar el manejo de las versiones del proyecto.
+- GitHub: Dentro de la plataforma tenemos un repositorio, lo usamos para almacenar todo el proyecto con sus respectivas versiones.
+- GitFlow: Esto permite visualizar y controlar el flujo de trabajo hecho por el equipo de desarrollo.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
