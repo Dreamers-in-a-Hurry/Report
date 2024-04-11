@@ -340,9 +340,33 @@ Páginas individuales de productos que muestran imágenes detalladas, descripcio
 
 ### 4.2.2. Labeling Systems
 
+
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
+
+El sistema de búsqueda se vera expuesto al momento de que cada usuario desee encontrar y fitrar dentro del mercado disponible la camiseta que desea comprar. Para ello emplearemos diferentes formas de búsqueda:
+
+<b> 1. Búsqueda por Diseño: </b>
+- Los usuarios pueden buscar camisetas por diseños específicos, como "camisetas con estampados de equipos deportivos" o "camisetas con diseño abstracto".
+- Se proporcionan opciones de búsqueda avanzada para filtrar por colores, estilos de diseño (gráficos, texto, imágenes), y temas.
+
+<b> 2. Búsqueda por Talla y Color: </b>
+- Los usuarios pueden buscar camisetas por tamaño y color específicos, como "camisetas en talla L color azul".
+- Se ofrecen filtros para seleccionar múltiples tallas y colores a la vez, facilitando la búsqueda de opciones variadas.
+
+<b> 3. Búsqueda por Categoría: </b>
+- Los usuarios pueden buscar camisetas por categorías deportivas como fútbol, baloncesto, tenis, entre otros.
+- La plataforma sugiere categorías populares y permite buscar en categorías menos comunes mediante una opción de búsqueda ampliada.
+
+<b> 4. Búsqueda Avanzada: </b>
+- Se ofrece una búsqueda avanzada que permite a los usuarios combinar múltiples criterios de búsqueda, como "camisetas de fútbol en talla M color rojo con diseño de equipo X".
+- Los resultados de la búsqueda avanzada se presentan en una lista organizada por relevancia y se pueden refinar aún más utilizando filtros adicionales.
+
+<b> 5. Búsqueda por Precio y Descuentos: </b>
+- Los usuarios pueden buscar camisetas dentro de rangos de precio específicos.
+- Se muestra información sobre descuentos y ofertas especiales, y se proporciona una opción para buscar solo productos con descuentos aplicables.
 
 ### 4.2.5. Navigation Systems
 
