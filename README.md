@@ -3839,6 +3839,8 @@ Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-i
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+En la presente entrega no se ha trabajado ningún aspecto de la aplicación web, solo la Landing Page; por lo que consideramos innecesario testear el avance. No obstante, el estado de la Landing Page será presentado en la siguiente sección del informe.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
