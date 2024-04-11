@@ -3910,6 +3910,16 @@ Asimismo, para el despliegue de la página, se utilizó el servicio de GitHub Pa
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+La StartUp _Dreamers in a Hurry_ ha realizado el presente sprint usando Git y Github como herramientas principales para el control de versiones y GitFlow como metodología de trabajo.
+
+En primer lugar, se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Landing page. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `main` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `main`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como _commits_.
+
+Para mayor información sobre la metodología empleada por el equipo, como nomenclaturas, tipos de ramas y commits, véase la [Guía](./docs/Github_upload_guide.md) presente en el repositorio.
+
+GitFlow del sprint:
+
+Contribuciones del equipo:
+
 <br><br>
 
 # Conclusiones
