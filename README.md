@@ -1082,7 +1082,7 @@ Entonces se mostrará una lista completa de todas las camisetas que el confeccio
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          George Aliaga
         </td>
     </tr>
         <tr align="left">
