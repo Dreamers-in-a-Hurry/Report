@@ -252,7 +252,7 @@ lo que ofrece nuestra aplicación.
 
 Se decidio que las letras del nombre sean de dos colores.
 
-<td><img src="Images/SGuideLines/logo.png" alt="logo"></td>
+<td><img src="Images/SGuidelines/logo.png" alt="logo"></td>
 
 <b>Typography:</b> Nuestro logotipo presenta la fuente Xpress Rounded, que refleja un estilo moderno y amigable, encapsulando así
 la naturaleza innovadora y entretenida de nuestra aplicación. Para mantener coherencia con las imágenes de señas que utilizaremos, optamos por letras blancas, asegurando que nuestra marca sea inclusiva y que ningún usuario se sienta discriminado.
@@ -261,7 +261,7 @@ En particular, las letras 'Fit' se destacan en negro, mientras que 'Shirt' se pr
 
 <b>Colores:</b> Los colores de nuestra página fueron seleccionados con el objetivo de ofrecer una experiencia visualmente agradable para el usuario, al mismo tiempo que transmiten sensaciones de calma y equilibrio. La combinación de blanco y gris aporta un aspecto positivo y único a nuestra marca, creando una atmósfera de serenidad y sofisticación.
 
-<td><img src="Images/SGuideLines/colores.png" alt="colores"></td>
+<td><img src="Images/SGuidelines/colores.png" alt="colores"></td>
 
 ### 4.1.2. Web Style Guidelines
 
