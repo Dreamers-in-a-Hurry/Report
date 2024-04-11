@@ -165,14 +165,77 @@
 
 # Student Outcome
 
-<div align="center">
+Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.
 
-| Criterio específico                                                                                                                                 | Acciones realizadas | Conclusiones |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------- |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software |                     |              |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                            |                     |              |
+Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.
 
-</div>
+<table>
+<tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+</tr>
+<tr>
+    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td> TB1<br><br>
+        <b>Aliaga Pimentel, George Arturo </b><br>
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las partes importantes como el diagrama de clases, diagrama de base de datos, parte del Lean UX, user stories y aporté ideas para el trabajo.<br/>
+        <br><br>
+        <b>Cruz Ticona, Aaron Alejandro</b><br>
+        <br><br> 
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - Participé y aporté ideas en las reuniones virtuales, además de planificar y organizar las tareas a realizar.<br/>
+        - Realicé mis tareas y las entregué en fecha.<br/>
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - Elaboré los Wireframes, Mockups y Prototypes de la Aplicación Web utilizando la herramienta figma para realizar el entregable con mayor rapidez.<br>
+        - Logré cumplir las actividades que se me asignaron haciendo uso de las herramientas aprendidas en el curso.
+        <br>
+    </td>
+    <td>TB1
+    <br>
+    Se logró desarrollar y desplegar la Landing page en base a las reuniones colaborativas y proacticas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow
+    </td>
+
+</tr>
+<tr>
+<td><b>
+Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+<td> TB1<br><br>
+        <b>Aliaga Pimentel, George Arturo </b><br>
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        -Desarrollé la hypothesis y canvas del Lean UX de acuerdo a nuestro problema.
+        -Realicé el diagrama de clases y el de base de datos de acuerdo a la plataforma realizada.
+        -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.
+        <br><br>
+        <b>Cruz Ticona, Aaron Alejandro</b><br>
+        <br><br> 
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - Desarrollo de user stories y acceptance criterias en base a los features determinados en reuniones<br/>
+        - Domain-Driven Sotfware Arquitecture en base a las conversaciones con el equipo. 
+        - Guía de GitFlow para el proyecto
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - Al realizar los Mockups de la aplicación se tomó de referencias las interfaces de nuestros competidores, recopilando las funcionalidades más destacables para ofrecer un mejor servicio al usuario.
+        <br>
+</td>
+    <td>TB1
+    <br>
+    Se identificó una oportunidad de negocio a partir de una problemática actual. A partir de ello, se comenzó a desarrollar una solución de software aplicando los conocimientos aprendidos en los diferentes cursos.
+    </td>
+</tr>
+</table>
+
 <br><br>
 
 ## Capítulo I: Introducción
