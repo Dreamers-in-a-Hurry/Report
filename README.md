@@ -340,7 +340,13 @@ Páginas individuales de productos que muestran imágenes detalladas, descripcio
 
 ### 4.2.2. Labeling Systems
 
-
+Consideramos que la mejor opción para el desarrollo de nuestra plataforma serpa a travez del sistema de etiquetado, es decir, que para describir cada funcionalidad y caracterstica utilizaremos una etiqueta. Como lo pueden ser una etiqueta para el:
+- Diseño Personalizado
+- Catálogo de Camisetas
+- Registro de Usuarios
+- Descripción de Producto
+- Datos de Diseño
+- Entre otros.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
