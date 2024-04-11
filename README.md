@@ -790,6 +790,12 @@ Henry mostró un fuerte interés en camisetas deportivas, especialmente las rela
 
 ### 2.3.1. User Personas
 
+**User persona de Comerciante :**
+
+<div align="center">
+    <img src="Images/Deyvid Joseph.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 ### 2.3.2. User Task Matrix
 
 **User Task Matrix de Comerciante :**
