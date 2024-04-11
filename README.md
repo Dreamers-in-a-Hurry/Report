@@ -764,6 +764,26 @@ Miguel nos comentó que cuando compra una camiseta deportiva, lo motiva que sea 
 
 <br/>
 
+<b>Entrevista 3</b><br/>
+
+- Nombre: Henry 
+- Apellidos: Aguila Cortes
+- Edad: 21 años
+- Distrito: Carabayllo
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c273_upc_edu_pe/EdaoYwxN2kpIneZ7rP1bXOwBLwDZzNwZTjvOjp8bph9CjA?e=4RDLZf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista</a>
+- Duración: 14:32 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews\Henry_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Henry mostró un fuerte interés en camisetas deportivas, especialmente las relacionadas con el fútbol. Su motivación para comprar camisetas radica en el diseño, la calidad y su lealtad hacia su equipo favorito. Utiliza las camisetas principalmente para jugar partidos de fútbol y compra nuevas aproximadamente cada cuatro a cinco meses, mostrando un alto grado de compromiso con su pasión deportiva. Henry prefiere camisetas originales pero también considera réplicas si el precio es más accesible. Ha solicitado camisetas personalizadas en el pasado y se muestra dispuesto a invertir entre 200 a 250 soles en una camiseta personalizada. Se mostró entusiasmado con la idea de una aplicación como FitShirt, donde podría encontrar una variedad de camisetas personalizadas a través de un catálogo virtual. En resumen, Henry representa un potencial cliente para FitShirt, ya que muestra un fuerte interés en camisetas deportivas, valora la calidad y la personalización, y está abierto a nuevas opciones de compra a través de plataformas digitales.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
