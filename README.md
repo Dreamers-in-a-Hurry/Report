@@ -1308,7 +1308,7 @@ Entonces la aplicación mostrará la información del vendedor, incluyendo `Nomb
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Daniel Chirinos
         </td>
     </tr>
         <tr align="left">
@@ -1641,7 +1641,7 @@ Entonces la página web no se actualiza<br/>
             <b>Owner</b>
         </td>
         <td>
-          *falta*
+          Daniel Chirinos
         </td>
     </tr>
         <tr align="left">
@@ -1649,7 +1649,7 @@ Entonces la página web no se actualiza<br/>
             <b>Título US</b>
         </td>
         <td colspan=2>
-            tit
+            Previsualización de productos a comprar
         </td>
     </tr>
     <tr align="left">
@@ -1697,7 +1697,7 @@ Y también el método de pago a efectuar.</br>
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Diego Defilippi
         </td>
     </tr>
         <tr align="left">
@@ -1752,7 +1752,7 @@ Y su carrito de compras se mantendrá intacto. <br/>
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Aaron Cruz
         </td>
     </tr>
         <tr align="left">
@@ -1817,7 +1817,7 @@ Y se mostrará el mensaje de "Pago no efectuado con exito" <br/>
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Aaron Cruz
         </td>
     </tr>
         <tr align="left">
@@ -1877,7 +1877,7 @@ Entonces la camiseta personalizada se agregará a la lista del carrito de compra
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          Aaron Cruz
         </td>
     </tr>
         <tr align="left">
@@ -1956,7 +1956,7 @@ Y podrá escoger el escudo que más le guste.<br/>
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          George Aliaga
         </td>
     </tr>
         <tr align="left">
@@ -2153,7 +2153,7 @@ Entonces será redirigido a la sección de _Premium_ para que mejore su cuenta<b
             <b>Owner</b>
         </td>
         <td>
-          *Falta*
+          George Aliaga
         </td>
     </tr>
         <tr align="left">
@@ -3106,9 +3106,9 @@ Enlance del Prototipo: https://www.figma.com/proto/rAcxltmkjSIrKyjWHsL1dL/WEB%2F
 
  <div align="center"><img src="Images\PrototipoMobileEvidencia.png" alt="ImagenPrototipoWebEvidencia"></div>
 
-Enlance del Video de la Explicación del Prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EZCfuUL-CyZBjMyHp8LdkagBG6jscX8zl7PfeklTZYVtCQ?e=YYTjdu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace del Video de la Explicación del Prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EZCfuUL-CyZBjMyHp8LdkagBG6jscX8zl7PfeklTZYVtCQ?e=YYTjdu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Enlance del Prototipo: https://www.figma.com/proto/NgftH2JsrQBU8XiT7UGm3w/MOBILE-FITSHIRT?type=design&node-id=139-2995&t=LSHlHkTGqHIIYWEU-1&scaling=contain&page-id=0%3A1&mode=design
+Enlace del Prototipo: https://www.figma.com/proto/NgftH2JsrQBU8XiT7UGm3w/MOBILE-FITSHIRT?type=design&node-id=139-2995&t=LSHlHkTGqHIIYWEU-1&scaling=contain&page-id=0%3A1&mode=design
 
 ## 4.6. Domain-Driven Software Architecture
 
