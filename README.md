@@ -261,7 +261,7 @@ En particular, las letras 'Fit' se destacan en negro, mientras que 'Shirt' se pr
 
 <b>Colores:</b> Los colores de nuestra página fueron seleccionados con el objetivo de ofrecer una experiencia visualmente agradable para el usuario, al mismo tiempo que transmiten sensaciones de calma y equilibrio. La combinación de blanco y gris aporta un aspecto positivo y único a nuestra marca, creando una atmósfera de serenidad y sofisticación.
 
-<td><img src="Images/SGuidelines/color.png" alt="color"></td>
+<td><img src="Images/SGuidelines/color.png" alt="colo"></td>
 
 ### 4.1.2. Web Style Guidelines
 
