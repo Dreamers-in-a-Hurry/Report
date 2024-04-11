@@ -376,6 +376,28 @@ El sistema de búsqueda se vera expuesto al momento de que cada usuario desee en
 
 ### 4.2.5. Navigation Systems
 
+Continuando con nuestros objetivos, el sistema de navegacion debe proporcionar una experiencia fluida y facil de usar para los usuarios, permitiendoles encontrar rapidamente lo que buscan. Es por ello, que esta se describe de la siguiente forma:
+
+<b> 1. Menú Principal: </b>
+- Un menú principal ubicado en la parte superior de cada página que incluye enlaces a las secciones clave de la plataforma, como Inicio, Catálogo, Diseño, Registro, Quiénes Somos y Contacto.
+- Cada elemento del menú principal está etiquetado de manera clara y concisa para facilitar la navegación.
+
+<b> 2. Navegación Contextual:</b>
+- Dentro de cada sección principal, se proporciona una navegación contextual que muestra submenús o enlaces relacionados con la sección actual, como diferentes categorías en el Catálogo o herramientas de diseño en la sección de Diseño.
+- Esta navegación contextual ayuda a los usuarios a encontrar rápidamente lo que están buscando dentro de una sección específica.
+
+<b> 3. Botones de Acción Destacados:</b>
+- En las páginas de Inicio y Catálogo, se destacan botones de acción para dirigir a los usuarios a las funcionalidades principales de la plataforma.
+- Estos botones de acción tienen un diseño llamativo y están estratégicamente ubicados para captar la atención de los usuarios.
+
+<b> 4. Búsqueda y Filtros Visibles:</b>
+- La barra de búsqueda y los filtros de navegación son visibles en todas las páginas para que los usuarios puedan buscar productos específicos o filtrar resultados según sus preferencias.
+- Los filtros se presentan de manera clara y se pueden ajustar fácilmente para refinar los resultados de búsqueda.
+
+<b> 5. Flujo de Navegación Intuitivo:</b>
+- Se establece un flujo de navegación intuitivo y lógico que guía a los usuarios a través de las diferentes etapas de compra, desde la exploración del catálogo hasta el diseño personalizado y la finalización de la compra.
+- Se utilizan llamadas a la acción claras y señales visuales para indicar el progreso y las acciones que los usuarios deben realizar en cada paso del proceso de navegación.
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
