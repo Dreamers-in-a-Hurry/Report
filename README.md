@@ -787,6 +787,29 @@ Luis nos comentó que empezó a trabajar en la venta de camisetas hace unos 2 o 
 
 <br/>
 
+<br/>
+
+<b>Entrevista 3</b><br/>
+
+- Nombre: Fabrizzio
+- Apellidos: Cornejo
+- Edad: 23 años
+- Distrito: San Juan de Miraflores
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213502_upc_edu_pe/EWxr78YTglJNplgnC44eEs0BwlZFUKIavUdf0UdOMoKe7w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7Tkag2">Entrevista</a>
+- Duración: 9 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\interviews\Fabrizzio_Entrevista.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Fabrizzio nos cuenta que lleva trabajando como vendedor de ropa deportiva desde el 2021, a pesar de trabaje y estudie al dia de hoy, reconoce que gran parte de la sustentabilidad de su trabajo se debe a las redes sociales y su influencia para poder crecer. De la misma forma, nos comenta que las camisetas suele tener precios variados que van a partir de 40 soles para arriba, siendo el promedio de precios el más vendido, debido al favor precio-calidad. Referente a la confección, nos comenta que el trabaja en compañia de su pariente maternal, quien se encarga de la confección, lo cual simboliza un cliente potencial espectacular para nuestra empresa. En adición, Fabrizzio nos menciona que la confianza con el cliente es la base del negocio, por lo que nos recomiendo enfocar la seguridad dentro de nuestra plataforma.
+
+<br/>
+
 <b>Segmento objetivo 2:</b> Clientes
 
 <b>Entrevista 1</b><br/>
@@ -3031,6 +3054,20 @@ En particular, las letras 'Fit' se destacan en negro, mientras que 'Shirt' se pr
 
 ### 4.1.2. Web Style Guidelines
 
+En la landing page de FitShirt, decidimos implementar el Patrón F para optimizar la experiencia del usuario y guiar su atención hacia los elementos clave de nuestro sitio web. Al seguir este patrón, nos aseguramos de que los visitantes se enfoquen en los elementos más importantes de la página, como el título, y todo lo que ofrecemos.
+
+En la parte superior de la página, colocamos el nombre de FitShirt y un encabezado con diversas opciones. Luego, organizamos el contenido de manera horizontal, resaltando las características principales de nuestra aplicación, que es lo que ofrecemos, quienes somos, y un formulario para contactarnos.
+
+<td><img src="Images/SGuidelines/pc.png" alt="pc"></td>
+
+<td><img src="Images/SGuidelines/pc2.png" alt="pc"></td>
+
+<td><img src="Images/SGuidelines/pc3.png" alt="pc"></td>
+
+<td><img src="Images/SGuidelines/pc4.png" alt="pc"></td>
+
+<td><img src="Images/SGuidelines/pc5.png" alt="pc"></td>
+
 ## 4.2. Information Architecture
 
 Centrandonos en el objetivo denuestra plataforma <b>FitShirt</b>, buscamos brindar una interfaz interactiva, que inspire confianza y segura. Debemos de tener en cuenta que buscamos que exista transaccion de bienes, por lo que estas caractersticias deben de prevalecer. Parte importante para lograr este objetivo es la arquitectura de información. Por ende, a continuación de verá lo planeado hasta el momento dentro de nuestra plataforma.
@@ -3109,11 +3146,63 @@ El sistema de organización se va a centrar en brindar la mejor experiencia al c
 
 ### 4.2.2. Labeling Systems
 
+Consideramos que la mejor opción para el desarrollo de nuestra plataforma serpa a travez del sistema de etiquetado, es decir, que para describir cada funcionalidad y caracterstica utilizaremos una etiqueta. Como lo pueden ser una etiqueta para el:
+- Diseño Personalizado
+- Catálogo de Camisetas
+- Registro de Usuarios
+- Descripción de Producto
+- Datos de Diseño
+- Entre otros.
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
 
+El sistema de búsqueda se vera expuesto al momento de que cada usuario desee encontrar y fitrar dentro del mercado disponible la camiseta que desea comprar. Para ello emplearemos diferentes formas de búsqueda:
+
+<b> 1. Búsqueda por Diseño: </b>
+- Los usuarios pueden buscar camisetas por diseños específicos, como "camisetas con estampados de equipos deportivos" o "camisetas con diseño abstracto".
+- Se proporcionan opciones de búsqueda avanzada para filtrar por colores, estilos de diseño (gráficos, texto, imágenes), y temas.
+
+<b> 2. Búsqueda por Talla y Color: </b>
+- Los usuarios pueden buscar camisetas por tamaño y color específicos, como "camisetas en talla L color azul".
+- Se ofrecen filtros para seleccionar múltiples tallas y colores a la vez, facilitando la búsqueda de opciones variadas.
+
+<b> 3. Búsqueda por Categoría: </b>
+- Los usuarios pueden buscar camisetas por categorías deportivas como fútbol, baloncesto, tenis, entre otros.
+- La plataforma sugiere categorías populares y permite buscar en categorías menos comunes mediante una opción de búsqueda ampliada.
+
+<b> 4. Búsqueda Avanzada: </b>
+- Se ofrece una búsqueda avanzada que permite a los usuarios combinar múltiples criterios de búsqueda, como "camisetas de fútbol en talla M color rojo con diseño de equipo X".
+- Los resultados de la búsqueda avanzada se presentan en una lista organizada por relevancia y se pueden refinar aún más utilizando filtros adicionales.
+
+<b> 5. Búsqueda por Precio y Descuentos: </b>
+- Los usuarios pueden buscar camisetas dentro de rangos de precio específicos.
+- Se muestra información sobre descuentos y ofertas especiales, y se proporciona una opción para buscar solo productos con descuentos aplicables.
+
 ### 4.2.5. Navigation Systems
+
+Continuando con nuestros objetivos, el sistema de navegacion debe proporcionar una experiencia fluida y facil de usar para los usuarios, permitiendoles encontrar rapidamente lo que buscan. Es por ello, que esta se describe de la siguiente forma:
+
+<b> 1. Menú Principal: </b>
+- Un menú principal ubicado en la parte superior de cada página que incluye enlaces a las secciones clave de la plataforma, como Inicio, Catálogo, Diseño, Registro, Quiénes Somos y Contacto.
+- Cada elemento del menú principal está etiquetado de manera clara y concisa para facilitar la navegación.
+
+<b> 2. Navegación Contextual:</b>
+- Dentro de cada sección principal, se proporciona una navegación contextual que muestra submenús o enlaces relacionados con la sección actual, como diferentes categorías en el Catálogo o herramientas de diseño en la sección de Diseño.
+- Esta navegación contextual ayuda a los usuarios a encontrar rápidamente lo que están buscando dentro de una sección específica.
+
+<b> 3. Botones de Acción Destacados:</b>
+- En las páginas de Inicio y Catálogo, se destacan botones de acción para dirigir a los usuarios a las funcionalidades principales de la plataforma.
+- Estos botones de acción tienen un diseño llamativo y están estratégicamente ubicados para captar la atención de los usuarios.
+
+<b> 4. Búsqueda y Filtros Visibles:</b>
+- La barra de búsqueda y los filtros de navegación son visibles en todas las páginas para que los usuarios puedan buscar productos específicos o filtrar resultados según sus preferencias.
+- Los filtros se presentan de manera clara y se pueden ajustar fácilmente para refinar los resultados de búsqueda.
+
+<b> 5. Flujo de Navegación Intuitivo:</b>
+- Se establece un flujo de navegación intuitivo y lógico que guía a los usuarios a través de las diferentes etapas de compra, desde la exploración del catálogo hasta el diseño personalizado y la finalización de la compra.
+- Se utilizan llamadas a la acción claras y señales visuales para indicar el progreso y las acciones que los usuarios deben realizar en cada paso del proceso de navegación.
 
 ## 4.3. Landing Page UI Design
 
