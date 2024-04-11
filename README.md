@@ -3692,6 +3692,151 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Landing-page">Enlace</a>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=18>Landing Page</td>
+        <td>main</td>
+        <td>c7569ab</td>
+        <td>Diego Defilippi</td>
+        <td>First commit</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>233314b</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added html sections</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9d13895</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added general styles</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/navbar</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added navbar html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/navbar</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added navbar styles</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/hero-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added hero html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/hero-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added hero css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added catalogue html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added catalogue css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/designing-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added designing html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/designing-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added designing css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added about html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added about css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added contact html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-section</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added contact css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/footer</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added footer html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/footer</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added footer css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/responsive</td>
+        <td>###</td>
+        <td>###</td>
+        <td>feat: added responsive css</td>
+        <td>11/04/2024</td>
+    </tr>
+    
+</table>
+
+<br><br>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
