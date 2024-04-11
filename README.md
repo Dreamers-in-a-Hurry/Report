@@ -818,6 +818,10 @@ Henry mostró un fuerte interés en camisetas deportivas, especialmente las rela
 
 ### 2.3.3. User Journey Mapping
 
+<div align="center">
+    <img src="Images\journey.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
 ### 2.3.4. Empathy Mapping
 
 <b>Persona interesada en comprar camisetas deportivas:</b>
