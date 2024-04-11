@@ -265,6 +265,21 @@ En particular, las letras 'Fit' se destacan en negro, mientras que 'Shirt' se pr
 
 ### 4.1.2. Web Style Guidelines
 
+En la landing page de FitShirt, decidimos implementar el Patrón F para optimizar la experiencia del usuario y guiar su atención hacia los elementos clave de nuestro sitio web. Al seguir este patrón, nos aseguramos de que los visitantes se enfoquen en los elementos más importantes de la página, como el título, y todo lo que ofrecemos.
+
+En la parte superior de la página, colocamos el nombre de FitShirt y un encabezado con diversas opciones. Luego, organizamos el contenido de manera horizontal, resaltando las características principales de nuestra aplicación, que es lo que ofrecemos, quienes somos, y un formulario para contactarnos.
+
+<td><img src="Images/SGuidelines/pc.png" alt="pc"></td>
+
+<td><img src="Images/SGuidelines/pc2.png" alt="pc"></td>
+
+<td><img src="Images/SGuidelines/pc3.png" alt="pc"></td>
+
+<td><img src="Images/SGuidelines/pc4.png" alt="pc"></td>
+
+<td><img src="Images/SGuidelines/pc5.png" alt="pc"></td>
+
+
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
