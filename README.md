@@ -699,7 +699,7 @@ Enlance del Prototipo: https://www.figma.com/proto/NgftH2JsrQBU8XiT7UGm3w/MOBILE
 
 ### 4.7.1. Class Diagrams
 
-<td><img src="Images/DiagramaDeClases.png" alt="Imagen del diagrama de clases" width="1500"></td>
+<td><img src="Images/DiagramaDeClases.png" alt="Imagen del diagrama de clases." width="1500"></td>
 
 ### 4.7.2. Class Dictionary
 
