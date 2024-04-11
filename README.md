@@ -855,6 +855,16 @@ Análisis de las entrevistas del sector Clientes:
 
 ### 2.3.5. As-is Scenario Mapping
 
+Usuario:
+<div align="center">
+  <img src="Images\AsIsUser.png" alt="As_Is_Usuario" style="margin: 10px 0;" width="90%"/>
+</div>
+
+Confeccionista:
+<div align="center">
+  <img src="Images\AsIsSeller.png" alt="As_Is_Seller" style="margin: 10px 0;" width="90%"/>
+</div>
+
 ## 2.4. Ubiquitous Language
 
 <br>
