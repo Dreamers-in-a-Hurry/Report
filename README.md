@@ -796,6 +796,19 @@ Henry mostró un fuerte interés en camisetas deportivas, especialmente las rela
 
 ### 2.3.4. Empathy Mapping
 
+<b>Persona interesada en comprar camisetas deportivas:</b>
+
+<div align="center">
+    <img src="Images\EmphatyMap1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+<b>Persona interesada en vender camisetas deportivas:</b>
+
+<div align="center">
+    <img src="Images\EmphatyMap2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
