@@ -265,21 +265,6 @@ En particular, las letras 'Fit' se destacan en negro, mientras que 'Shirt' se pr
 
 ### 4.1.2. Web Style Guidelines
 
-En la landing page de FitShirt, decidimos implementar el Patrón F para optimizar la experiencia del usuario y guiar su atención hacia los elementos clave de nuestro sitio web. Al seguir este patrón, nos aseguramos de que los visitantes se enfoquen en los elementos más importantes de la página, como el título, y todo lo que ofrecemos.
-
-En la parte superior de la página, colocamos el nombre de FitShirt y un encabezado con diversas opciones. Luego, organizamos el contenido de manera horizontal, resaltando las características principales de nuestra aplicación, que es lo que ofrecemos, quienes somos, y un formulario para contactarnos.
-
-<td><img src="Images/SGuidelines/pc.png" alt="pc"></td>
-
-<td><img src="Images/SGuidelines/pc2.png" alt="pc"></td>
-
-<td><img src="Images/SGuidelines/pc3.png" alt="pc"></td>
-
-<td><img src="Images/SGuidelines/pc4.png" alt="pc"></td>
-
-<td><img src="Images/SGuidelines/pc5.png" alt="pc"></td>
-
-
 ## 4.2. Information Architecture
 
 Centrandonos en el objetivo denuestra plataforma <b>FitShirt</b>, buscamos brindar una interfaz interactiva, que inspire confianza y segura. Debemos de tener en cuenta que buscamos que exista transaccion de bienes, por lo que estas caractersticias deben de prevalecer. Parte importante para lograr este objetivo es la arquitectura de información. Por ende, a continuación de verá lo planeado hasta el momento dentro de nuestra plataforma.
@@ -326,6 +311,32 @@ Formulario para que los usuarios se registren en la plataforma como compradores,
 Formulario adicional para vendedores interesados en utilizar la plataforma para vender sus propios diseños de camisetas, con información adicional como datos de contacto y métodos de pago.
 
 ### 4.2.1. Organization Systems
+
+El sistema de organización se va a centrar en brindar la mejor experiencia al cliente para la visualización de productos, es por ello, que nuestra plataforma se basara en el acceso de los usuarios para que naveguen, busquen, diseñen y compren camisetas deportivas de manera segura y cómoda.
+
+<b> 1. Categorización de la Información: </b>
+
+- Catálogo de Camisetas: <br>
+Categorizado por deportes (fútbol, baloncesto, béisbol, etc.) y tipos de camisetas (mangas cortas, mangas largas, sin mangas, etc.).
+
+- Diseños Personalizados: <br>
+Categorizado por tipos de diseño (texto, imágenes, gráficos) y opciones de personalización (colores, estilos, tamaños de fuente).
+
+<b> 2. Filtros y Búsqueda: </b>
+- Filtros en el Catálogo: <br>
+Permiten a los usuarios filtrar camisetas por deporte, color, talla, precio y estilo.
+- Búsqueda Avanzada: <br>
+Opción de búsqueda avanzada en el catálogo y en la herramienta de diseño para encontrar productos específicos o diseños personalizados.
+
+<b> 3. Interfaz de Usuario Intuitiva: </b>
+- Menú Principal: <br>
+Navegación clara con acceso rápido a las secciones principales como Catálogo, Diseño, Quiénes Somos y Contacto.
+- Submenús Contextuales: <br>
+Dentro de las secciones principales, submenús contextuales que guían a los usuarios a funcionalidades específicas, como diferentes categorías de camisetas en el Catálogo o herramientas de diseño en la sección de Diseño.
+
+<b >4. Funcionalidades Específicas: </b>
+- Información Detallada de Productos: <br>
+Páginas individuales de productos que muestran imágenes detalladas, descripciones completas y opciones de personalización disponibles.
 
 ### 4.2.2. Labeling Systems
 
