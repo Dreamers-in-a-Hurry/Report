@@ -3760,10 +3760,10 @@ Users Bounded Context Component Diagram
 ### 4.7.2. Class Dictionary
 
 <table>
-    <td colspan= "3" align="center">Usuario</td>
+    <td colspan= "3" align="center">Cliente</td>
 <tr>
     <td>int</td>
-    <td>idUser</td>
+    <td>idClient</td>
     <td>Identificador</td>
   </tr>
   <tr>
@@ -3808,8 +3808,13 @@ Users Bounded Context Component Diagram
   </tr>
    <tr>
     <td>void</td>
-    <td>realizarCuestionario()</td>
+    <td>realizarDiseño()</td>
     <td>Cuestionario que realizará el usuario para las camisetas</td>
+  </tr>
+    <tr>
+    <td>void</td>
+    <td>venderCamiseta()</td>
+    <td>Función que hará que el usuario pueda vender su camiseta</td>
   </tr>
 </table>
 
@@ -3828,9 +3833,53 @@ Users Bounded Context Component Diagram
 </table>
 
 <table>
+    <td colspan= "3" align="center">Manufacor</td>
+<tr>
+    <td>int</td>
+    <td>idClient</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del usuario</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del usuario</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>password</td>
+    <td>Contraseña del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+   <tr>
+    <td>double</td>
+    <td>phone</td>
+    <td>Telefono del usuario</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>realizarDiseño()</td>
+    <td>Como el usuario, el manufactor tambien tendrá la posibilidad de realizar un cuestionario de diseño</td>
+  </tr>
+    <tr>
+    <td>void</td>
+    <td>venderCamiseta()</td>
+    <td>Función que hará que el manufactor pueda vender su camiseta</td>
+  </tr>
+  </table>
+
+<table>
     <td colspan= "3" align="center">Premium</td>
 <tr>
-    <td>double</td>
+    <td>float</td>
     <td>descuento</td>
     <td>Descuento que recibirá el usuario premium</td>
   </tr>
@@ -3862,11 +3911,6 @@ Users Bounded Context Component Diagram
 
 <table>
     <td colspan= "3" align="center">CuestionarioDiseño</td>
-<tr>
-    <td>int</td>
-    <td>idCuestionario</td>
-    <td>Identificador</td>
-  </tr>
   <tr>
     <td>string</td>
     <td>descripcion</td>
@@ -3876,6 +3920,40 @@ Users Bounded Context Component Diagram
     <td>int</td>
     <td>opcionesdiseño</td>
     <td>Funciones para el diseño de la camiseta</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>generarCamiseta()</td>
+    <td>Funcion que generará la camiseta diseñada</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Camiseta</td>
+  <tr>
+    <td>int</td>
+    <td>idCamiseta</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>tituloCamiseta</td>
+    <td>Nombre de la camiseta</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>tallaCamiseta</td>
+    <td>Talla de la camiseta</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>colorCamiseta</td>
+    <td>Color de la camiseta</td>
+  </tr>
+  <tr>
+    <td>float</td>
+    <td>precioCamiseta</td>
+    <td>Precio de la camiseta</td>
   </tr>
 </table>
 
@@ -3923,7 +4001,7 @@ Users Bounded Context Component Diagram
 </table>
 
 <table>
-    <td colspan= "3" align="center">Plataforma</td>
+    <td colspan= "3" align="center">FitShirtPlatform</td>
 <tr>
     <td>void</td>
     <td>vistaInicioSesion()</td>
@@ -3969,6 +4047,31 @@ Users Bounded Context Component Diagram
     <td>Metodo de pago que realizará el usuario</td>
   </tr>
 </table>
+
+<table>
+    <td colspan= "3" align="center">Administrador</td>
+<tr>
+    <td>int</td>
+    <td>idAdmin</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del admin</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del admin</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>password</td>
+    <td>Contraseña del admin</td>
+  </tr>
+
+  </table>
 
 ## 4.8. Database Design
 
