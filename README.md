@@ -221,8 +221,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         TP
         <br><br>
         <b>Aliaga Pimentel, George Arturo </b>
+        -Participé en todas las reuniones virtuales, además de entregar las tareas en la fecha acordada grupalmente.
+-Elaboré la parte de la implementación de crear, editar y borrar diseños de camisetas en la aplicación.
         <br>
-        - 
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
