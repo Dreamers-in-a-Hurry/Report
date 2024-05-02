@@ -5453,6 +5453,17 @@ Asimismo, para el despliegue de la página, se utilizó el servicio de Microsoft
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
+Durante el sprint, el equipo de la StartUp Dreamers in a Hurry nuevamente adoptó GitFlow como su metodología de trabajo principal, aprovechando al máximo las capacidades de Git y Github para el control de versiones y la colaboración en el desarrollo del proyecto en cuestión. 
+
+GitFlow del sprint:
+
+<div align="center"><img src="Images\Frontend/Gitflowtp.png" alt="Catalogo"></div>
+
+
+Contribuciones del equipo:
+
+<div align="center"><img src="Images\Frontend/Contribuciones.png" alt="Catalogo"></div>
+
 <br><br>
 
 # Conclusiones
