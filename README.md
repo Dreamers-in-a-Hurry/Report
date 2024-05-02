@@ -228,7 +228,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br>
         <b>Sanchez Maita, Agustin Alejandro</b>
         <br>
-        - 
+        - Actualicé los Mockups de la Aplicación y su Prototipo con el uso de la herramienta figma y con la colaboración de ideas de mis compañeros de trabajo.
+        - Logré implementar las vistas que se me asignaron y aporte en el desarrollo de otras vostas y componentes.
         <br>
     </td>
     <td>TB1
@@ -286,7 +287,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br>
         <b>Sanchez Maita, Agustin Alejandro</b>
         <br>
-        - 
+        - Realicé la programación de las vistas de cart, profile y login, guiándome de las plataformas y aplicaciones de nuestro entorno, recopilando las funcionalidades destacables.
         <br>
 </td>
     <td>TB1
