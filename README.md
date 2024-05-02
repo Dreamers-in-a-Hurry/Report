@@ -4525,7 +4525,7 @@ Contribuciones del equipo:
             <b>Sprint #</b>
         </td>
         <td>
-            <b>Sprint 1</b>           
+            <b>Sprint 2</b>           
         </td>
     </tr>
     <tr align="left">
@@ -4631,7 +4631,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 <table align="center" border="1" width="90%" style="text-align:center">
     <tr>
        <td colspan="1"><b>Sprint #</b></td>
-       <td colspan="7"><b>Sprint 1</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
      </tr>
      <tr>
        <td colspan="2"><b>User Story</b></td>
@@ -4856,7 +4856,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 
 Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
-Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Landing-page">Enlace</a>
+Repositorio del FrontEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Frontend">Enlace</a>
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -4868,117 +4868,515 @@ Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-i
     </tr>
     <tr>
         <td>main</td>
-        <td>47a3a08</td>
+        <td>47a3a08e93cde6e0db45cd9a524b4b3fd89aa42c</td>
         <td>Diego Defilippi</td>
         <td>first commit</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>2463da85347264f9f1cbe654e5f22d138df739f1</td>
         <td>Diego Defilippi</td>
         <td>feat: added primevue lib</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>1019cd78485b32ea14244cb14bb5d485a3d7ef8e</td>
         <td>Diego Defilippi</td>
         <td>feat: added router lib</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>8e534c7290e51ae65c5fa7a8f4558c146270ff35</td>
         <td>Diego Defilippi</td>
         <td>feat: added axios lib</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>98b792a7cde43988dd5d553b1ab48e88459abff8</td>
         <td>Diego Defilippi</td>
         <td>feat: added data</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>388ecf4a102c4cad2a9e5b972061ff03bca17353</td>
         <td>Diego Defilippi</td>
         <td>feat: added shirts images</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>dbedce1f1d31e2e0a5637653f6ee61107b44cca8</td>
         <td>Diego Defilippi</td>
         <td>feat: changed main styles</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>7d484936b89379c36b337f602eb6f5930fc61d5c</td>
         <td>Diego Defilippi</td>
         <td>feat: added shared components</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>af828c71cdf2cc7f489f455f5cfd4096f5bc5ffa</td>
         <td>Diego Defilippi</td>
         <td>feat: added axios functions</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>252ab7a7d8ec93f3fa34856dfe32e8b5ca1b8933</td>
         <td>Diego Defilippi</td>
         <td>feat: added shirts service</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>05c2c974d72012b80db15b04fd190c585dd53014</td>
         <td>Diego Defilippi</td>
         <td>feat: added catalogue component</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>3a363243c29e9e643fa5278c492238f458e6edb3</td>
         <td>Diego Defilippi</td>
         <td>feat: added router</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>40707b86354cdbe41316f39b55bca69851d5fb6d</td>
         <td>Diego Defilippi</td>
         <td>feat: modified main</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>d728b42b951b8a7d21adcd8839974f1e2786a458</td>
         <td>Diego Defilippi</td>
         <td>feat: modified App.vue</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>00687ee9ef6e6367d36e4b3755cd4cbc88e8afd7</td>
         <td>Diego Defilippi</td>
         <td>fix: deleted unused components</td>
         <td>23/04/2024</td>
     </tr>
     <tr>
         <td>feature/catalogue-implementation</td>
-        <td>2463da8</td>
+        <td>4dbfe17950aacf6a6f80c7a7a9f85b48fe493829</td>
         <td>Diego Defilippi</td>
         <td>fmerge catalogue-implementation into develop</td>
         <td>23/04/2024</td>
     </tr>
-    
+    <tr>
+        <td>feature/profile-implementation</td>
+        <td>c14d750ab8360a1018309ead434efc8577a23d84</td>
+        <td>Agustin Maita</td>
+        <td>Added new feature: User Profile</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>c9834d2edf8fcf114918484af16dbbda09b09230</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added json-server lib</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>deb2598d46d4e12f503f7c77efbd416cf76d2a45</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added data in db</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>8c1d7ec0893eab87721bd3e00815e98a1b6df138</td>
+        <td>Diego Defilippi</td>
+        <td>feat: modified linking url</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>1dc9c7fbfdc4c11a8c16be56c8be60d222f9060d</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shirt description</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/profile-implementation</td>
+        <td>5631a62977d3587c7d7c4524eb6682d8843763a0</td>
+        <td>Agustin Maita</td>
+        <td>Revert "Added new feature: User Profile"</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>d73bd51480cef96b34772c3165fe138625e4df89</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added responsive</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>4787afdacf559bbe5c4f0ef531dcd0045a792351</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/catalogue-implementation' into fixing/merging-catalogue-branches</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>6d08930103d393a37d6e73cde5309454120678ed</td>
+        <td>Agustin Maita</td>
+        <td>Added new feature: Cart</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>c102c799f79ba2a6b02cd44905029c147be769df</td>
+        <td>Agustin Maita</td>
+        <td>Added new feature: ToolBar in Cart</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>e69405be6c35b8424d30652e9dbf580cac24fde4</td>
+        <td>Agustin Maita</td>
+        <td>Upload: New icon Images</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>5efa8ab06e57d451de419db71a7fa6ea35b82e61</td>
+        <td>Agustin Maita</td>
+        <td>Merge remote-tracking branch 'origin/feature/cart-implementation' into feature/cart-implementation</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>5544578d5c7279ba5feaf0ce298cc81601ceffa9</td>
+        <td>Agustin Maita</td>
+        <td>Upload: New icon Images</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>5027248ba8d461014ded62c2bc0cf6c31eb7272a</td>
+        <td>Agustin Maita</td>
+        <td>Upload: cart view responsiveness</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>10b2f003ca13f73d14719743727386f1c154149e</td>
+        <td>Agustin Maita</td>
+        <td>Update: toolbar icons</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>d96e943aecd745ef30bf6646f8765b670c41abd5</td>
+        <td>Agustin Maita</td>
+        <td>Update: resized toolbar icons</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9ca6624a3f808ec2b269e3af9cfaf1e6eeedd6f5</td>
+        <td>Diego Defilippi</td>
+        <td>ref: added accessibility tags</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1309174c275c8192a760cccdd518cb84ecf3e7dc</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/catalogue-implementation into develop</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>5e7e6fb5bf9fcd16e900980acf1f48db7874ff58</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/cart-implementation' into fix/merging-cart-into-dev</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>150920ee8ebe74b4d2a0eb11eece136e88bdffda</td>
+        <td>Diego Defilippi</td>
+        <td>fix: fixing style errors</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>b6aaf7b476333ae0a727151e2a6c3bd890ff1ca6</td>
+        <td>Diego Defilippi</td>
+        <td>fix: modified toolbar structure</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>42bb4a8e83e60be7df0ab1fec5388911807b552d</td>
+        <td>Agustin Maita</td>
+        <td>Update: Toolbar feature</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>86c8429bbb05850e082cc8ba6ac0c29e3659074d</td>
+        <td>Agustin Maita</td>
+        <td>Update: Position Toolbar feature</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>86c8429bbb05850e082cc8ba6ac0c29e3659074d</td>
+        <td>Agustin Maita</td>
+        <td>Update: Position Toolbar feature</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>43b3cb3d1b1a67f93489d8fd03de8aa7da389767</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: db.json</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>3833d6b98b1e9724c375638031285c771eb8e1d9</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: components and routes</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>884f30cf41a174151253021a36d0983c699f40e8</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: routes</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>9d6bacb55f658565d6bf4d27b91d8982f4380f48</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: image-edited and image loaded</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>b53c55cfd04369bae7316e9ff955d906f665cbdc</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: publish-shirt.component</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>158e8f1c10df707e78a146af13e04809867a31af</td>
+        <td>Diego Defilippi</td>
+        <td>ref: refactored catalogue styles</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>54976ee8f43345ec6e2e0d84abd1214901131eac</td>
+        <td>Diego Defilippi</td>
+        <td>fix: changed pv items</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>a38510877dddd9ce2d71347fd88f7348ed2af5c7</td>
+        <td>Diego Defilippi</td>
+        <td>ref: refactor cart component</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>84c70d22e1cbba0de9e90fbef01eb9a145e09d2b</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/cart-implementation' into fix/merging-cart-into-dev</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>5f46bed0e380203b4e6cd1aa8a183b3eea1aa0f0</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactored toolbar</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>b3d7805addd22f2f4173cba24b7c7e3b3bef9e0b</td>
+        <td>Agustin Maita</td>
+        <td>update: User cart feature</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>4a6a4d112b77aeeab4361485e7e4d282dd416b65</td>
+        <td>Agustin Maita</td>
+        <td>update: User cart feature</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>422f45ad753fc0b7e7cb78568818b5827d44ecd6</td>
+        <td>Agustin Maita</td>
+        <td>Merge remote-tracking branch 'origin/feature/cart-implementation' into feature/cart-implementation</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>dc7b706de21df26b99f3aa4bf918a18ef696f6f1</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/cart-implementation' into fix/merging-cart-into-dev</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>39bbf3b67e0efa2b63b48451f0219f3cd1343aef</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactores axios get</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/post-implementation</td>
+        <td>4b97f6bd6eda05c7fa746ad27df1aa460a1bea0a</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactored cart service and component</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>6b0d6b4630d656a8997a14e833905eeb797de0f1</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch fix/merging-cart-into-dev into dev</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>a8f5be6ae929295715fec9c55e02b8f31ad740d0</td>
+        <td>Daniel Chirinos</td>
+        <td>Added: publish components</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>28c4a72bc8ebb70177d759915c9938ce91a9afcc</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added post item</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/</td>
+        <td>ff17591bd08475f447b135b88c745d135520fdde</td>
+        <td>Diego Defilippi</td>
+        <td>ref: changed shirt attribute</td>
+        <td>01/05/2024</td>
+    </tr>
+<tr>
+        <td>feature/catalogue-implementation</td>
+        <td>4c5a528ca3e1e6a2470394e8706142eba48001b3</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added category service in filters</td>
+        <td>01/05/2024</td>
+    </tr>
+<tr>
+        <td>develop</td>
+        <td>557875fb54749cdcd3003ea2c73eccce71bd9817</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch feature/post-items into dev</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>7b299861f621aab5d99d5a423b3788524396817d</td>
+        <td>George Aliaga</td>
+        <td>added components</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ecce9d6b30037c602f2cac9130c03dcab8d49446</td>
+        <td>Daniel Chirinos</td>
+        <td>Added: components</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>93869163e7b676c0fb24d1b192951caf2d8a1aec</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: feature/posts-implementation</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/design-implementation</td>
+        <td>0683aeb60e38642c214b0f2bcb6502d5aae71363</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: feature/design-implementation</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>8145ccebfb7a256f5df1ce140beefa2e044f5997</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: feature/posts-implementation</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9278ddb16f251be10df9802603122c17f3e1028f</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/posts-implementation' into develop</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>18d2ff72d4d73d85ba04f9c5fdb7c5ef594d742c</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactored compontents</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>cb472c3b25ea3b56e1a7cadb79d6e79be30e1668</td>
+        <td>Diego Defilippi</td>
+        <td>ref: mockapi implemented</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/design-component</td>
+        <td>e78eaae28072ee26d528006ceb35abaf4988007e</td>
+        <td>George Aliaga</td>
+        <td>updated feature/design-implementation</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>7832608eda144eb3defc5b9239164c886129d69d</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/design-implementation' into develop</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/design-component</td>
+        <td>d4a84e789e4d6c5ba51809840903794d76204ff7</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactored names and styles</td>
+        <td>02/05/2024</td>
+    </tr>    
 </table>
 
 <br><br>
