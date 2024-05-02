@@ -196,6 +196,26 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Elaboré los Wireframes, Mockups y Prototypes de la Aplicación Web utilizando la herramienta figma para realizar el entregable con mayor rapidez.<br>
         - Logré cumplir las actividades que se me asignaron haciendo uso de las herramientas aprendidas en el curso.
         <br>
+        <br/>
+        TP<br><br>
+        <b>Aliaga Pimentel, George Arturo </b><br>
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mi feature posts del frontend<br/>
+        <br><br>
+        <b>Cruz Ticona, Aaron Alejandro</b><br>
+        <br><br> 
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - Participé y aporté ideas en las reuniones virtuales, además de planificar y organizar las tareas a realizar.<br/>
+        - Realicé mis tareas y las entregué en fecha.<br/>
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - Elaboré los Wireframes, Mockups y Prototypes de la Aplicación Web utilizando la herramienta figma para realizar el entregable con mayor rapidez.<br>
+        - Logré cumplir las actividades que se me asignaron haciendo uso de las herramientas aprendidas en el curso.
+        <br>
     </td>
     <td>TB1
     <br>
@@ -226,6 +246,26 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <b>Sanchez Maita, Agustin Alejandro</b>
         <br>
         - Al realizar los Mockups de la aplicación se tomó de referencias las interfaces de nuestros competidores, recopilando las funcionalidades más destacables para ofrecer un mejor servicio al usuario.
+        <br>
+        <br/>
+        TP<br><br>
+        <b>Aliaga Pimentel, George Arturo </b><br>
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mi parte de los posts para agregar, editar y eliminar los post en el frontend<br/>
+        <br><br>
+        <b>Cruz Ticona, Aaron Alejandro</b><br>
+        <br><br> 
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - Participé y aporté ideas en las reuniones virtuales, además de planificar y organizar las tareas a realizar.<br/>
+        - Realicé mis tareas y las entregué en fecha.<br/>
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - Elaboré los Wireframes, Mockups y Prototypes de la Aplicación Web utilizando la herramienta figma para realizar el entregable con mayor rapidez.<br>
+        - Logré cumplir las actividades que se me asignaron haciendo uso de las herramientas aprendidas en el curso.
         <br>
 </td>
     <td>TB1
