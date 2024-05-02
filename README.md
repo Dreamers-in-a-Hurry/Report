@@ -45,7 +45,8 @@
 
 | Versión |   Fecha    |              Autor               | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                             |
 | :-----: | :--------: | :------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 05/09/2023 | Todos los integrantes del equipo | Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se implementó y desplegó la Landing Page, que era el objetivo del primer Sprint |
+|   TB1   | 12/03/2024 | Todos los integrantes del equipo | Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se implementó y desplegó la Landing Page, que era el objetivo del primer Sprint |
+|   TP    | 02/05/2024 |    Los integrantes del equipo    | Se desarrolló el Sprint 2 del trabajo, en cual consistió en la implementación de la aplicación web empleando Vue.js como Framework principal. Asimismo, se desplegó la aplicación mediante Azure services. De igual modo, se levantaron las observaciones de la anterior entrega.                                                                                                       |
 
 </div>
 
@@ -53,7 +54,7 @@
 
 # Project Report Collaboration Insights
 
-<br><br>
+<br>
 
 # Contenido
 
@@ -152,6 +153,15 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -177,7 +187,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 </tr>
 <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
-    <td> TB1<br><br>
+    <td> 
+        TB1
+        <br><br>
         <b>Aliaga Pimentel, George Arturo </b>
         <br>
         - Asistí a todas las reuniones, aporté ideas, elaboré los Lean UX problem statements y assumptions además de los Empathy Mapping y User Journey
@@ -201,17 +213,46 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Elaboré los Wireframes, Mockups y Prototypes de la Aplicación Web utilizando la herramienta figma para realizar el entregable con mayor rapidez.<br>
         - Logré cumplir las actividades que se me asignaron haciendo uso de las herramientas aprendidas en el curso.
         <br>
+        TP
+        <br><br>
+        <b>Aliaga Pimentel, George Arturo </b>
+        -Participé en todas las reuniones virtuales, además de entregar las tareas en la fecha acordada grupalmente.
+-Elaboré la parte de la implementación de crear, editar y borrar diseños de camisetas en la aplicación.
+        <br>
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Actualicé el Diagrama de clase y base de datos.
+        - Realicé mi feature posts del frontend.
+        <br><br>
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - Participación activa en el desarrollo de la aplicación y reuniones <br>
+        - Presentación de avances en el tiempo pactado
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - Actualicé los Mockups de la Aplicación y su Prototipo con el uso de la herramienta figma y con la colaboración de ideas de mis compañeros de trabajo.
+        - Logré implementar las vistas que se me asignaron y aporte en el desarrollo de otras vostas y componentes.
+        <br>
     </td>
     <td>TB1
     <br>
-    Se logró desarrollar y desplegar la Landing page en base a las reuniones colaborativas y proacticas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow
+    Se logró desarrollar y desplegar la Landing page en base a las reuniones colaborativas y proacticas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow.
+    <br><br>
+    TP
+    <br>
+    Se logró implementar y desplegar la primera versión de la aplicación web.
     </td>
+    <br><br>
 
 </tr>
 <tr>
 <td><b>
 Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-<td> TB1<br><br>
+    <td> 
+        TB1
+        <br><br>
         <b>Aliaga Pimentel, George Arturo </b>
         <br>
         - Desarrollé los style guidelines para la realización de los wireframes y posteriormente mockup de la landing page
@@ -234,11 +275,34 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <b>Sanchez Maita, Agustin Alejandro</b>
         <br>
         - Al realizar los Mockups de la aplicación se tomó de referencias las interfaces de nuestros competidores, recopilando las funcionalidades más destacables para ofrecer un mejor servicio al usuario.
+        <br><br><br>
+        TP<br><br>
+        <b>Aliaga Pimentel, George Arturo </b>
+        <br>
+        -Participé en todas las reuniones virtuales, además de entregar las tareas en la fecha acordada grupalmente.
+-Elaboré la parte de la implementación de crear, editar y borrar diseños de camisetas en la aplicación.
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mi parte de los posts para agregar, editar y eliminar los post en el frontend
+        <br><br>
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - Implementación de la funcionalidad del catálogo de la aplicación web<br>
+        - Implementación adecuada de los merge entre ramas
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - Realicé la programación de las vistas de cart, profile y login, guiándome de las plataformas y aplicaciones de nuestro entorno, recopilando las funcionalidades destacables.
         <br>
 </td>
     <td>TB1
     <br>
     Se identificó una oportunidad de negocio a partir de una problemática actual. A partir de ello, se comenzó a desarrollar una solución de software aplicando los conocimientos aprendidos en los diferentes cursos.
+    <br><br>
+    TP
+    <br>
+    Se implementó la propuesta de solución como una primera versión de la aplicación Web, la cual cumple con los user stories propuestos.
     </td>
 </tr>
 </table>
@@ -3150,6 +3214,7 @@ El sistema de organización se va a centrar en brindar la mejor experiencia al c
 ### 4.2.2. Labeling Systems
 
 Consideramos que la mejor opción para el desarrollo de nuestra plataforma serpa a travez del sistema de etiquetado, es decir, que para describir cada funcionalidad y caracterstica utilizaremos una etiqueta. Como lo pueden ser una etiqueta para el:
+
 - Diseño Personalizado
 - Catálogo de Camisetas
 - Registro de Usuarios
@@ -3164,22 +3229,27 @@ Consideramos que la mejor opción para el desarrollo de nuestra plataforma serpa
 El sistema de búsqueda se vera expuesto al momento de que cada usuario desee encontrar y fitrar dentro del mercado disponible la camiseta que desea comprar. Para ello emplearemos diferentes formas de búsqueda:
 
 <b> 1. Búsqueda por Diseño: </b>
+
 - Los usuarios pueden buscar camisetas por diseños específicos, como "camisetas con estampados de equipos deportivos" o "camisetas con diseño abstracto".
 - Se proporcionan opciones de búsqueda avanzada para filtrar por colores, estilos de diseño (gráficos, texto, imágenes), y temas.
 
 <b> 2. Búsqueda por Talla y Color: </b>
+
 - Los usuarios pueden buscar camisetas por tamaño y color específicos, como "camisetas en talla L color azul".
 - Se ofrecen filtros para seleccionar múltiples tallas y colores a la vez, facilitando la búsqueda de opciones variadas.
 
 <b> 3. Búsqueda por Categoría: </b>
+
 - Los usuarios pueden buscar camisetas por categorías deportivas como fútbol, baloncesto, tenis, entre otros.
 - La plataforma sugiere categorías populares y permite buscar en categorías menos comunes mediante una opción de búsqueda ampliada.
 
 <b> 4. Búsqueda Avanzada: </b>
+
 - Se ofrece una búsqueda avanzada que permite a los usuarios combinar múltiples criterios de búsqueda, como "camisetas de fútbol en talla M color rojo con diseño de equipo X".
 - Los resultados de la búsqueda avanzada se presentan en una lista organizada por relevancia y se pueden refinar aún más utilizando filtros adicionales.
 
 <b> 5. Búsqueda por Precio y Descuentos: </b>
+
 - Los usuarios pueden buscar camisetas dentro de rangos de precio específicos.
 - Se muestra información sobre descuentos y ofertas especiales, y se proporciona una opción para buscar solo productos con descuentos aplicables.
 
@@ -3188,22 +3258,27 @@ El sistema de búsqueda se vera expuesto al momento de que cada usuario desee en
 Continuando con nuestros objetivos, el sistema de navegacion debe proporcionar una experiencia fluida y facil de usar para los usuarios, permitiendoles encontrar rapidamente lo que buscan. Es por ello, que esta se describe de la siguiente forma:
 
 <b> 1. Menú Principal: </b>
+
 - Un menú principal ubicado en la parte superior de cada página que incluye enlaces a las secciones clave de la plataforma, como Inicio, Catálogo, Diseño, Registro, Quiénes Somos y Contacto.
 - Cada elemento del menú principal está etiquetado de manera clara y concisa para facilitar la navegación.
 
 <b> 2. Navegación Contextual:</b>
+
 - Dentro de cada sección principal, se proporciona una navegación contextual que muestra submenús o enlaces relacionados con la sección actual, como diferentes categorías en el Catálogo o herramientas de diseño en la sección de Diseño.
 - Esta navegación contextual ayuda a los usuarios a encontrar rápidamente lo que están buscando dentro de una sección específica.
 
 <b> 3. Botones de Acción Destacados:</b>
+
 - En las páginas de Inicio y Catálogo, se destacan botones de acción para dirigir a los usuarios a las funcionalidades principales de la plataforma.
 - Estos botones de acción tienen un diseño llamativo y están estratégicamente ubicados para captar la atención de los usuarios.
 
 <b> 4. Búsqueda y Filtros Visibles:</b>
+
 - La barra de búsqueda y los filtros de navegación son visibles en todas las páginas para que los usuarios puedan buscar productos específicos o filtrar resultados según sus preferencias.
 - Los filtros se presentan de manera clara y se pueden ajustar fácilmente para refinar los resultados de búsqueda.
 
 <b> 5. Flujo de Navegación Intuitivo:</b>
+
 - Se establece un flujo de navegación intuitivo y lógico que guía a los usuarios a través de las diferentes etapas de compra, desde la exploración del catálogo hasta el diseño personalizado y la finalización de la compra.
 - Se utilizan llamadas a la acción claras y señales visuales para indicar el progreso y las acciones que los usuarios deben realizar en cada paso del proceso de navegación.
 
@@ -4701,6 +4776,952 @@ Contribuciones del equipo:
 
 <br><br>
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            02/05/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            19:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Dreamers in a Hurry     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Defilippi Santillán, Diego <br/>
+            - Sanchez Maita, Agustin Alejandro <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            El Sprint 2 abarcó el desarrollo frontend de la aplicación FitShirt mediante el uso del framework Vue. Se logró completar con éxito todas las historias de usuario planificadas, lo que abarcó diferentes funcionalidades como el inicio de sesión, el registro de nuevos usuarios, el catálogo de productos, el carrito de compras, la gestión de las publicaciones y de los diseños de camisetas, que abarca la creación, visualización, edición y eliminación de dichas entidades, y la administración del perfil del usuario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            El objetivo del presente sprint es desarrollar un avance significativo del frontend de la aplicación FitShirt. Se planea desarrollar las funcionalidades de inicio de sesión, registro, perfil del usuario, el catálogo de productos, el carrito de compras y la gestión de las publicaciones y diseños de camisetas.
+            <br>
+            Las tareas fueron organizadas a través de varias llamadas por Discord, además de emplear una pizarra en Miiro para la proyección. El despliegue de la aplicacion web será a través de los servidores Azure y la Api conectada a la base de datos, mediante la aplicación web MockApi.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            28
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            28
+        </td>
+    </tr>
+</table>
+
+<br><br>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="1">US01</td>
+       <td rowspan="1">Creación de cuenta</td>
+       <td>T01</td>
+       <td>Creación de pestaña</td>
+       <td>Creación de pestaña para el registro de usuario</td>
+       <td>2</td>
+       <td>Agustín Sanchez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="1">US02</td>
+       <td rowspan="1">Inicio de sesión</td>
+       <td>T01</td>
+       <td>Creación de pestaña</td>
+       <td>Creación de pestaña para el inicio de sesión</td>
+       <td>2</td>
+       <td>Agustín Sanchez</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td rowspan="2">US03</td>
+       <td rowspan="2">Visualización de publicaciones</td>
+       <td>T01</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la conexión con la base de datos</td>
+       <td>1</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Visualización de publicaciones</td>
+       <td>Implementar pestaña para la visualización de publicaciones</td>
+       <td>1</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US04</td>
+       <td rowspan="2">Publicación de camisetas</td>
+       <td>T01</td>
+       <td>Crear form para la creación de publicación</td>
+       <td>Implementar un formulario para que el usuario ingrese los datos necesarios para la creación</td>
+       <td>1</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Publicar</td>
+       <td>Implementar funcionalidades para la correcta publicación</td>
+       <td>2</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="3">US05</td>
+       <td rowspan="3">Edición de publicaciones</td>
+       <td>T01</td>
+       <td>Creación de view detallada del post</td>
+       <td>Implementar una pestaña donde se pueda ver los detalles de la publicación</td>
+       <td>1</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Edición de publicación</td>
+       <td>Implementar funcionalidades que permitan la correcta edición de la publicación</td>
+       <td>2</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Eliminar publicación</td>
+       <td>Implementar funcionalidades que permitan la correcta eliminación de una publicación</td>
+       <td>.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US06</td>
+       <td rowspan="2">Catálogo de camisetas</td>
+       <td>T01</td>
+       <td>Crear pestaña del catálogo</td>
+       <td>Creación de la pestaña del catálogo, donde se mostrarán las camisetas a la venta</td>
+       <td>1</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+        <td>T02</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la correcta administración del modelo 'camiseta'</td>
+       <td>1.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr> 
+    <tr>
+       <td rowspan="1">US07</td>
+       <td rowspan="1">Visualizar la descripción de cada camiseta</td>
+       <td>T01</td>
+       <td>Creación de view detallada del producto</td>
+       <td>Implementar una pestaña donde se pueda ver los detalles del producto</td>
+       <td>2</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US08</td>
+       <td rowspan="2">Filtrar camisetas</td>
+       <td>T01</td>
+       <td>Creación de filtros</td>
+       <td>Implementar los componentes de filtro en el catálogo</td>
+       <td>1</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la correcta administración del modelo 'categoria'</td>
+       <td>.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US09</td>
+       <td rowspan="2">Visualización del carrito de compras</td>
+       <td>T01</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la correcta administración del modelo 'cart'</td>
+       <td>1.5</td>
+       <td>Agustin Sanchez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Visualizar el carrito de compras</td>
+       <td>Creación de pestaña para la visualización del carrito de compras y los diferentes items</td>
+       <td>1</td>
+       <td>Agustin Sanchez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US10</td>
+       <td rowspan="2">Adición al carrito de compras</td>
+       <td>T01</td>
+       <td>Adición de una camiseta al carrito</td>
+       <td>Implementar la funcionalidad para agregar un producto al carrito de compras</td>
+       <td>.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Adicionar una cantidad de camisetas</td>
+       <td>Implementar la funcionalidad para agregar una cantidad específica del producto al carrito de compras</td>
+       <td>.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US17</td>
+       <td rowspan="2">Personalización de camiseta</td>
+       <td>T01</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la correcta administración del modelo 'diseño'</td>
+       <td>1</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Crear form para diseño</td>
+       <td>Implementar formulario para el ingreso correcto de datos</td>
+       <td>2</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US18</td>
+       <td rowspan="2">Guardar el diseño</td>
+       <td>T01</td>
+       <td>Guardar exitosamente</td>
+       <td>Implementar funcionalidades para el correcto guardado del diseño</td>
+       <td>2</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Visualización de diseños</td>
+       <td>Implementar pestaña para la visualización de diseños</td>
+       <td>1</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    
+</table>
+
+<br><br>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio del FrontEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Frontend">Enlace</a>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>47a3a08e93cde6e0db45cd9a524b4b3fd89aa42c</td>
+        <td>Diego Defilippi</td>
+        <td>first commit</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da85347264f9f1cbe654e5f22d138df739f1</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added primevue lib</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>1019cd78485b32ea14244cb14bb5d485a3d7ef8e</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added router lib</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>8e534c7290e51ae65c5fa7a8f4558c146270ff35</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added axios lib</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>98b792a7cde43988dd5d553b1ab48e88459abff8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added data</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>388ecf4a102c4cad2a9e5b972061ff03bca17353</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shirts images</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>dbedce1f1d31e2e0a5637653f6ee61107b44cca8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: changed main styles</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>7d484936b89379c36b337f602eb6f5930fc61d5c</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shared components</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>af828c71cdf2cc7f489f455f5cfd4096f5bc5ffa</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added axios functions</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>252ab7a7d8ec93f3fa34856dfe32e8b5ca1b8933</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shirts service</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>05c2c974d72012b80db15b04fd190c585dd53014</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added catalogue component</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>3a363243c29e9e643fa5278c492238f458e6edb3</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added router</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>40707b86354cdbe41316f39b55bca69851d5fb6d</td>
+        <td>Diego Defilippi</td>
+        <td>feat: modified main</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>d728b42b951b8a7d21adcd8839974f1e2786a458</td>
+        <td>Diego Defilippi</td>
+        <td>feat: modified App.vue</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>00687ee9ef6e6367d36e4b3755cd4cbc88e8afd7</td>
+        <td>Diego Defilippi</td>
+        <td>fix: deleted unused components</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>4dbfe17950aacf6a6f80c7a7a9f85b48fe493829</td>
+        <td>Diego Defilippi</td>
+        <td>fmerge catalogue-implementation into develop</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/profile-implementation</td>
+        <td>c14d750ab8360a1018309ead434efc8577a23d84</td>
+        <td>Agustin Maita</td>
+        <td>Added new feature: User Profile</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>c9834d2edf8fcf114918484af16dbbda09b09230</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added json-server lib</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>deb2598d46d4e12f503f7c77efbd416cf76d2a45</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added data in db</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>8c1d7ec0893eab87721bd3e00815e98a1b6df138</td>
+        <td>Diego Defilippi</td>
+        <td>feat: modified linking url</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>1dc9c7fbfdc4c11a8c16be56c8be60d222f9060d</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shirt description</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/profile-implementation</td>
+        <td>5631a62977d3587c7d7c4524eb6682d8843763a0</td>
+        <td>Agustin Maita</td>
+        <td>Revert "Added new feature: User Profile"</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>d73bd51480cef96b34772c3165fe138625e4df89</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added responsive</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>4787afdacf559bbe5c4f0ef531dcd0045a792351</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/catalogue-implementation' into fixing/merging-catalogue-branches</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>6d08930103d393a37d6e73cde5309454120678ed</td>
+        <td>Agustin Maita</td>
+        <td>Added new feature: Cart</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>c102c799f79ba2a6b02cd44905029c147be769df</td>
+        <td>Agustin Maita</td>
+        <td>Added new feature: ToolBar in Cart</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>e69405be6c35b8424d30652e9dbf580cac24fde4</td>
+        <td>Agustin Maita</td>
+        <td>Upload: New icon Images</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>5efa8ab06e57d451de419db71a7fa6ea35b82e61</td>
+        <td>Agustin Maita</td>
+        <td>Merge remote-tracking branch 'origin/feature/cart-implementation' into feature/cart-implementation</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>5544578d5c7279ba5feaf0ce298cc81601ceffa9</td>
+        <td>Agustin Maita</td>
+        <td>Upload: New icon Images</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>5027248ba8d461014ded62c2bc0cf6c31eb7272a</td>
+        <td>Agustin Maita</td>
+        <td>Upload: cart view responsiveness</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>10b2f003ca13f73d14719743727386f1c154149e</td>
+        <td>Agustin Maita</td>
+        <td>Update: toolbar icons</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>d96e943aecd745ef30bf6646f8765b670c41abd5</td>
+        <td>Agustin Maita</td>
+        <td>Update: resized toolbar icons</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9ca6624a3f808ec2b269e3af9cfaf1e6eeedd6f5</td>
+        <td>Diego Defilippi</td>
+        <td>ref: added accessibility tags</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1309174c275c8192a760cccdd518cb84ecf3e7dc</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/catalogue-implementation into develop</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>5e7e6fb5bf9fcd16e900980acf1f48db7874ff58</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/cart-implementation' into fix/merging-cart-into-dev</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>150920ee8ebe74b4d2a0eb11eece136e88bdffda</td>
+        <td>Diego Defilippi</td>
+        <td>fix: fixing style errors</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>b6aaf7b476333ae0a727151e2a6c3bd890ff1ca6</td>
+        <td>Diego Defilippi</td>
+        <td>fix: modified toolbar structure</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>42bb4a8e83e60be7df0ab1fec5388911807b552d</td>
+        <td>Agustin Maita</td>
+        <td>Update: Toolbar feature</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>86c8429bbb05850e082cc8ba6ac0c29e3659074d</td>
+        <td>Agustin Maita</td>
+        <td>Update: Position Toolbar feature</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>86c8429bbb05850e082cc8ba6ac0c29e3659074d</td>
+        <td>Agustin Maita</td>
+        <td>Update: Position Toolbar feature</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>43b3cb3d1b1a67f93489d8fd03de8aa7da389767</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: db.json</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>3833d6b98b1e9724c375638031285c771eb8e1d9</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: components and routes</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>884f30cf41a174151253021a36d0983c699f40e8</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: routes</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>9d6bacb55f658565d6bf4d27b91d8982f4380f48</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: image-edited and image loaded</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>b53c55cfd04369bae7316e9ff955d906f665cbdc</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: publish-shirt.component</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>158e8f1c10df707e78a146af13e04809867a31af</td>
+        <td>Diego Defilippi</td>
+        <td>ref: refactored catalogue styles</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>54976ee8f43345ec6e2e0d84abd1214901131eac</td>
+        <td>Diego Defilippi</td>
+        <td>fix: changed pv items</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>a38510877dddd9ce2d71347fd88f7348ed2af5c7</td>
+        <td>Diego Defilippi</td>
+        <td>ref: refactor cart component</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>84c70d22e1cbba0de9e90fbef01eb9a145e09d2b</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/cart-implementation' into fix/merging-cart-into-dev</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>5f46bed0e380203b4e6cd1aa8a183b3eea1aa0f0</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactored toolbar</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>b3d7805addd22f2f4173cba24b7c7e3b3bef9e0b</td>
+        <td>Agustin Maita</td>
+        <td>update: User cart feature</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>4a6a4d112b77aeeab4361485e7e4d282dd416b65</td>
+        <td>Agustin Maita</td>
+        <td>update: User cart feature</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/cart-implementation</td>
+        <td>422f45ad753fc0b7e7cb78568818b5827d44ecd6</td>
+        <td>Agustin Maita</td>
+        <td>Merge remote-tracking branch 'origin/feature/cart-implementation' into feature/cart-implementation</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>dc7b706de21df26b99f3aa4bf918a18ef696f6f1</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/cart-implementation' into fix/merging-cart-into-dev</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>39bbf3b67e0efa2b63b48451f0219f3cd1343aef</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactores axios get</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/post-implementation</td>
+        <td>4b97f6bd6eda05c7fa746ad27df1aa460a1bea0a</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactored cart service and component</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>6b0d6b4630d656a8997a14e833905eeb797de0f1</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch fix/merging-cart-into-dev into dev</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>a8f5be6ae929295715fec9c55e02b8f31ad740d0</td>
+        <td>Daniel Chirinos</td>
+        <td>Added: publish components</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>28c4a72bc8ebb70177d759915c9938ce91a9afcc</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added post item</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/</td>
+        <td>ff17591bd08475f447b135b88c745d135520fdde</td>
+        <td>Diego Defilippi</td>
+        <td>ref: changed shirt attribute</td>
+        <td>01/05/2024</td>
+    </tr>
+<tr>
+        <td>feature/catalogue-implementation</td>
+        <td>4c5a528ca3e1e6a2470394e8706142eba48001b3</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added category service in filters</td>
+        <td>01/05/2024</td>
+    </tr>
+<tr>
+        <td>develop</td>
+        <td>557875fb54749cdcd3003ea2c73eccce71bd9817</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch feature/post-items into dev</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>7b299861f621aab5d99d5a423b3788524396817d</td>
+        <td>George Aliaga</td>
+        <td>added components</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ecce9d6b30037c602f2cac9130c03dcab8d49446</td>
+        <td>Daniel Chirinos</td>
+        <td>Added: components</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>93869163e7b676c0fb24d1b192951caf2d8a1aec</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: feature/posts-implementation</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/design-implementation</td>
+        <td>0683aeb60e38642c214b0f2bcb6502d5aae71363</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: feature/design-implementation</td>
+        <td>01/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/posts-implementation</td>
+        <td>8145ccebfb7a256f5df1ce140beefa2e044f5997</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated: feature/posts-implementation</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9278ddb16f251be10df9802603122c17f3e1028f</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/posts-implementation' into develop</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>18d2ff72d4d73d85ba04f9c5fdb7c5ef594d742c</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactored compontents</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>cb472c3b25ea3b56e1a7cadb79d6e79be30e1668</td>
+        <td>Diego Defilippi</td>
+        <td>ref: mockapi implemented</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/design-component</td>
+        <td>e78eaae28072ee26d528006ceb35abaf4988007e</td>
+        <td>George Aliaga</td>
+        <td>updated feature/design-implementation</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>7832608eda144eb3defc5b9239164c886129d69d</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'feature/design-implementation' into develop</td>
+        <td>02/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/design-component</td>
+        <td>d4a84e789e4d6c5ba51809840903794d76204ff7</td>
+        <td>Diego Defilippi</td>
+        <td>fix: refactored names and styles</td>
+        <td>02/05/2024</td>
+    </tr>    
+</table>
+
+<br><br>
+
+#### 5.2.2.4. Testing Suite Evidente for Sprint Review
+
+En el alcance del sprint 2 se ha desarrollado únicamente el frontend de la aplicación web de "FitShirt". Por ello no se evidencia el Testing Suite en el presente spring Boot.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Como resultado del segundo sprint, se presenta el despliegue del frontend.
+
+## Catalogo
+
+<div align="center"><img src="Images\Frontend/Catalogo.png" alt="Catalogo"></div>
+
+## Descripción de la camiseta
+
+<div align="center"><img src="Images\Frontend/Descripción.png" alt="Catalogo"></div>
+
+## Publicaciones
+
+<div align="center"><img src="Images\Frontend/Publicaciones.png" alt="Catalogo"></div>
+
+## Subir una publicación de camiseta
+
+<div align="center"><img src="Images\Frontend/SubirPublicación.png" alt="Catalogo"></div>
+
+## Editar una publicación de camiseta
+
+<div align="center"><img src="Images\Frontend/EditarPublicación.png" alt="Catalogo"></div>
+
+## Diseños
+
+<div align="center"><img src="Images\Frontend/Diseños.png" alt="Catalogo"></div>
+
+## Crear un diseño de camiseta
+
+<div align="center"><img src="Images\Frontend/CrearDiseño.png" alt="Catalogo"></div>
+
+## Editar Diseño
+
+<div align="center"><img src="Images\Frontend/EditarDiseño.png" alt="Catalogo"></div>
+
+## Carrito
+
+<div align="center"><img src="Images\Frontend/Carrito.png" alt="Catalogo"></div>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para esta segunda entrega, se ha desplegado lo que es el Frontend utilizando el servicio gratuito de Microsoft Azure. El FrontEnd es visible en el siguiente link: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">Web Application</a>.
+
+Asimismo, para el despliegue de la Api, se utilizó la aplicación MockApi. Dicho servicio nos permitió crear un API Restfull con los datos que ingresamos en formato Json.
+Para visualizar la Api, ingrese al siguiente link: <a href="https://mockapi.io/clone/66339c32f7d50bbd9b4a0b1b">FitShirt Api</a>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo del Frontend, se utilizaron las siguientes texnologías:
+
+- HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
+- Vue: Herramienta Framework...
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+- Microsoft Azure: Herramienta la cual nos permitió realizar el despliegue de nuestra plataforma.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la página, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+Asimismo, para el despliegue de la página, se utilizó el servicio de Microsoft Azure. Este permite crear sitios web estáticos directamente desde un repositorio Git. Es ideal para crear todo tipo de proyecto, y se integra perfectamente con Github para un flujo de trabajo sin interrupciones.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el sprint, el equipo de la StartUp Dreamers in a Hurry nuevamente adoptó GitFlow como su metodología de trabajo principal, aprovechando al máximo las capacidades de Git y Github para el control de versiones y la colaboración en el desarrollo del proyecto en cuestión.
+
+GitFlow del sprint:
+
+<div align="center"><img src="Images/Gitflowtp.png"></div>
+
+Contribuciones del equipo:
+
+<div align="center"><img src="Images/Contribuciones.png"></div>
+
+<br><br>
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -4711,6 +5732,8 @@ Contribuciones del equipo:
 - Se han creado diferentes user stories para las funcionalidades que los usuarios necesitas y se han priorizado utilizando criterios como el valor para el cliente, la complejidad técnica y el esfuerzo de desarrollo.
 - El empleo de Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
 - Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrolla del diagrama de clases, de datos y el modelo C4.
+- Se logró implementar la aplicación web usando Vue.js como framework.
+- Se logró desplegar la aplicación web mediante los servidores de Azure; así como el despliegue de la Api usando MockApi.
 
 <br><br>
 
@@ -4752,6 +5775,12 @@ Enlance del Product Backlog Trello link : https://trello.com/invite/b/y0DmY4eM/A
 
 Enlance del repositorio del Report en GitHub: https://github.com/Dreamers-in-a-Hurry/Report
 
-Enlance del repositorio del Lanfing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
+Enlance del repositorio del Landing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
+
+Enlace del repositorio de la Web Application en Github: https://github.com/Dreamers-in-a-Hurry/Frontend
+
+Enlace de la Landing Page: https://dreamers-in-a-hurry.github.io/Landing-page/
+
+Enlace de la Web Application: https://agreeable-stone-00a8a4b10.5.azurestaticapps.net/
 
 Enlace de Miro As-is and To-be Scenario Maps: https://miro.com/app/board/uXjVKV_ceuM=/?share_link_id=601718785341
