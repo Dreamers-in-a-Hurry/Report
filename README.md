@@ -5383,9 +5383,52 @@ Repositorio del FrontEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hu
 
 #### 5.2.2.4. Testing Suite Evidente for Sprint Review
 
-<br><br>
+En el siguiente punto, se mostrarán las imagenes de nuestro frontend y sus funcionalidades. 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+## Catalogo
+
+<div align="center"><img src="Images\Frontend/Catalogo.png" alt="Catalogo"></div>
+
+## Descripción de la camiseta
+
+
+<div align="center"><img src="Images\Frontend/Descripción.png" alt="Catalogo"></div>
+
+## Publicaciones
+
+
+<div align="center"><img src="Images\Frontend/Publicaciones.png" alt="Catalogo"></div>
+
+## Subir una publicación de camiseta
+
+
+<div align="center"><img src="Images\Frontend/SubirPublicación.png" alt="Catalogo"></div>
+
+## Editar una publicación de camiseta
+
+
+<div align="center"><img src="Images\Frontend/EditarPublicación.png" alt="Catalogo"></div>
+
+## Diseños
+
+
+<div align="center"><img src="Images\Frontend/Diseños.png" alt="Catalogo"></div>
+
+## Crear un diseño de camiseta
+
+
+<div align="center"><img src="Images\Frontend/CrearDiseño.png" alt="Catalogo"></div>
+
+## Editar Diseño
+
+
+<div align="center"><img src="Images\Frontend/EditarDiseño.png" alt="Catalogo"></div>
+
+## Carrito
+
+<div align="center"><img src="Images\Frontend/Carrito.png" alt="Catalogo"></div>
 
 <br><br>
 
