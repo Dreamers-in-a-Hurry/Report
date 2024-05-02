@@ -152,6 +152,15 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -4503,6 +4512,367 @@ Contribuciones del equipo:
 <div align="center">
     <img src="./Images/collaboration_insights/contributions.png" style="margin: 10px 0;" width="80%"/>
 </div>
+
+<br><br>
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            02/05/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            19:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Dreamers in a Hurry     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Defilippi Santillán, Diego <br/>
+            - Sanchez Maita, Agustin Alejandro <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            El Sprint 2 abarcó el desarrollo frontend de la aplicación FitShirt mediante el uso del framework Vue. Se logró completar con éxito todas las historias de usuario planificadas, lo que abarcó diferentes funcionalidades como el inicio de sesión, el registro de nuevos usuarios, el catálogo de productos, el carrito de compras, la gestión de las publicaciones y de los diseños de camisetas, que abarca la creación, visualización, edición y eliminación de dichas entidades, y la administración del perfil del usuario.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            El objetivo del presente sprint es desarrollar un avance significativo del frontend de la aplicación FitShirt. Se planea desarrollar las funcionalidades de inicio de sesión, registro, perfil del usuario, el catálogo de productos, el carrito de compras y la gestión de las publicaciones y diseños de camisetas.
+            <br>
+            Las tareas fueron organizadas a través de varias llamadas por Discord, además de emplear una pizarra en Miiro para la proyección. El despliegue de la aplicacion web será a través de Google Firebase y la Api conectada a la base de datos, mediante Azure.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            ###
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            ###
+        </td>
+    </tr>
+</table>
+
+<br><br>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="1">US01</td>
+       <td rowspan="1">Creación de cuenta</td>
+       <td>T01</td>
+       <td>Creación de pestaña</td>
+       <td>Creación de pestaña para el registro de usuario</td>
+       <td>###</td>
+       <td>Agustín Sanchez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="1">US02</td>
+       <td rowspan="1">Inicio de sesión</td>
+       <td>T01</td>
+       <td>Creación de pestaña</td>
+       <td>Creación de pestaña para el inicio de sesión</td>
+       <td>###</td>
+       <td>Agustín Sanchez</td>
+       <td>Done</td>
+    </tr>
+     <tr>
+       <td rowspan="2">US03</td>
+       <td rowspan="2">Visualización de publicaciones</td>
+       <td>T01</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la conexión con la base de datos</td>
+       <td>###</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Visualización de publicaciones</td>
+       <td>Implementar pestaña para la visualización de publicaciones</td>
+       <td>###</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US04</td>
+       <td rowspan="2">Publicación de camisetas</td>
+       <td>T01</td>
+       <td>Crear form para la creación de publicación</td>
+       <td>Implementar un formulario para que el usuario ingrese los datos necesarios para la creación</td>
+       <td>###</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Publicar</td>
+       <td>Implementar funcionalidades para la correcta publicación</td>
+       <td>###</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="3">US05</td>
+       <td rowspan="3">Edición de publicaciones</td>
+       <td>T01</td>
+       <td>Creación de view detallada del post</td>
+       <td>Implementar una pestaña donde se pueda ver los detalles de la publicación</td>
+       <td>###</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Edición de publicación</td>
+       <td>Implementar funcionalidades que permitan la correcta edición de la publicación</td>
+       <td>###</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Eliminar publicación</td>
+       <td>Implementar funcionalidades que permitan la correcta eliminación de una publicación</td>
+       <td>###</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US06</td>
+       <td rowspan="2">Catálogo de camisetas</td>
+       <td>T01</td>
+       <td>Crear pestaña del catálogo</td>
+       <td>Creación de la pestaña del catálogo, donde se mostrarán las camisetas a la venta</td>
+       <td>###</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+        <td>T02</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la correcta administración del modelo 'camiseta'</td>
+       <td>###</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr> 
+    <tr>
+       <td rowspan="1">US07</td>
+       <td rowspan="1">Visualizar la descripción de cada camiseta</td>
+       <td>T01</td>
+       <td>Creación de view detallada del producto</td>
+       <td>Implementar una pestaña donde se pueda ver los detalles del producto</td>
+       <td>###</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US08</td>
+       <td rowspan="2">Filtrar camisetas</td>
+       <td>T01</td>
+       <td>Creación de filtros</td>
+       <td>Implementar los componentes de filtro en el catálogo</td>
+       <td>###</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la correcta administración del modelo 'categoria'</td>
+       <td>###</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US09</td>
+       <td rowspan="2">Visualización del carrito de compras</td>
+       <td>T01</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la correcta administración del modelo 'cart'</td>
+       <td>###</td>
+       <td>Agustin Sanchez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Visualizar el carrito de compras</td>
+       <td>Creación de pestaña para la visualización del carrito de compras y los diferentes items</td>
+       <td>###</td>
+       <td>Agustin Sanchez</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US10</td>
+       <td rowspan="2">Adición al carrito de compras</td>
+       <td>T01</td>
+       <td>Adición de una camiseta al carrito</td>
+       <td>Implementar la funcionalidad para agregar un producto al carrito de compras</td>
+       <td>###</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Adicionar una cantidad de camisetas</td>
+       <td>Implementar la funcionalidad para agregar una cantidad específica del producto al carrito de compras</td>
+       <td>###</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US17</td>
+       <td rowspan="2">Personalización de camiseta</td>
+       <td>T01</td>
+       <td>Creación de api service</td>
+       <td>Creación de api service para la correcta administración del modelo 'diseño'</td>
+       <td>###</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Crear form para diseño</td>
+       <td>Implementar formulario para el ingreso correcto de datos</td>
+       <td>###</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US18</td>
+       <td rowspan="2">Guardar el diseño</td>
+       <td>T01</td>
+       <td>Guardar exitosamente</td>
+       <td>Implementar funcionalidades para el correcto guardado del diseño</td>
+       <td>###</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Visualización de diseños</td>
+       <td>Implementar pestaña para la visualización de diseños</td>
+       <td>###</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    
+</table>
+
+<br><br>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+<br><br>
+
+#### 5.2.2.4. Testing Suite Evidente for Sprint Review
+
+<br><br>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+<br><br>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+<br><br>
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+<br><br>
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 <br><br>
 
