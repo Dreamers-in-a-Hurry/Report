@@ -45,7 +45,8 @@
 
 | Versión |   Fecha    |              Autor               | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                             |
 | :-----: | :--------: | :------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 05/09/2023 | Todos los integrantes del equipo | Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se implementó y desplegó la Landing Page, que era el objetivo del primer Sprint |
+|   TB1   | 12/03/2024 | Todos los integrantes del equipo | Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se implementó y desplegó la Landing Page, que era el objetivo del primer Sprint |
+|   TP    | 02/05/2024 |    Los integrantes del equipo    | Se desarrolló el Sprint 2 del trabajo, en cual consistió en la implementación de la aplicación web empleando Vue.js como Framework principal. Asimismo, se desplegó la aplicación mediante Azure services. De igual modo, se levantaron las observaciones de la anterior entrega.                                                                                                       |
 
 </div>
 
@@ -186,7 +187,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 </tr>
 <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
-    <td> TB1<br><br>
+    <td> 
+        TB1
+        <br><br>
         <b>Aliaga Pimentel, George Arturo </b>
         <br>
         - Asistí a todas las reuniones, aporté ideas, elaboré los Lean UX problem statements y assumptions además de los Empathy Mapping y User Journey
@@ -208,17 +211,43 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Elaboré los Wireframes, Mockups y Prototypes de la Aplicación Web utilizando la herramienta figma para realizar el entregable con mayor rapidez.<br>
         - Logré cumplir las actividades que se me asignaron haciendo uso de las herramientas aprendidas en el curso.
         <br>
+        TP
+        <br><br>
+        <b>Aliaga Pimentel, George Arturo </b>
+        <br>
+        - 
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - 
+        <br><br>
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - Participación activa en el desarrollo de la aplicación y reuniones <br>
+        - Presentación de avances en el tiempo pactado
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - 
+        <br>
     </td>
     <td>TB1
     <br>
-    Se logró desarrollar y desplegar la Landing page en base a las reuniones colaborativas y proacticas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow
+    Se logró desarrollar y desplegar la Landing page en base a las reuniones colaborativas y proacticas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow.
+    <br><br>
+    TP
+    <br>
+    Se logró implementar y desplegar la primera versión de la aplicación web.
     </td>
+    <br><br>
 
 </tr>
 <tr>
 <td><b>
 Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
-<td> TB1<br><br>
+    <td> 
+        TB1
+        <br><br>
         <b>Aliaga Pimentel, George Arturo </b>
         <br>
         - Desarrollé los style guidelines para la realización de los wireframes y posteriormente mockup de la landing page
@@ -240,11 +269,33 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <b>Sanchez Maita, Agustin Alejandro</b>
         <br>
         - Al realizar los Mockups de la aplicación se tomó de referencias las interfaces de nuestros competidores, recopilando las funcionalidades más destacables para ofrecer un mejor servicio al usuario.
+        <br><br><br>
+        TP<br><br>
+        <b>Aliaga Pimentel, George Arturo </b>
+        <br>
+        - 
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - 
+        <br><br>
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - Implementación de la funcionalidad del catálogo de la aplicación web<br>
+        - Implementación adecuada de los merge entre ramas
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - 
         <br>
 </td>
     <td>TB1
     <br>
     Se identificó una oportunidad de negocio a partir de una problemática actual. A partir de ello, se comenzó a desarrollar una solución de software aplicando los conocimientos aprendidos en los diferentes cursos.
+    <br><br>
+    TP
+    <br>
+    Se implementó la propuesta de solución como una primera versión de la aplicación Web, la cual cumple con los user stories propuestos.
     </td>
 </tr>
 </table>
@@ -4596,7 +4647,7 @@ Contribuciones del equipo:
         <td>
             El objetivo del presente sprint es desarrollar un avance significativo del frontend de la aplicación FitShirt. Se planea desarrollar las funcionalidades de inicio de sesión, registro, perfil del usuario, el catálogo de productos, el carrito de compras y la gestión de las publicaciones y diseños de camisetas.
             <br>
-            Las tareas fueron organizadas a través de varias llamadas por Discord, además de emplear una pizarra en Miiro para la proyección. El despliegue de la aplicacion web será a través de Google Firebase y la Api conectada a la base de datos, mediante Azure.
+            Las tareas fueron organizadas a través de varias llamadas por Discord, además de emplear una pizarra en Miiro para la proyección. El despliegue de la aplicacion web será a través de los servidores Azure y la Api conectada a la base de datos, mediante la aplicación web MockApi.
         </td>
     </tr>
      <tr align="left">
@@ -4609,7 +4660,7 @@ Contribuciones del equipo:
             <b>Sprint 2 Velocity</b>
         </td>
         <td>
-            ###
+            28
         </td>
     </tr>
        <tr align="left">
@@ -4617,7 +4668,7 @@ Contribuciones del equipo:
             <b>Sum of Story Points</b>
         </td>
         <td>
-            ###
+            28
         </td>
     </tr>
 </table>
@@ -4653,7 +4704,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Creación de pestaña</td>
        <td>Creación de pestaña para el registro de usuario</td>
-       <td>###</td>
+       <td>2</td>
        <td>Agustín Sanchez</td>
        <td>Done</td>
     </tr>
@@ -4663,7 +4714,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Creación de pestaña</td>
        <td>Creación de pestaña para el inicio de sesión</td>
-       <td>###</td>
+       <td>2</td>
        <td>Agustín Sanchez</td>
        <td>Done</td>
     </tr>
@@ -4673,7 +4724,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Creación de api service</td>
        <td>Creación de api service para la conexión con la base de datos</td>
-       <td>###</td>
+       <td>1</td>
        <td>Daniel Chirinos</td>
        <td>Done</td>
     </tr>
@@ -4681,7 +4732,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T02</td>
        <td>Visualización de publicaciones</td>
        <td>Implementar pestaña para la visualización de publicaciones</td>
-       <td>###</td>
+       <td>1</td>
        <td>Daniel Chirinos</td>
        <td>Done</td>
     </tr>
@@ -4691,7 +4742,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Crear form para la creación de publicación</td>
        <td>Implementar un formulario para que el usuario ingrese los datos necesarios para la creación</td>
-       <td>###</td>
+       <td>1</td>
        <td>Daniel Chirinos</td>
        <td>Done</td>
     </tr>
@@ -4699,7 +4750,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T02</td>
        <td>Publicar</td>
        <td>Implementar funcionalidades para la correcta publicación</td>
-       <td>###</td>
+       <td>2</td>
        <td>Daniel Chirinos</td>
        <td>Done</td>
     </tr>
@@ -4709,7 +4760,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Creación de view detallada del post</td>
        <td>Implementar una pestaña donde se pueda ver los detalles de la publicación</td>
-       <td>###</td>
+       <td>1</td>
        <td>Daniel Chirinos</td>
        <td>Done</td>
     </tr>
@@ -4717,7 +4768,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T02</td>
        <td>Edición de publicación</td>
        <td>Implementar funcionalidades que permitan la correcta edición de la publicación</td>
-       <td>###</td>
+       <td>2</td>
        <td>Daniel Chirinos</td>
        <td>Done</td>
     </tr>
@@ -4725,7 +4776,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T03</td>
        <td>Eliminar publicación</td>
        <td>Implementar funcionalidades que permitan la correcta eliminación de una publicación</td>
-       <td>###</td>
+       <td>.5</td>
        <td>Daniel Chirinos</td>
        <td>Done</td>
     </tr>
@@ -4735,7 +4786,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Crear pestaña del catálogo</td>
        <td>Creación de la pestaña del catálogo, donde se mostrarán las camisetas a la venta</td>
-       <td>###</td>
+       <td>1</td>
        <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
@@ -4743,7 +4794,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
         <td>T02</td>
        <td>Creación de api service</td>
        <td>Creación de api service para la correcta administración del modelo 'camiseta'</td>
-       <td>###</td>
+       <td>1.5</td>
        <td>Diego Defilippi</td>
        <td>Done</td>
     </tr> 
@@ -4753,7 +4804,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Creación de view detallada del producto</td>
        <td>Implementar una pestaña donde se pueda ver los detalles del producto</td>
-       <td>###</td>
+       <td>2</td>
        <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
@@ -4763,7 +4814,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Creación de filtros</td>
        <td>Implementar los componentes de filtro en el catálogo</td>
-       <td>###</td>
+       <td>1</td>
        <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
@@ -4771,7 +4822,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T02</td>
        <td>Creación de api service</td>
        <td>Creación de api service para la correcta administración del modelo 'categoria'</td>
-       <td>###</td>
+       <td>.5</td>
        <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
@@ -4781,7 +4832,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Creación de api service</td>
        <td>Creación de api service para la correcta administración del modelo 'cart'</td>
-       <td>###</td>
+       <td>1.5</td>
        <td>Agustin Sanchez</td>
        <td>Done</td>
     </tr>
@@ -4789,7 +4840,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T02</td>
        <td>Visualizar el carrito de compras</td>
        <td>Creación de pestaña para la visualización del carrito de compras y los diferentes items</td>
-       <td>###</td>
+       <td>1</td>
        <td>Agustin Sanchez</td>
        <td>Done</td>
     </tr>
@@ -4799,7 +4850,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Adición de una camiseta al carrito</td>
        <td>Implementar la funcionalidad para agregar un producto al carrito de compras</td>
-       <td>###</td>
+       <td>.5</td>
        <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
@@ -4807,7 +4858,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T02</td>
        <td>Adicionar una cantidad de camisetas</td>
        <td>Implementar la funcionalidad para agregar una cantidad específica del producto al carrito de compras</td>
-       <td>###</td>
+       <td>.5</td>
        <td>Diego Defilippi</td>
        <td>Done</td>
     </tr>
@@ -4817,7 +4868,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Creación de api service</td>
        <td>Creación de api service para la correcta administración del modelo 'diseño'</td>
-       <td>###</td>
+       <td>1</td>
        <td>George Aliaga</td>
        <td>Done</td>
     </tr>
@@ -4825,7 +4876,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T02</td>
        <td>Crear form para diseño</td>
        <td>Implementar formulario para el ingreso correcto de datos</td>
-       <td>###</td>
+       <td>2</td>
        <td>George Aliaga</td>
        <td>Done</td>
     </tr>
@@ -4835,7 +4886,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T01</td>
        <td>Guardar exitosamente</td>
        <td>Implementar funcionalidades para el correcto guardado del diseño</td>
-       <td>###</td>
+       <td>2</td>
        <td>George Aliaga</td>
        <td>Done</td>
     </tr>
@@ -4843,7 +4894,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>T02</td>
        <td>Visualización de diseños</td>
        <td>Implementar pestaña para la visualización de diseños</td>
-       <td>###</td>
+       <td>1</td>
        <td>George Aliaga</td>
        <td>Done</td>
     </tr>
@@ -5383,7 +5434,7 @@ Repositorio del FrontEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hu
 
 #### 5.2.2.4. Testing Suite Evidente for Sprint Review
 
-En el siguiente punto, se mostrarán las imagenes de nuestro frontend y sus funcionalidades. 
+En el alcance del sprint 2 se ha desarrollado únicamente el frontend de la aplicación web de "FitShirt". Por ello no se evidencia el Testing Suite en el presente spring Boot.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -5395,36 +5446,29 @@ Como resultado del segundo sprint, se presenta el despliegue del frontend.
 
 ## Descripción de la camiseta
 
-
 <div align="center"><img src="Images\Frontend/Descripción.png" alt="Catalogo"></div>
 
 ## Publicaciones
-
 
 <div align="center"><img src="Images\Frontend/Publicaciones.png" alt="Catalogo"></div>
 
 ## Subir una publicación de camiseta
 
-
 <div align="center"><img src="Images\Frontend/SubirPublicación.png" alt="Catalogo"></div>
 
 ## Editar una publicación de camiseta
-
 
 <div align="center"><img src="Images\Frontend/EditarPublicación.png" alt="Catalogo"></div>
 
 ## Diseños
 
-
 <div align="center"><img src="Images\Frontend/Diseños.png" alt="Catalogo"></div>
 
 ## Crear un diseño de camiseta
 
-
 <div align="center"><img src="Images\Frontend/CrearDiseño.png" alt="Catalogo"></div>
 
 ## Editar Diseño
-
 
 <div align="center"><img src="Images\Frontend/EditarDiseño.png" alt="Catalogo"></div>
 
@@ -5432,9 +5476,12 @@ Como resultado del segundo sprint, se presenta el despliegue del frontend.
 
 <div align="center"><img src="Images\Frontend/Carrito.png" alt="Catalogo"></div>
 
-
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-Para esta segunda entrega, se ha desplegado lo que es el Frontend utilizando el servicio gratuito de Microsoft Azure. El FrontEnd es visible en el siguiente link: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">FrontEnd</a>
+
+Para esta segunda entrega, se ha desplegado lo que es el Frontend utilizando el servicio gratuito de Microsoft Azure. El FrontEnd es visible en el siguiente link: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">Web Application</a>.
+
+Asimismo, para el despliegue de la Api, se utilizó la aplicación MockApi. Dicho servicio nos permitió crear un API Restfull con los datos que ingresamos en formato Json.
+Para visualizar la Api, ingrese al siguiente link: <a href="https://mockapi.io/clone/66339c32f7d50bbd9b4a0b1b">FitShirt Api</a>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -5465,6 +5512,8 @@ Asimismo, para el despliegue de la página, se utilizó el servicio de Microsoft
 - Se han creado diferentes user stories para las funcionalidades que los usuarios necesitas y se han priorizado utilizando criterios como el valor para el cliente, la complejidad técnica y el esfuerzo de desarrollo.
 - El empleo de Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
 - Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrolla del diagrama de clases, de datos y el modelo C4.
+- Se logró implementar la aplicación web usando Vue.js como framework.
+- Se logró desplegar la aplicación web mediante los servidores de Azure; así como el despliegue de la Api usando MockApi.
 
 <br><br>
 
@@ -5506,6 +5555,12 @@ Enlance del Product Backlog Trello link : https://trello.com/invite/b/y0DmY4eM/A
 
 Enlance del repositorio del Report en GitHub: https://github.com/Dreamers-in-a-Hurry/Report
 
-Enlance del repositorio del Lanfing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
+Enlance del repositorio del Landing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
+
+Enlace del repositorio de la Web Application en Github: https://github.com/Dreamers-in-a-Hurry/Frontend
+
+Enlace de la Landing Page: https://dreamers-in-a-hurry.github.io/Landing-page/
+
+Enlace de la Web Application: https://agreeable-stone-00a8a4b10.5.azurestaticapps.net/
 
 Enlace de Miro As-is and To-be Scenario Maps: https://miro.com/app/board/uXjVKV_ceuM=/?share_link_id=601718785341
