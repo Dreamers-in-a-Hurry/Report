@@ -54,7 +54,14 @@
 
 # Project Report Collaboration Insights
 
-<br><br>
+<div align="center"><img src="Images/projectreportTP.png"></div>
+<br><br><br>
+<div align="center"><img src="Images/branches.png"></div>
+<br><br><br>
+<div align="center"><img src="Images/GitflowtPRCI.png"></div>
+
+
+<br>
 
 # Contenido
 
