@@ -4854,6 +4854,133 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio de la Landing Page en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Landing-page">Enlace</a>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>47a3a08</td>
+        <td>Diego Defilippi</td>
+        <td>first commit</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added primevue lib</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added router lib</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added axios lib</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added data</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shirts images</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: changed main styles</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shared components</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added axios functions</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shirts service</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added catalogue component</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added router</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: modified main</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: modified App.vue</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>fix: deleted unused components</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-implementation</td>
+        <td>2463da8</td>
+        <td>Diego Defilippi</td>
+        <td>fmerge catalogue-implementation into develop</td>
+        <td>23/04/2024</td>
+    </tr>
+    
+</table>
+
 <br><br>
 
 #### 5.2.2.4. Testing Suite Evidente for Sprint Review
