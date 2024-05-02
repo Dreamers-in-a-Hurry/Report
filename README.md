@@ -219,7 +219,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        - 
+        - Actualicé el Diagrama de clase y base de datos.
+        - Realicé mi feature posts del frontend.
         <br><br>
         <b>Defilippi Santillán, Diego</b>
         <br>
@@ -278,7 +279,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        - 
+        - Realicé mi parte de los posts para agregar, editar y eliminar los post en el frontend
         <br><br>
         <b>Defilippi Santillán, Diego</b>
         <br>
