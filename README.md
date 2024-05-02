@@ -5387,6 +5387,8 @@ En el siguiente punto, se mostrarán las imagenes de nuestro frontend y sus func
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Como resultado del segundo sprint, se presenta el despliegue del frontend.
+
 ## Catalogo
 
 <div align="center"><img src="Images\Frontend/Catalogo.png" alt="Catalogo"></div>
@@ -5430,15 +5432,24 @@ En el siguiente punto, se mostrarán las imagenes de nuestro frontend y sus func
 
 <div align="center"><img src="Images\Frontend/Carrito.png" alt="Catalogo"></div>
 
-<br><br>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-
-<br><br>
+Para esta segunda entrega, se ha desplegado lo que es el Frontend utilizando el servicio gratuito de Microsoft Azure. El FrontEnd es visible en el siguiente link: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">FrontEnd</a>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-<br><br>
+Para el desarrollo del Frontend, se utilizaron las siguientes texnologías:
+
+- HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
+- Vue: Herramienta Framework...
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+- Microsoft Azure: Herramienta la cual nos permitió realizar el despliegue de nuestra plataforma.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la página, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+Asimismo, para el despliegue de la página, se utilizó el servicio de Microsoft Azure. Este permite crear sitios web estáticos directamente desde un repositorio Git. Es ideal para crear todo tipo de proyecto, y se integra perfectamente con Github para un flujo de trabajo sin interrupciones.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
