@@ -11,7 +11,7 @@
 
 <br>
 
-<h1 align="center"> TB1 Report </h1>
+<h1 align="center"> TB2 Report </h1>
 
 <h3 align="center"> Aplicaciones Web - SW53 </h3>
 
@@ -35,7 +35,7 @@
 
 </div>
 
-<h3 align="center">Marzo, 2024</h3>
+<h3 align="center">Junio, 2024</h3>
 
 <br><br>
 
@@ -45,8 +45,9 @@
 
 | Versión |   Fecha    |              Autor               | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                             |
 | :-----: | :--------: | :------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 12/03/2024 | Todos los integrantes del equipo | Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se implementó y desplegó la Landing Page, que era el objetivo del primer Sprint |
-|   TP    | 02/05/2024 |    Los integrantes del equipo    | Se desarrolló el Sprint 2 del trabajo, en cual consistió en la implementación de la aplicación web empleando Vue.js como Framework principal. Asimismo, se desplegó la aplicación mediante Azure services. De igual modo, se levantaron las observaciones de la anterior entrega.                                                                                                       |
+|   TB1   | 12/03/2024 | Todos los integrantes del equipo | Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se implementó y desplegó la Landing Page, que era el objetivo del primer Sprint. |
+|   TP    | 02/05/2024 |    Los integrantes del equipo    | Se desarrolló el Sprint 2 del trabajo, en cual consistió en la implementación de la aplicación web empleando Vue.js como Framework principal. Asimismo, se desplegó la aplicación mediante Azure services. De igual modo, se levantaron las observaciones de la anterior entrega. |
+|   TB2    | 06/06/2024 |    Los integrantes del equipo    | Se desarrolló el Sprint 3 del trabajo, en cual consistió en la implementación del backend de la aplicación web empleando ASP.NET Core Framework y utilizando C# como lenguaje de programación. Se realizaron las validation interviews y los video about the team y about the product. De igual modo, se levantaron las observaciones de la entrega anterior. |
 
 </div>
 
@@ -162,12 +163,27 @@
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product](#53-video-about-the-product)
 
 ### [Conclusiones](#conclusiones-1)
 
 - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+- [Video About-the-Team](#video-about-the-team)
 
-### [Bibliografía](#bibliografc3ada-1)
+### [Bibliografía](#bibliografía-1)
 
 ### [Anexos](#anexos-1)
 
@@ -5721,6 +5737,363 @@ Contribuciones del equipo:
 <div align="center"><img src="Images/Contribuciones.png"></div>
 
 <br><br>
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            22/05/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            19:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Dreamers in a Hurry     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Defilippi Santillán, Diego <br/>
+            - Sanchez Maita, Agustin Alejandro <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 3</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            El Sprint 3 abarcó el desarrollo backend de la aplicación FitShirt mediante el uso ASP.NET Core Framework y C# como lenguaje de Programación. Se realizaron mejoras al Frontend elaborado en el Sprint 2 y se logró completar satisfactoriamente las funcionalidades relacionadas a las historias de usuario planificadas. 
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            El objetivo del presente sprint es desarrollar un avance significativo del frontend de la aplicación FitShirt. Se planea desarrollar las funcionalidades a nivel de backend relacionadas al inicio de sesión, registro, perfil del usuario, el catálogo de productos, el carrito de compras y la gestión de las publicaciones y diseños de camisetas.
+            <br>
+            Las tareas fueron organizadas a través de varias reuniones realizadas por Discord, además de emplear una pizarra en Miro para la proyección y organización de las tareas.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            28
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            28
+        </td>
+    </tr>
+</table>
+
+<br><br>
+
+#### 5.2.3.2. Sprint Backlog 3
+
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+Repositorio del BackEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Bakend">Enlace</a>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>/0/2024</td>
+    </tr>   
+</table>
+
+<br><br>
+
+#### 5.2.3.4. Testing Suite Evidente for Sprint Review
+
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Para esta tercera entrega, se ha desplegado el Frontend utilizando el servicio gratuito de Microsoft Azure. El FrontEnd es visible en el siguiente link: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">Web Application</a>.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo del Frontend, se utilizaron las siguientes tecnologías:
+
+- HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
+- Vue: Herramienta Framework...
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+- Microsoft Azure: Herramienta la cual nos permitió realizar el despliegue de nuestra plataforma.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la página, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+Asimismo, para el despliegue de la página, se utilizó el servicio de Microsoft Azure. Este permite crear sitios web estáticos directamente desde un repositorio Git. Es ideal para crear todo tipo de proyecto, y se integra perfectamente con Github para un flujo de trabajo sin interrupciones.
+
+Para el desarrollo del Frontend, se utilizaron las siguientes tecnologías:
+
+- ASP.NET Core: Es un framework de desarrollo web de código abierto y multiplataforma creado por Microsoft, diseñado para construir aplicaciones web modernas, basadas en la nube y de alto rendimiento.
+- C#: Lenguaje de programación orientado a objetos desarrollado por Microsoft, utilizado principalmente para desarrollar aplicaciones en la plataforma .NET, incluyendo aplicaciones web, de escritorio y móviles 
+- Swagger: Conjunto de herramientas de software de código abierto para diseñar, construir, documentar y consumir servicios web RESTful. Permite a los desarrolladores automatizar la generación de documentación y pruebas interactivas para sus APIs
+- OpenAPI Specification: Es un estándar para describir APIs RESTful de manera independiente del lenguaje. Define una interfaz que permite descubrir y comprender las capacidades de un servicio web sin necesidad de acceder al código fuente, simplificando la documentación, el desarrollo y la integración de APIs.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el sprint, el equipo de la StartUp Dreamers in a Hurry nuevamente adoptó GitFlow como su metodología de trabajo principal, aprovechando al máximo las capacidades de Git y Github para el control de versiones y la colaboración en el desarrollo del proyecto en cuestión.
+
+GitFlow del sprint:
+
+<div align="center"><img src="Images/Gitflowtp.png"></div>
+
+Contribuciones del equipo:
+
+<div align="center"><img src="Images/Contribuciones.png"></div>
+
+<br><br>
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+Se han establecido las siguientes preguntas con el fin de validar las funcionalidades de nuestra aplicación y obtener un feedback por parte del futuro usuario.
+Dentro de las entrevistas podremos observar los siguientes user flows: Ingreso de Sesión, Registro en la aplicación, Navegación en Perfil, Publicación de Diseño, Visualización de lista de Camisetas, Creación de Diseño y Visualización de Carrito de compras.
+
+**Preguntas segmento 1: Cliente**
+
+- ¿Cómo describirías tu experiencia general al usar la aplicación para buscar y comprar camisetas?
+
+- ¿Fue fácil navegar por la aplicación y encontrar las camisetas que querías? ¿Qué problemas encontraste?
+
+- ¿Hubo algún problema con la calidad de las imágenes y descripciones de las camisetas?
+
+- ¿Qué mejoras sugieres para que la aplicación sea más fácil de usar y atractiva para ti?
+
+- ¿Que información adicional le gustaría que se destaque en nuestra plataforma?
+
+- ¿Cree usted de que la plataforma cumpla con el objetivo?
+
+**Preguntas segmento 2: Comerciantes**
+
+- ¿Cómo describirías tu experiencia general al usar la aplicación para cargar y gestionar tus diseños de camisetas?
+
+- ¿Cómo calificarías la facilidad de uso de las herramientas de diseño en la aplicación?
+
+- ¿Te resultó sencillo gestionar tu inventario y actualizar la disponibilidad de tus camisetas?
+
+- ¿Qué mejoras sugieres para que la aplicación sea más fácil de usar y te ayude a vender más camisetas?
+
+- ¿Que información adicional le gustaría que se destaque en nuestra plataforma?
+
+- ¿Cree usted de que la plataforma cumpla con el objetivo?
+
+### 5.3.2. Registro de Entrevistas
+
+**Entrevistas segmento 1: Cliente**
+
+<b>Entrevista 1</b><br/>
+
+- Nombres: 
+- Apellidos: 
+- Edad: 21 años
+- Distrito: 
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
+- Duración: 15 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Falta Resumen
+
+<br/>
+
+<b>Entrevista 2</b><br/>
+
+- Nombres: 
+- Apellidos: 
+- Edad: 21 años
+- Distrito: 
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
+- Duración: 15 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Falta Resumen
+
+<br/>
+
+<b>Entrevista 3</b><br/>
+
+- Nombres: 
+- Apellidos: 
+- Edad: 21 años
+- Distrito: 
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
+- Duración: 15 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Falta Resumen
+
+<br/>
+
+**Entrevistas segmento 1: Comerciante**
+
+<b>Entrevista 1</b><br/>
+
+- Nombres: 
+- Apellidos: 
+- Edad: 21 años
+- Distrito: 
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
+- Duración: 15 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Falta Resumen
+
+<br/>
+
+<b>Entrevista 2</b><br/>
+
+- Nombres: 
+- Apellidos: 
+- Edad: 21 años
+- Distrito: 
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
+- Duración: 15 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Falta Resumen
+
+<br/>
+
+<b>Entrevista 3</b><br/>
+
+- Nombres: 
+- Apellidos: 
+- Edad: 21 años
+- Distrito: 
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
+- Duración: 15 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Falta Resumen
+
+<br/>
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 # Conclusiones
 
