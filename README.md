@@ -5866,12 +5866,530 @@ Repositorio del BackEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hur
         <th>Time ago</th>
     </tr>
     <tr>
+        <td>develop</td>
+        <td>eb9785014ecd316e9be8a784d42707c11d83022f</td>
+        <td>Diego Defilippi</td>
+        <td>feat: removed unnecessary files</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>3551e166e3367d3b8d91d632369f9c9f0599a8c9</td>
+        <td>Diego Defilippi</td>
+        <td>feat: add references</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>6edcdf5c3021c46db4e63b771dbefe0f2582127c</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added nugget libraries</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>32a77d6b90948c34f9d7884cc7b35efbb7160f0e</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added structure dir</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>1db05ce48eeeeddb5c62c1a9de683a4b5a6ca9de</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added dbContext</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>7cfa8eeabd7239d1b72173e2e231772f8d96b393</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added Infrastructure Service</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>7b43ebc201744b0d600c782476b3c63f66457435</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added base model</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>ba0a6d4bab9f6ddbeb3672e402f2b58f177f9252</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added Base Repository</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>0d23487a6930b583443c2860a6cb5245605c5775</td>
+        <td>Diego Defilippi</td>
+        <td>feat(domain): added registration and base domain</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>3b4e18b1e4f192d170d5d05740222a3466efcf4f</td>
+        <td>Diego Defilippi</td>
+        <td>feat(api): added api configuration</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>5ee5c6145d29d6dd561126663de2f712684dc744</td>
+        <td>Diego Defilippi</td>
+        <td>feat(infra): added user model</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>32acaf73c75f7c03c1d78349ffcf11d1a2ac0ed7</td>
+        <td>Diego Defilippi</td>
+        <td>feat(infra): added Post model</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>0ab47d659f10017f682d814edebad98152383588</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added Design root</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>0de0886668a6997543cb032dc0faa0eb84ef1901</td>
+        <td>Diego Defilippi</td>
+        <td>fix: changed namespace</td>
+        <td>23/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>f9e78eea99132c40241bb4c0203cbfebb7c1bbcc</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added data models</td>
+        <td>26/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>5b6174056234cf938577a063bec5220313b68503</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added missed data models</td>
+        <td>26/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>5dbda0b9a09fcffc049482a66c681e141569f841</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added data repositories</td>
+        <td>26/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>34bd9770c8d82482b2d9d3efd18123957e7027f7</td>
+        <td>Diego Defilippi</td>
+        <td>fix: changed int -> bool in AddAsync</td>
+        <td>26/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>0f9fd90dde53059aafe8dc950d2621602398f884</td>
+        <td>Diego Defilippi</td>
+        <td>fix: added entities relation to many-to-many</td>
+        <td>26/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>ee880e121f020d8aaceeadbd4d03dad38c2a8935</td>
+        <td>Diego Defilippi</td>
+        <td>feat: changed Card model from value object to entity</td>
+        <td>26/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>a42a75b5e6e4e97de1653a1afd95829dda88cadf</td>
+        <td>Diego Defilippi</td>
+        <td>feat: changed shieldId to int</td>
+        <td>26/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>efef7d5156a7a5d0bd155371841b683e3957fd9f</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added app dbcontext</td>
+        <td>26/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>a561a5f212ffd99801aee4c1aa7495e9db1187f8</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/backend-architecture into develop</td>
+        <td>27/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>28a5e798a4daf6af0a7d474c2cea76b2727c9188</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added seed data</td>
+        <td>27/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>b39274d0895d5cf2282e84091469651a3b4965bb</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added user seed</td>
+        <td>27/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>f95bf4cf890fa1400de0abcbf5316ac79538346d</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'refs/heads/develop' into feature/backend-architecture</td>
+        <td>27/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>22a8967e9ca2afb553881e5d51c0949cb638188e</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: implemented repositories</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>ddb5d2f3bbdf84bcffbd50818429702512912e2a</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: implemented responsive</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>4e71fc780dc369fffe224c50acbf88661d97cf6f</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: implemented archives</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>cb84dccb6a2d3dae7dd0b9b02d709ea31603593e</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: implemented domain</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>03287ce4fc2c3e6799d6969e9259ff639f66e2b6</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: implemented InfrastructureService</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>ae2697fb6d033d7bd0f724f0d0714a2acf0308a5</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: implemented controller</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>395e5ec52318541f7bb400c308346291898e9af8</td>
+        <td>Diego Defilippi</td>
+        <td>feat(infra): added search by filter</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>7815d8e42b5033336a7511240c609dd74e0dc400</td>
+        <td>Diego Defilippi</td>
+        <td>feat(api): added search by filters</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>7c5ea7b3274d790c81cb07f4bf9bd3ddcf7180ee</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/post-implementation into develop</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>ea00a123552ddc7e76e6192ec1695d4f8bf37611</td>
+        <td>Diego Defilippi</td>
+        <td>fix(api): added missed class (UserResponse)</td>
+        <td>29/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>1b4eb8ce5be5bad6eae3b02d1c6f45f50076846e</td>
+        <td>Diego Defilippi</td>
+        <td>feat: refactored not found exception and added repeated exception</td>
+        <td>31/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>1fd5c1bb8ce7a14ea821c3eaca700ccff6a0bb42</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added middleware</td>
+        <td>31/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>a8baadf4b88d6b65e7846332b7aaf2b67381c76b</td>
+        <td>Diego Defilippi</td>
+        <td>ref: added middleware pattern</td>
+        <td>31/05/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>634c3acd903491e511aa3fc5326433653a900e2b</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/exceptions-implementation into develop</td>
+        <td>01/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>2c337bc7fba76400a2b64828f17e9da6d4fc28c3</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added username attribute</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>709559918c7322556e37fb3ed464e01ddaa914e9</td>
+        <td>Diego Defilippi</td>
+        <td>feat: implemented addUser method and added service and role repository</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>811aa9f22751f091b864e565027fbc5e63bbb8de</td>
+        <td>Diego Defilippi</td>
+        <td>feat(domain): implemented user creation</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>0a577b00bdfa513844c8bea32d67d13368a8010d</td>
+        <td>Diego Defilippi</td>
+        <td>feat(domain-api): added new exceptions used in user creation</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>5ef82dd1f87b6328b0005b49fa595530be8b0792</td>
+        <td>Diego Defilippi</td>
+        <td>feat(api): added user controllers and dtos</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>8ccdcd1777da99384c06a63fca4c56156c67823a</td>
+        <td>Diego Defilippi</td>
+        <td>feat(infra): added update user method</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>5910450ac5185becbe02b2dd4c292256c0d28e47</td>
+        <td>Diego Defilippi</td>
+        <td>feat(domain): added update user method</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>07ee132ab0b4b027704c12517cc02e18dbc435bb</td>
+        <td>Diego Defilippi</td>
+        <td>feat(api): added update user methods</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>fcafdd585cfce69c2f83e72a7a5fa8d42ce86fd8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added user delete methods</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>4239825e3ee2f877a4c7603e9e2d2a7f4b2958dc</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added user login implementation</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>cdd2e9abcf42f5b7aa964fd5e6ee54f0e17773a5</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added Design implementation</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>2be3fe64bd1b37b6a28beb992c4bd0ac272d6d93</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: "added Design Controller"</td>
+        <td>02/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>203440000f91af40a42be3cbbd1d88ec063a4ac4</td>
+        <td>Daniel Chirinos</td>
+        <td>fix: fix partially DesignDomain</td>
+        <td>03/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>9d508ee38c3d64370de958308b0e90ffbd514942</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: "DesignController implementation"</td>
+        <td>03/06/2024</td>
+    </tr>
+        <tr>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>/0/2024</td>
-    </tr>   
+        <td>821332935f46bed738ea04bd999a61ba076bd22b</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/user-authentication-implementation into develop</td>
+        <td>04/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>e7510a9897bfbce4716e1ef0e5ea7c0ede0f59eb</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'develop' into feature/design-implementation</td>
+        <td>04/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>19b597f9b2a121d42937b80c9468a35330f5bc8b</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/design-implementation into develop</td>
+        <td>04/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>975b02fb041d16f9f2203c957ed426d81d549790</td>
+        <td>Diego Defilippi</td>
+        <td>ref: added new exception and added factory to create CodeErrorResponse</td>
+        <td>04/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>56b35312d5d4b195048062c66959b003963fbd11</td>
+        <td>Diego Defilippi</td>
+        <td>ref: added new errors control using factory</td>
+        <td>04/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>702ddf5d5f3bb6a641bffa2aa48503a1d6627705</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added xUnit tests architecture</td>
+        <td>04/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>5df8035a99cc6598f45311c59d152a46b29f84da</td>
+        <td>Diego Defilippi</td>
+        <td>feat(tests): added postControllerTests and implemented postDomainTests</td>
+        <td>04/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>3a8d9494167c5b430cbecd02bd1bacb7ba936b3b</td>
+        <td>Diego Defilippi</td>
+        <td>Add or update the Azure App Service build and deployment workflow config</td>
+        <td>04/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>4094c0b194ae96b4a19bdac0ebccc2c98f3657dc</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added connection to azure database</td>
+        <td>04/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>5211c9634b5d567caff39ceac157c4f4fe7220cb</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: "added DesignDomainTests"</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>0ab1ceac054f186ced6597ad5ba2aea82bb73255</td>
+        <td>Daniel Chirinos</td>
+        <td>fixed: "DesignDomainTests implementation"</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>64b05ea5f8b5a459b601fce30671d6699f561979</td>
+        <td>Daniel Chirinos</td>
+        <td>fix: "added DesignDomainTests folder"</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>d076958072b97fdc038ab48a9c29ecc0bcf4b4cc</td>
+        <td>Diego Defilippi</td>
+        <td>feat(infra): modified models relation and added repositories</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>25a6b2fd526dd1d9d920020d241403654e87f01b</td>
+        <td>Diego Defilippi</td>
+        <td>feat(domain): added purchase domain</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>481ba69b823a1e268689b945c6f95b422062ed31</td>
+        <td>Diego Defilippi</td>
+        <td>feat(api): added purchase controller and dtos</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>17f1ce8b03ef0331842c8a6d86792028b1d24ba2</td>
+        <td>Diego Defilippi</td>
+        <td>feat(api): added purchase dtos to mapping profile</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>157deaedee6ceb11a38a59f95111e81a4cd38b17</td>
+        <td>Diego Defilippi</td>
+        <td>fix: implemented GetById() in SizeRepository</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>15cdd95a3f52cbc5dcd7c1b9cc31307bf987ca91</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added UserDomainTest</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>af8152a4e8f3bdc6cffed90007786b8824ca9c34</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/purchases-implementation into develop</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>88c230f44b6ac6a7de65201142322c65f4413c65</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: Added DesignDomainTest</td>
+        <td>05/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>f2a10264e13c3ecb9ec67d5a24f4c8930207f5cb</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/tests-implementation into develop</td>
+        <td>05/06/2024</td>
+    </tr>
 </table>
 
 <br><br>
