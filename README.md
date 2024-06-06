@@ -6479,7 +6479,74 @@ Dentro de las entrevistas podremos observar los siguientes user flows: Ingreso d
 
 ### 5.3.2. Registro de Entrevistas
 
-**Entrevistas segmento 1: Cliente**
+**Entrevistas segmento 1 : Comerciante**
+
+<b>Entrevista 1</b><br/>
+
+- Nombres: Iván
+- Apellidos: López
+- Edad: 23 años
+- Distrito: San Miguel
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EfGbVCnH3wpOlVaBQqdH19gBlZs_eEOD0JMgoKzD22gt5Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=i1dpZX">Entrevista</a>
+- Duración: 6 minutos 13 segundos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\validation_interviews\Ivan_Comerciante.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+En nuestra entrevista con Iván López, destacó la simplicidad y la intuitividad de nuestra aplicación. Para él, es crucial que una plataforma sea directa y fácil de usar desde el primer momento. Además señala que en cuestión de segundos, uno puede comprender cómo funciona y cómo publicar una camiseta, convirtiendose en una experiencia bastante intuitiva. También considera que el diseño de la aplicación permite que sea fácil de usar. Aunque reconoce que la aplicación aún no está terminada, la calificaría con una puntuación alta. No obstante, sugiere que la navegación podría mejorar con la inclusión de un botón para retroceder entre las vistas.
+Una de las preocupaciones planteadas por López es la falta de familiaridad de muchas personas con los deportes electrónicos y ve en nuestra aplicación una oportunidad para simplificar el proceso de elaboración y distribución de camisetas relacionadas con este ámbito. A su vez, sugiere que proporcionar más información sobre los datos de proveedores o comerciantes podría ampliar el alcance de la aplicación, del proveedor y aumentaría la confianza de los usuarios.
+
+<br/>
+
+<b>Entrevista 2</b><br/>
+
+- Nombres: Marcio
+- Apellidos: Begazo
+- Edad: 24 años
+- Distrito: Magdalena del Mar
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EeVBiSeZ0RRLk6O4tHugQKIB1OjPP2bmWcJH1ZLsBSfAfQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ArUOxL">Entrevista</a>
+- Duración: 7 minutos 43 segundos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\validation_interviews\Marcio_Comerciante.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Durante la entrevista, Marcio compartió que gestiona una página en Instagram donde recibe solicitudes de clientes y empresas para confeccionar polos de equipos de fútbol con diseños específicos. Con relación a la a nuestra aplicación y a pesar de que se encuentra en fase de desarrollo, la percibe como específica y útil. Destacó su facilidad de uso, permitiendo buscar, crear y hacer catálogos de productos sin complicaciones. Sin embargo, mencionó que, dado que a menudo le solicitan colecciones de polos para equipos completos, sería útil añadir una opción para autogenerar los diseños de todos los integrantes del equipo rápidamente. Considera que la información proporcionada sobre las camisetas es suficiente y sugirió que el proceso de creación del diseño debería ofrecer un abanico más amplio de opciones, ya se una gamma más alta de colores o más escudos de equipos de fútbol. Además, recomendó que se debería separar a los usuarios en categorías de clientes y vendedores para una mejor organización.
+
+<br/>
+
+<b>Entrevista 3</b><br/>
+
+- Nombres: Carlos
+- Apellidos: Carazas
+- Edad: 24 años
+- Distrito: Cercado de Lima
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EbIz9Mo-UqVDum42y53VLXoBxJJnWlVJsRfvVxjRzZ3szg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=LFct7g">Entrevista</a>
+- Duración: 7 minutos 16 segundos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images\validation_interviews\Carlos_Comerciante.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Carlos está incursionando en un negocio de venta de camisetas, mediante el uso de Facebook Marketplace ha podido realizar la venta de algunos de sus productos. Con respecto a la aplicación Fitshirt, nos dice que añadir más opciones de configuración sería bueno e interesante. También comenta que la aplicación es sencilla, intuitiva y que pudo usarla sin problemas, considerando que cualquier usuario podría tener la misma experiencia. Además resalta que las opciones están a la mano y no ha tenido que realizar muchos pasos para ejecutar alguna acción. Otra mejora que sugiere para la aplicación es proporcionar dimensiones específicas a los parámetros de las camisetas al momento de crear un diseño o realizar un posteo. Aunque las camisetas tengan una talla, estas medidas pueden variar según el proveedor.
+Para Carlos, la aplicación cumple con el objetivo de ofrecer las camisetas y realizar la compra de las mismas. Además, le resulta interesante la funcionalidad de creación de camisetas y que el cliente pueda previsualizar las imágenes del producto.
+
+<br/>
+
+**Entrevistas segmento 2: Cliente**
 
 <b>Entrevista 1</b><br/>
 
@@ -6487,125 +6554,60 @@ Dentro de las entrevistas podremos observar los siguientes user flows: Ingreso d
 - Apellidos: 
 - Edad: 21 años
 - Distrito: 
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
-- Duración: 15 minutos
+- Link de la entrevista: <a href="">Entrevista</a>
+- Duración: 
 
 Evidencia de la reunión:
 
 <div align="center">
-    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
+    <img src="" style="margin: 10px 0;" width="80%"/>
 </div>
 
 Resumen de la entrevista:
 
-Falta Resumen
+Falta Resumen....
 
 <br/>
 
 <b>Entrevista 2</b><br/>
 
-- Nombres: 
-- Apellidos: 
-- Edad: 21 años
-- Distrito: 
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
-- Duración: 15 minutos
+- Nombres: Felipe
+- Apellidos: Kcomt
+- Edad: 23 años
+- Distrito: Chiclayo-Lambayeque 
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EckJEXHO1zlCppbIKfR8aOYBzQaIETz-vC0-_W_YJUzY9Q?e=0tAD3Q&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista</a>
+- Duración: 6 minutos 33 segundos
 
 Evidencia de la reunión:
 
 <div align="center">
-    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
+    <img src="Images\validation_interviews\Felipe_Cliente.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
 Resumen de la entrevista:
 
-Falta Resumen
+En esta entrevista Felipe Kcomt actualmente en su localidad solamente hay una tienda donde puede comprar camisetas de basquet, pero no cuentan con muchos modelos o variedad. Su experiencia al usar la aplicación fue sencilla, ya que la distribución de los elementos de diseño se pueden entender fácilmente. Nos resaltó la importancia de añadir diferentes idiomas para aumentar la accesibilidad a la aplicación. El entrevistado considera que añadir items al carrito de compras y realizar la compra de los productos es sencilla, ya que se parece a varios otros tipos de páginas. Hizo incapié en que la generación del diseño de la camiseta mediante el formulario es una buena funcionalidad, pero le gustaría poder usarla con su total funcionalidad. Además al entrevistado le gustaría saber sobre los datos del proveedor y saber si es que la propia aplicación se haría cargo de si una compra no se concreta.
 
 <br/>
 
 <b>Entrevista 3</b><br/>
 
-- Nombres: 
-- Apellidos: 
-- Edad: 21 años
-- Distrito: 
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
-- Duración: 15 minutos
+- Nombres: Jorge
+- Apellidos: Muñoz
+- Edad: 18 años
+- Distrito: San Juan de Lurigancho
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EfZdsWqBtzNPmXqwlmRKOGQBT1-D5f0RYeZLjBV5hql2Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=JdUI7s">Entrevista</a>
+- Duración: 4 minutos 8 segundos
 
 Evidencia de la reunión:
 
 <div align="center">
-    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
+    <img src="Images\validation_interviews\Jorge_Cliente.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
 Resumen de la entrevista:
 
-Falta Resumen
-
-<br/>
-
-**Entrevistas segmento 1: Comerciante**
-
-<b>Entrevista 1</b><br/>
-
-- Nombres: 
-- Apellidos: 
-- Edad: 21 años
-- Distrito: 
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
-- Duración: 15 minutos
-
-Evidencia de la reunión:
-
-<div align="center">
-    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
-</div>
-
-Resumen de la entrevista:
-
-Falta Resumen
-
-<br/>
-
-<b>Entrevista 2</b><br/>
-
-- Nombres: 
-- Apellidos: 
-- Edad: 21 años
-- Distrito: 
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
-- Duración: 15 minutos
-
-Evidencia de la reunión:
-
-<div align="center">
-    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
-</div>
-
-Resumen de la entrevista:
-
-Falta Resumen
-
-<br/>
-
-<b>Entrevista 3</b><br/>
-
-- Nombres: 
-- Apellidos: 
-- Edad: 21 años
-- Distrito: 
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120448_upc_edu_pe/EYhQ66d0gQNCj9N8qQ8yl4kBvCAMhFk-xMe03zl7D6iJHA?e=T9d0OL ">Entrevista</a>
-- Duración: 15 minutos
-
-Evidencia de la reunión:
-
-<div align="center">
-    <img src="Images/interviews/" style="margin: 10px 0;" width="80%"/>
-</div>
-
-Resumen de la entrevista:
-
-Falta Resumen
+Jorge compartió con nosotros su experiencia utilizando la aplicación, destacando la facilidad y claridad de la navegación. Mencionó que al iniciar sesión, las publicaciones aparecen directamente en la pantalla principal, lo cual facilita la búsqueda y visualización de productos. Además, nos expresó su interés en realizar compras de camisetas a través de nuestra plataforma. Sin embargo, nos brindó una sugerencia para mejorar la experiencia del usuario que es la posibilidad de agregar descuentos a los productos. Destacó que esta opción sería valorada por los clientes, ya que les permitiría acceder a precios más atractivos y probablemente aumentar las ventas.
 
 <br/>
 
