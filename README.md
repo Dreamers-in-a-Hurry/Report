@@ -5849,7 +5849,126 @@ Contribuciones del equipo:
 
 #### 5.2.3.2. Sprint Backlog 3
 
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
 
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 3</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="2">US06</td>
+       <td rowspan="2">Catálogo de camisetas</td>
+       <td>T01</td>
+       <td>Mostrar todos las camisetas</td>
+       <td>Se implementó la funcionalidad GetAllPostsForCatalogue() en el Backend de la Aplicación</td>
+       <td>2</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Mostrar camiseta en específico</td>
+       <td>Se implementó la funcionalidad GetPostById() en el Backend de la Aplicación</td>
+       <td>1.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="4">US03</td>
+       <td rowspan="4">Visualización de publicaciones</td>
+       <td>T01</td>
+       <td>Mostrar las publicaciónes del usuario</td>
+       <td>Se implementó la funcionalidad GetAllPostsByUser() en el Backend de la Aplicación</td>
+       <td>2</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Subir Publicación</td>
+       <td>Se implementó la funcionalidad PostPubish() en el Backend de la Aplicación</td>
+       <td>1</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>  
+        <tr>
+       <td>T03</td>
+       <td>Editar Publicación</td>
+       <td>Se implementó la funcionalidad UpdatePubish() en el Backend de la Aplicación</td>
+       <td>1.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>  
+        <tr>
+       <td>T04</td>
+       <td>Eliminar publicación</td>
+       <td>Se implementó la funcionalidad DeletePublish() en el Backend de la Aplicación</td>
+       <td>0.5</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="4">US21</td>
+       <td rowspan="4">Diseñar más camisetas</td>
+       <td>T01</td>
+       <td>Mostrar los diseños del usuario</td>
+       <td>Se implementó la funcionalidad GetAllDesignsByUser() en el Backend de la Aplicación</td>
+       <td>2</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Subir diseño</td>
+       <td>Se implementó la funcionalidad PostDesign() en el Backend de la Aplicación</td>
+       <td>1</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>  
+        <tr>
+       <td>T03</td>
+       <td>Editar diseño</td>
+       <td>Se implementó la funcionalidad UpdateDesign() en el Backend de la Aplicación</td>
+       <td>1.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>  
+        <tr>
+       <td>T04</td>
+       <td>Eliminar diseño</td>
+       <td>Se implementó la funcionalidad DeleteDesign() en el Backend de la Aplicación</td>
+       <td>0.5</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="1">US12</td>
+       <td rowspan="1">Finalizar la lista</td>
+       <td>T01</td>
+       <td>Realizar la compra de las camisetas del carrito</td>
+       <td>Se implementó la funcionalidad PostPurchase() en el Backend de la Aplicación</td>
+       <td>2</td>
+       <td>Agustin Maita</td>
+       <td>Done</td>
+    </tr>
+</table>
+
+<br><br>
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
