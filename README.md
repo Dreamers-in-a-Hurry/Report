@@ -6752,12 +6752,12 @@ Para el desarrollo del Frontend, se utilizaron las siguientes tecnologías:
 - Swagger: Conjunto de herramientas de software de código abierto para diseñar, construir, documentar y consumir servicios web RESTful. Permite a los desarrolladores automatizar la generación de documentación y pruebas interactivas para sus APIs
 - OpenAPI Specification: Es un estándar para describir APIs RESTful de manera independiente del lenguaje. Define una interfaz que permite descubrir y comprender las capacidades de un servicio web sin necesidad de acceder al código fuente, simplificando la documentación, el desarrollo y la integración de APIs.
 
-Enlace al Landing Page de la Aplicación: <a href="https://dreamers-in-a-hurry.github.io/Landing-page/">Landing Page</a>
-Enlace al FrontEnd de la Aplicación: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">FrontEnd</a>
+Enlace al Landing Page de la Aplicación: <a href="https://dreamers-in-a-hurry.github.io/Landing-page/">Landing Page</a></br>
+Enlace al FrontEnd de la Aplicación: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">FrontEnd</a></br>
 Enlace al Backend Api Posts de la Aplicación: <a href="https://fitshirt.azurewebsites.net/api/v1/posts">Backend Api Posts</a>
-<div align="center"><img src="Images/Api_Backend_SS/Api_posts.png"></div>
+<div align="center"><img src="Images/Api_Backend_SS/Api_posts.png"></div></br>
 Enlace al Backend Api Users de la Aplicación: <a href="https://fitshirt.azurewebsites.net/api/v1/users">Backend Api Users</a>
-<div align="center"><img src="Images/Api_Backend_SS/Api_users.png"></div>
+<div align="center"><img src="Images/Api_Backend_SS/Api_users.png"></div></br>
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
@@ -6770,7 +6770,8 @@ GitFlow del sprint:
 
 Contribuciones del equipo:
 
-<div align="center"><img src="Images/Contribuciones_tb2.png"></div>
+<div align="center"><img src="Images/Contribuciones_fronttb2.png"></div>
+<div align="center"><img src="Images/Contribuciones_backtb2.png"></div>
 
 <br><br>
 
