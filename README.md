@@ -360,8 +360,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        - <br/>
-        - <br/>
+        - Realicé la implementación de la backend Design y unit test de design <br/>
+        - Realicé las mejoras de los entregables pasados<br/>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
         - <br/>
@@ -448,8 +448,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        - <br/>
-        - <br/>
+        - Realicé la implementación de la backend Design y unit test de design <br/>
+        - Realicé las mejoras de los entregables pasados<br/>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
         - <br/>
