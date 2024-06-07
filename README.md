@@ -6725,22 +6725,22 @@ Para Carlos, la aplicación cumple con el objetivo de ofrecer las camisetas y re
 
 <b>Entrevista 1</b><br/>
 
-- Nombres: 
-- Apellidos: 
-- Edad: 21 años
-- Distrito: 
-- Link de la entrevista: <a href="">Entrevista</a>
-- Duración: 
+- Nombres: Luis
+- Apellidos: Ordoñez
+- Edad: 23 años
+- Distrito: Miraflores 
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181a313_upc_edu_pe/EdlZhpMNbNZLiLqhejmXXWcBZ2fCq3OeGGMo9PFfWL-8mQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=6h7Re0">Entrevista</a>
+- Duración: 7 minutos 43 segundos
 
 Evidencia de la reunión:
 
 <div align="center">
-    <img src="" style="margin: 10px 0;" width="80%"/>
+    <img src="Images\validation_interviews\Luis_Cliente.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
 Resumen de la entrevista:
 
-Falta Resumen....
+Luis considera que los procesos son correctos, pero falta un poco de diseño en la interfaz de usuario para que sea más amigable. También nos comenta que encontrar las camisetas y visualizar sus descripciones fue fácil, pero la experiencia de navegación fue regular. Por esta razón, debería haber más información sobre cómo navegar por la aplicación; es decir, como usuario nuevo, debería tener acceso a un tutorial para que pueda utilizar las funcionalidades de la aplicación rápidamente, de lo contrario, podría perderme en la navegación. Finalmente, Luis nos dice que la aplicación cumple con el objetivo de venta de camisetas deportivas.
 
 <br/>
 
