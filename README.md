@@ -6788,6 +6788,119 @@ Jorge compartió con nosotros su experiencia utilizando la aplicación, destacan
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+## Tareas a Evaluar
+
+1. Registro de usuarios.
+2. Inicio de sesión.
+3. Recuperación de contraseña.
+4. Navegación intuitiva.
+5. Diseño responsivo.
+6. Facilidad de uso para diseñar camisetas.
+7. Proceso de compra y venta.
+8. Motor de búsqueda de camisetas y diseñadores.
+9. Carrito de compras.
+
+## Tareas No Incluidas en Esta Versión de la Evaluación
+
+- Sistema de calificación y comentarios.
+- Notificaciones y actualizaciones en tiempo real.
+- Autorización de roles (clientes, diseñadores, administradores).
+- Compartir diseños en redes sociales.
+- Descuentos y promociones exclusivas.
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## Problemas Encontrados y Descripción Detallada
+
+| Problema | Severidad | Heurística/Principio Violado |
+|----------|-----------|------------------------------|
+| Proceso de ingreso y registro inexistente | 4 | Seguridad: Control de acceso |
+| Opción de recuperación de contraseña no declarada o no funcional | 3 | Seguridad: Gestión de contraseñas, Usabilidad: Recuperación de errores |
+| Falta incluir botones de regreso en la navegación | 2 | Usabilidad: Libertad y control del usuario |
+| Incluir una barra de navegación en el header | 3 | Usabilidad: Navegación eficiente |
+| Falta agregar sección de camisetas adquiridas en el perfil | 2 | Usabilidad: Consistencia y estándares |
+| Similitud entre crear un post y diseñar una camiseta | 2 | Usabilidad: Distinción y claridad |
+| Diseño de camiseta no visualizado tras creación | 3 | Usabilidad: Feedback y visibilidad del estado del sistema |
+| Falta botón de carrito de compras accesible | 3 | Usabilidad: Accesibilidad y eficiencia de uso |
+| Mostrar cantidad total y resumen en compras | 3 | Usabilidad: Feedback y visibilidad del estado del sistema |
+| Falta de filtros de búsqueda y separación por género | 2 | Usabilidad: Flexibilidad y eficiencia de uso |
+| Opción premium no funcional | 3 | Usabilidad: Navegación y consistencia |
+
+### Descripción Detallada de Cada Problema
+
+**Problema #1**
+- **Severidad:** 4
+- **Problema:** El proceso de ingreso y registro no está implementado, lo que impide a los usuarios acceder a la aplicación y sus funciones.
+- **Recomendación:** Implementar un proceso de ingreso y registro seguro y funcional para permitir a los usuarios acceder a sus cuentas.
+- **Heurística/Principio Violado:** Seguridad: Control de acceso
+
+**Problema #2**
+- **Severidad:** 3
+- **Problema:** La opción de recuperación de contraseña no está declarada o no funciona, lo que deja a los usuarios sin posibilidad de recuperar sus cuentas en caso de olvidar sus contraseñas.
+- **Recomendación:** Implementar una opción de recuperación de contraseña funcional que envíe un enlace de restablecimiento seguro a los usuarios.
+- **Heurística/Principio Violado:** Seguridad: Gestión de contraseñas, Usabilidad: Recuperación de errores
+
+**Problema #3**
+- **Severidad:** 2
+- **Problema:** No hay botones de regreso cuando se navega en una sección de la aplicación, lo que dificulta la navegación.
+- **Recomendación:** Agregar botones de regreso en todas las secciones para mejorar la navegación y la usabilidad.
+- **Heurística/Principio Violado:** Usabilidad: Libertad y control del usuario
+
+**Problema #4**
+- **Severidad:** 3
+- **Problema:** Falta una barra de navegación en el header, lo que dificulta el acceso rápido a las funciones ofrecidas.
+- **Recomendación:** Incluir una barra de navegación en el header con accesos directos a las principales funciones de la aplicación.
+- **Heurística/Principio Violado:** Usabilidad: Navegación eficiente
+
+**Problema #5**
+- **Severidad:** 2
+- **Problema:** En las opciones del perfil, no hay una sección donde los usuarios puedan visualizar las camisetas que han adquirido.
+- **Recomendación:** Agregar una sección en el perfil de usuario donde se puedan ver las camisetas adquiridas.
+- **Heurística/Principio Violado:** Usabilidad: Consistencia y estándares
+
+**Problema #6**
+- **Severidad:** 2
+- **Problema:** Las funciones de crear un post y diseñar una camiseta son muy similares, lo que puede causar confusión.
+- **Recomendación:** Agregar una distinción clara entre las dos funciones para evitar confusiones.
+- **Heurística/Principio Violado:** Usabilidad: Distinción y claridad
+
+**Problema #7**
+- **Severidad:** 3
+- **Problema:** No se visualiza el diseño realizado por el usuario cuando se crea una camiseta, lo que impide verificar el resultado.
+- **Recomendación:** Implementar una vista previa del diseño de la camiseta tras su creación.
+- **Heurística/Principio Violado:** Usabilidad: Feedback y visibilidad del estado del sistema
+
+**Problema #8**
+- **Severidad:** 3
+- **Problema:** Falta el botón del carrito de compras accesible durante la navegación, lo que dificulta el acceso rápido al carrito.
+- **Recomendación:** Agregar un botón de carrito de compras visible y accesible en todas las páginas de la aplicación.
+- **Heurística/Principio Violado:** Usabilidad: Accesibilidad y eficiencia de uso
+
+**Problema #9**
+- **Severidad:** 3
+- **Problema:** Al visualizar las compras, no se muestra la cantidad total ni se resume la información, lo que puede causar confusión.
+- **Recomendación:** Mostrar la cantidad total de la compra y resumir la información de los productos adquiridos.
+- **Heurística/Principio Violado:** Usabilidad: Feedback y visibilidad del estado del sistema
+
+**Problema #10**
+- **Severidad:** 2
+- **Problema:** Falta de filtros de búsqueda adecuados, incluyendo la separación de camisetas femeninas y masculinas.
+- **Recomendación:** Agregar más filtros de búsqueda y separar las camisetas por género para facilitar la búsqueda.
+- **Heurística/Principio Violado:** Usabilidad: Flexibilidad y eficiencia de uso
+
+**Problema #11**
+- **Severidad:** 3
+- **Problema:** La opción premium no redirige a ninguna parte, lo que genera una experiencia incompleta para el usuario.
+- **Recomendación:** Diseñar e implementar la opción premium con una página dedicada que explique los beneficios y permita la suscripción.
+- **Heurística/Principio Violado:** Usabilidad: Navegación y consistencia
+
 ## 5.4. Video About-the-Product
 
 # Conclusiones
