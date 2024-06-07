@@ -229,11 +229,12 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Elaboré los Wireframes, Mockups y Prototypes de la Aplicación Web utilizando la herramienta figma para realizar el entregable con mayor rapidez.<br>
         - Logré cumplir las actividades que se me asignaron haciendo uso de las herramientas aprendidas en el curso.
         <br>
+        <br/>
         TP
         <br><br>
         <b>Aliaga Pimentel, George Arturo </b>
         -Participé en todas las reuniones virtuales, además de entregar las tareas en la fecha acordada grupalmente.
--Elaboré la parte de la implementación de crear, editar y borrar diseños de camisetas en la aplicación.
+        -Elaboré la parte de la implementación de crear, editar y borrar diseños de camisetas en la aplicación.
         <br>
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
@@ -250,6 +251,33 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br>
         - Actualicé los Mockups de la Aplicación y su Prototipo con el uso de la herramienta figma y con la colaboración de ideas de mis compañeros de trabajo.
         - Logré implementar las vistas que se me asignaron y aporte en el desarrollo de otras vostas y componentes.
+        <br>
+        <br/>
+        TB2
+        <br><br>
+        <b>Aliaga Pimentel, George Arturo </b>
+        <br>
+        - <br/>
+        - <br/>
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - <br/>
+        - <br/>
+        <br><br>
+        <b>Cruz Ticona, Aaron Alejandro</b><br>
+        - <br/>
+        - <br/>
+        <br> 
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - <br/>
+        - <br/>
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - Realicé las validation interview y los resumenes correspondientes según el formato indicado. <br/>
+        - Realicé las mejoras al report y entrgables pasados. <br/>
         <br>
     </td>
     <td>TB1
@@ -292,11 +320,12 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br>
         - Al realizar los Mockups de la aplicación se tomó de referencias las interfaces de nuestros competidores, recopilando las funcionalidades más destacables para ofrecer un mejor servicio al usuario.
         <br><br><br>
+        <br/>
         TP<br><br>
         <b>Aliaga Pimentel, George Arturo </b>
         <br>
         -Participé en todas las reuniones virtuales, además de entregar las tareas en la fecha acordada grupalmente.
--Elaboré la parte de la implementación de crear, editar y borrar diseños de camisetas en la aplicación.
+        -Elaboré la parte de la implementación de crear, editar y borrar diseños de camisetas en la aplicación.
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
@@ -310,6 +339,33 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <b>Sanchez Maita, Agustin Alejandro</b>
         <br>
         - Realicé la programación de las vistas de cart, profile y login, guiándome de las plataformas y aplicaciones de nuestro entorno, recopilando las funcionalidades destacables.
+        <br>
+        <br/>
+        TB2
+        <br><br>
+        <b>Aliaga Pimentel, George Arturo </b>
+        <br>
+        - <br/>
+        - <br/>
+        <br><br> 
+        <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - <br/>
+        - <br/>
+        <br><br>
+        <b>Cruz Ticona, Aaron Alejandro</b><br>
+        - <br/>
+        - <br/>
+        <br> 
+        <b>Defilippi Santillán, Diego</b>
+        <br>
+        - <br/> 
+        - <br/>
+        <br><br>
+        <b>Sanchez Maita, Agustin Alejandro</b>
+        <br>
+        - Realicé las validation interview y los resumenes correspondientes según el formato indicado. <br/>
+        - Realicé las mejoras al report y entrgables pasados. <br/>
         <br>
 </td>
     <td>TB1
