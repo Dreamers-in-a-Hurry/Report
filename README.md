@@ -6609,7 +6609,7 @@ Durante el sprint, el equipo de la StartUp Dreamers in a Hurry nuevamente adopt√
 
 GitFlow del sprint:
 
-<div align="center"><img src="Images/Gitflowtp.png"></div>
+<div align="center"><img src="Images/Gitflowtb2.png"></div>
 
 Contribuciones del equipo:
 
