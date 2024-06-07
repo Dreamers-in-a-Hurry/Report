@@ -454,8 +454,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        - <br/>
-        - <br/>
+        - Realicé la implementación del domain posts<br/>
+        - Logré reunirme con mis compañeros de equipo para la repartición de entregables mediante trello.<br/>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
         - Realicé la implementación del domain user and cart<br/>
