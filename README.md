@@ -355,22 +355,22 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br>
         <b>Aliaga Pimentel, George Arturo </b>
         <br>
-        - <br/>
-        - <br/>
+        - Realice las actividades asignadas por parte de mi equipo<br/>
+        - Realicé la programación del backend posts design de la aplicación<br/>
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        - <br/>
-        - <br/>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé la programación del backend domain design de la aplicación<br/>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
-        - <br/>
-        - <br/>
+        - Fui capaz de organizarme junto a mi equipo para completar el sprint 3<br/>
+        - Apoyé en el desarrollo del backend de la aplicación<br/>
         <br> 
         <b>Defilippi Santillán, Diego</b>
         <br>
-        - <br/>
-        - <br/>
+        - Participé y aporté ideas en las reuniones virtuales, además de planificar y organizar las tareas a realizar.<br/>
+        - Realicé mis entregables y las entregué en fecha.<br/>
         <br><br>
         <b>Sanchez Maita, Agustin Alejandro</b>
         <br>
@@ -378,13 +378,19 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Realicé las mejoras al report y entrgables pasados. <br/>
         <br>
     </td>
-    <td>TB1
+    <td>
+    TB1
     <br>
     Se logró desarrollar y desplegar la Landing page en base a las reuniones colaborativas y proacticas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow.
     <br><br>
     TP
     <br>
     Se logró implementar y desplegar la primera versión de la aplicación web.
+    <br><br>
+    TB2
+    <br>
+    Se logró desarrollar y desplegar el FrontEnd y Backend de la aplicación.
+    <br><br>
     </td>
     <br><br>
 
@@ -443,22 +449,22 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br>
         <b>Aliaga Pimentel, George Arturo </b>
         <br>
-        - <br/>
-        - <br/>
+        - Realicé la implementación del domain designs<br/>
+        - Me encargué de actualizar en diseño de las vistas del frontend<br/>
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        - <br/>
-        - <br/>
+        - Realicé la implementación del domain posts<br/>
+        - Complete las mejoras de accesibilidad del frontend<br/>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
-        - <br/>
-        - <br/>
+        - Realicé la implementación del domain user and cart<br/>
+        - Corregí y mejore las vistas del frontend de la aplicación<br/>
         <br> 
         <b>Defilippi Santillán, Diego</b>
         <br>
-        - <br/> 
-        - <br/>
+        - Realicé la implementación del domain catalogue y user authentication<br/> 
+        - Implementación adecuada de los merge entre ramas<br/>
         <br><br>
         <b>Sanchez Maita, Agustin Alejandro</b>
         <br>
@@ -473,6 +479,11 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     TP
     <br>
     Se implementó la propuesta de solución como una primera versión de la aplicación Web, la cual cumple con los user stories propuestos.
+    <br><br>
+    TB2
+    <br>
+    Se añadió implemento el backend de la aplicación y se relacionó con el Front End. Además de añadier más funcionalidades al proyecto con el fin de resolver el problema detectado. Estas funcionalidades ayudarán a que nuestro cliente pueda cumplir con su objetivo de manera óptima.
+    <br><br>
     </td>
 </tr>
 </table>
@@ -6126,9 +6137,12 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
-Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+Enlace al Repositorio del Report en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Report">Enlace</a><br>
+Enlace al Repositorio del Landing Page en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Landing-page">Enlace</a><br>
+Enlace al Repositorio del BackEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Bakend">Enlace</a><br>
+Enlace al Repositorio del FrontEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Frontend">Enlace</a><br>
 
-Repositorio del BackEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Bakend">Enlace</a>
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -6669,15 +6683,52 @@ Repositorio del BackEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hur
 
 #### 5.2.3.4. Testing Suite Evidente for Sprint Review
 
-
+<b>Domain Test</b>
+<div align="center"><img src="Images/Capturas_tests/tests del dominio.png"></div>
+<b>Design Domain Test</b>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo1-design domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo2-design domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/tests del design domain.png"></div>
+<b>Post Domain test</b>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo1-post domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo2-post domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/tests del post domain.png"></div>
+<b>Purchase Domain test</b>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo1-purchase domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/tests del purchase domain.png"></div>
+<b>User Domain test</b>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo1-user domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo2-user domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/Tests del user domain.png"></div>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-
+<b>Interfaz Login de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Login.png"></div>
+<b>Interfaz Login incorrecto de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Login-incorrect password.png"></div>
+<b>Interfaz Registro de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Registro de usuario.png"></div>
+<b>Interfaz Catálogo de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Catalogue.png"></div>
+<b>Interfaz Descripción de Camiseta de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Shirt-description.png"></div>
+<b>Interfaz Publicaciones de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Publicaciones.png"></div>
+<b>Interfaz Crear Publicación de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Crear publicación.png"></div>
+<b>Interfaz Diseños de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Diseños.png"></div>
+<b>Interfaz Crear Diseños de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Crear diseño.png"></div>
+<b>Interfaz Carrito de Compras de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Carrito de compras.png"></div>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Para esta tercera entrega, se ha desplegado el Frontend utilizando el servicio gratuito de Microsoft Azure. El FrontEnd es visible en el siguiente link: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">Web Application</a>.
+
+Para visualizar la Api, ingrese al siguiente link: <a href="http://fitshirt.azurewebsites.net">FitShirt Api</a>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -6701,6 +6752,14 @@ Para el desarrollo del Frontend, se utilizaron las siguientes tecnologías:
 - Swagger: Conjunto de herramientas de software de código abierto para diseñar, construir, documentar y consumir servicios web RESTful. Permite a los desarrolladores automatizar la generación de documentación y pruebas interactivas para sus APIs
 - OpenAPI Specification: Es un estándar para describir APIs RESTful de manera independiente del lenguaje. Define una interfaz que permite descubrir y comprender las capacidades de un servicio web sin necesidad de acceder al código fuente, simplificando la documentación, el desarrollo y la integración de APIs.
 
+Enlace al Landing Page de la Aplicación: <a href="https://dreamers-in-a-hurry.github.io/Landing-page/">Landing Page</a>
+Enlace al FrontEnd de la Aplicación: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">FrontEnd</a>
+Enlace al Backend Api Posts de la Aplicación: <a href="https://fitshirt.azurewebsites.net/api/v1/posts">Backend Api Posts</a>
+<div align="center"><img src="Images/Api_Backend_SS/Api_posts.png"></div>
+Enlace al Backend Api Users de la Aplicación: <a href="https://fitshirt.azurewebsites.net/api/v1/users">Backend Api Users</a>
+<div align="center"><img src="Images/Api_Backend_SS/Api_users.png"></div>
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Durante el sprint, el equipo de la StartUp Dreamers in a Hurry nuevamente adoptó GitFlow como su metodología de trabajo principal, aprovechando al máximo las capacidades de Git y Github para el control de versiones y la colaboración en el desarrollo del proyecto en cuestión.
@@ -6711,7 +6770,7 @@ GitFlow del sprint:
 
 Contribuciones del equipo:
 
-<div align="center"><img src="Images/Contribuciones.png"></div>
+<div align="center"><img src="Images/Contribuciones_tb2.png"></div>
 
 <br><br>
 
@@ -7024,6 +7083,12 @@ Jorge compartió con nosotros su experiencia utilizando la aplicación, destacan
 
 ## 5.4. Video About-the-Product
 
+<div align="center">
+    <img src="Images\About_the_product.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+- Enlace al video About the Product: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/ETblffYbnFFAg0U4Ri9UUt8BsSQMEY1DTdvKh7q7XGzxnw ">Enlace</a>
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -7038,6 +7103,14 @@ Jorge compartió con nosotros su experiencia utilizando la aplicación, destacan
 - Se logró desplegar la aplicación web mediante los servidores de Azure; así como el despliegue de la Api usando MockApi.
 
 <br><br>
+
+## Video About-the-Team
+
+<div align="center">
+    <img src="Images\About_the_team.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+- Enlace al video About the Team: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EfMnqdJ5MthNo6XW2uqOfi8BckR4I1HE18LUkVP68uoojA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=R8beyt ">Enlace</a>
 
 # Bibliografía
 
@@ -7080,6 +7153,8 @@ Enlance del repositorio del Report en GitHub: https://github.com/Dreamers-in-a-H
 Enlance del repositorio del Landing Page en GitHub: https://github.com/Dreamers-in-a-Hurry/Landing-page
 
 Enlace del repositorio de la Web Application en Github: https://github.com/Dreamers-in-a-Hurry/Frontend
+
+Enlace del repositorio del Backend en Github: https://github.com/Dreamers-in-a-Hurry/Bakend
 
 Enlace de la Landing Page: https://dreamers-in-a-hurry.github.io/Landing-page/
 
