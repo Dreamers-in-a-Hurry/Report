@@ -360,8 +360,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        - Realicé mis tareas asignadas en el horario correspondiente<br/>
-        - Realicé la programación del backend domain design de la aplicación<br/>
+        - Realicé la implementación de la backend Design y unit test de design <br/>
+        - Realicé las mejoras de los entregables pasados<br/>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
         - Fui capaz de organizarme junto a mi equipo para completar el sprint 3<br/>
@@ -454,8 +454,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br> 
         <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        - Realicé la implementación del domain posts<br/>
-        - Complete las mejoras de accesibilidad del frontend<br/>
+        - <br/>
+        - <br/>
         <br><br>
         <b>Cruz Ticona, Aaron Alejandro</b><br>
         - Realicé la implementación del domain user and cart<br/>
