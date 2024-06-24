@@ -259,6 +259,15 @@
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidente for Sprint Review](#5244-testing-suite-evidente-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -273,6 +282,7 @@
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones-1)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
+  - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía-1)
 - [Anexos](#anexos-1)
 
@@ -5880,7 +5890,7 @@ Para el desarrollo del Frontend, se utilizaron las siguientes texnologías:
 
 - HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
 - CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
-- Vue: Herramienta Framework...
+- Vue: Herramienta Framework que nos ayudó para realizar el frontend.
 - Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
 - GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
 - Microsoft Azure: Herramienta la cual nos permitió realizar el despliegue de nuestra plataforma.
@@ -6736,7 +6746,7 @@ Para el desarrollo del Frontend, se utilizaron las siguientes tecnologías:
 
 - HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
 - CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
-- Vue: Herramienta Framework...
+- Vue: Herramienta Framework que nos ayudó para realizar el frontend.
 - Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
 - GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
 - Microsoft Azure: Herramienta la cual nos permitió realizar el despliegue de nuestra plataforma.
@@ -6745,7 +6755,7 @@ Igualmente, para el correcto control de versiones y el adecuado desarrollo de la
 
 Asimismo, para el despliegue de la página, se utilizó el servicio de Microsoft Azure. Este permite crear sitios web estáticos directamente desde un repositorio Git. Es ideal para crear todo tipo de proyecto, y se integra perfectamente con Github para un flujo de trabajo sin interrupciones.
 
-Para el desarrollo del Frontend, se utilizaron las siguientes tecnologías:
+Para el desarrollo del Backend, se utilizaron las siguientes tecnologías:
 
 - ASP.NET Core: Es un framework de desarrollo web de código abierto y multiplataforma creado por Microsoft, diseñado para construir aplicaciones web modernas, basadas en la nube y de alto rendimiento.
 - C#: Lenguaje de programación orientado a objetos desarrollado por Microsoft, utilizado principalmente para desarrollar aplicaciones en la plataforma .NET, incluyendo aplicaciones web, de escritorio y móviles 
@@ -6767,6 +6777,765 @@ Durante el sprint, el equipo de la StartUp Dreamers in a Hurry nuevamente adopt�
 GitFlow del sprint:
 
 <div align="center"><img src="Images/Gitflowtb2.png"></div>
+
+Contribuciones del equipo:
+
+<div align="center"><img src="Images/Contribuciones_fronttb2.png"></div>
+<div align="center"><img src="Images/Contribuciones_backtb2.png"></div>
+
+<br><br>
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 4</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            18/06/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            19:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Dreamers in a Hurry     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Defilippi Santillán, Diego <br/>
+            - Sanchez Maita, Agustin Alejandro <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 4</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            El Sprint 4 abarcó en la implementación de la backend con frontend de la aplicación FitShirt. Se realizaron añadidos al Frontend, se reestructuró la backend en formato DDD y se logró completar satisfactoriamente las implementaciones de backend con frontend. 
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 4</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            El objetivo del presente sprint es finalizar el desarrollo de nuestro proyecto con todo lo aprendido durante el ciclo. Se planea realizar ciertos ajustes a nuestro proyecto, como las funcionalidades del backend e implementar con exito dichas funcionalidades en nuestro frontend.
+            <br>
+            Las tareas fueron organizadas a través de varias reuniones realizadas por Discord, además de emplear una pizarra en Miro para la proyección y organización de las tareas.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 4 Velocity</b>
+        </td>
+        <td>
+            28
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            28
+        </td>
+    </tr>
+</table>
+
+<br><br>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint. Como las historias de usuarios y tareas fueron las mismas que el sprint 3, se decidió dejarlo igual.
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 4</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="2">US06</td>
+       <td rowspan="2">Catálogo de camisetas</td>
+       <td>T01</td>
+       <td>Mostrar todos las camisetas</td>
+       <td>Se implementó la funcionalidad GetAllPostsForCatalogue() en el Backend de la Aplicación</td>
+       <td>2</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Mostrar camiseta en específico</td>
+       <td>Se implementó la funcionalidad GetPostById() en el Backend de la Aplicación</td>
+       <td>1.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="4">US03</td>
+       <td rowspan="4">Visualización de publicaciones</td>
+       <td>T01</td>
+       <td>Mostrar las publicaciónes del usuario</td>
+       <td>Se implementó la funcionalidad GetAllPostsByUser() en el Backend de la Aplicación</td>
+       <td>2</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Subir Publicación</td>
+       <td>Se implementó la funcionalidad PostPubish() en el Backend de la Aplicación</td>
+       <td>1</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>  
+        <tr>
+       <td>T03</td>
+       <td>Editar Publicación</td>
+       <td>Se implementó la funcionalidad UpdatePubish() en el Backend de la Aplicación</td>
+       <td>1.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>  
+        <tr>
+       <td>T04</td>
+       <td>Eliminar publicación</td>
+       <td>Se implementó la funcionalidad DeletePublish() en el Backend de la Aplicación</td>
+       <td>0.5</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="4">US21</td>
+       <td rowspan="4">Diseñar más camisetas</td>
+       <td>T01</td>
+       <td>Mostrar los diseños del usuario</td>
+       <td>Se implementó la funcionalidad GetAllDesignsByUser() en el Backend de la Aplicación</td>
+       <td>2</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Subir diseño</td>
+       <td>Se implementó la funcionalidad PostDesign() en el Backend de la Aplicación</td>
+       <td>1</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>  
+        <tr>
+       <td>T03</td>
+       <td>Editar diseño</td>
+       <td>Se implementó la funcionalidad UpdateDesign() en el Backend de la Aplicación</td>
+       <td>1.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>  
+        <tr>
+       <td>T04</td>
+       <td>Eliminar diseño</td>
+       <td>Se implementó la funcionalidad DeleteDesign() en el Backend de la Aplicación</td>
+       <td>0.5</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="1">US12</td>
+       <td rowspan="1">Finalizar la lista</td>
+       <td>T01</td>
+       <td>Realizar la compra de las camisetas del carrito</td>
+       <td>Se implementó la funcionalidad PostPurchase() en el Backend de la Aplicación</td>
+       <td>2</td>
+       <td>Agustin Maita</td>
+       <td>Done</td>
+    </tr>
+</table>
+
+<br><br>
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+Enlace al Repositorio del Report en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Report">Enlace</a><br>
+Enlace al Repositorio del Landing Page en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Landing-page">Enlace</a><br>
+Enlace al Nuevo Repositorio del BackEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/FitShirt-Service">Enlace</a><br>
+Enlace al Repositorio del FrontEnd en GitHub: <a href="https://github.com/Dreamers-in-a-Hurry/Frontend">Enlace</a><br>
+
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>80b068c304031ec86ba5716a989c8f4b5d7146b1</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added app file structure</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>1d9ed9fd990214a429c83855179ce5c482b7776f</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added domain layer</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>f8729fa578b0e65be2f1331e044a44f8775b2303</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added infrastructure layer</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>5b3a280677ca33182a9340dbe0e9439d02042202</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added application layer</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>02723241c4ac2bb16a6ca3f05178b467b4ca9cd2</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added presentation layer</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>b06989b914f275e66c16c8fd52b4c7174d1d795c</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added security entities</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>be834439b572bd74938ecd31c02315a8834b6328</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added publishing entities</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>00cab37bc739df01dd57134e3c5f2cd1a48acd5b</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added designing models</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>ef19bd9221e863f1d0ec74647659efd44d39f26d</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added purchasing models</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>64e1e00a8f3d428d84304e945eb7ddbb591a1ed8</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shared models</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>2b1efd13e257a85d1ab0a370afeee426afc28e60</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added seed to dbcontext and configuration</td>
+        <td>13/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>c3ebbc5f02680443457ec4c9b448845e67b4b529</td>
+        <td>Diego Defilippi</td>
+        <td>Merge #1: feature/backend-architecture into develop</td>
+        <td>14/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>a133a5079f13ea5d52916f61fd57668c93439640</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added shared repositories</td>
+        <td>14/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>fc608c026df3fbb663500f8c67b83cb217b2d011</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added designing repositories</td>
+        <td>14/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>a15a8a41196f0c6b3c2e9e13e1bf7cbbae8e57d7</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added Publishing repositories</td>
+        <td>14/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>91d3def8e9f7dcb959f4bf7f7f2175e5ce334ae1</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added purchasing repositories</td>
+        <td>14/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>8fd139e91b0f3b9d34192f8b2619b02dc1c7fd1a</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added security repositories</td>
+        <td>14/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>d74f9fe6ff71a9fa203a3b9f98fa2d1263ad00a3</td>
+        <td>Diego Defilippi</td>
+        <td>feat(infra): added repositories injection</td>
+        <td>14/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>a703b1f2737f259259b39ce1a23782dea9eb453b</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'refs/heads/feature/backend-architecture' into feature/publishing-context</td>
+        <td>14/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>2f1e60bfb754397952472a5eb21dd42e85017d10</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): added publishing commands</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>52565b5a0e23d5b3c34f0c0b215fdf8e08983467</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): added publishing queries</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>b5c47f21a41614362d3c805e147239d2adae80bd</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): added publishing responses</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>a8d357c2fdc5d25a1ce4d668730b87d9270ea881</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): added publishing repositories and services interfaces</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>d0770729d7d0441ca885ccf2ac060e0316a09f22</td>
+        <td>Diego Defilippi</td>
+        <td>fix(infra): added isEnable query</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>674b333ea2cfe02216db786476d7d653d8e060a6</td>
+        <td>Diego Defilippi</td>
+        <td>feat: implemented publishing repositories</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>283e95ee33c946b1652d0618b5804a9d756a6896</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): implemented publishing queries</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>e507f07505a568fe9bf944a94e4973870a49b5b4</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): implemented publishing queries</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>7401fed7464b213f04b3021a47cc328540e383d4</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): added exceptions</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>2ea6e2b2cea89502603d0bf5cd50e3cef9331377</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): added mapping</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>32ab9db4ce49de8b075d8c22684e840d223edcec</td>
+        <td>Diego Defilippi</td>
+        <td>feat(api): added errors to factory</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>90fa667eedc9d078ba687cc34e2c75e8f408afbc</td>
+        <td>Diego Defilippi</td>
+        <td>feat(api): added publishing controllers</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>db9664d3ba8e3c3c0c97b3975bad9a0ddf9f8bfd</td>
+        <td>Diego Defilippi</td>
+        <td>fix(api): removed TODO</td>
+        <td>15/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>9c3a6f46738397d182d334f5ef6ae46ac004c11f</td>
+        <td>Diego Defilippi</td>
+        <td>feat(api): added swagger doc on publishing</td>
+        <td>16/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>7fc4eaa5522764493c140dddb6adaa7823ef67c7</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added branch designing context</td>
+        <td>16/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>418c97bbdb6d22716a09a06a43a3c725ead3692b</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added design query and command service</td>
+        <td>16/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>37276b222902ce3ebfa7a68dc18efa81ed0cbaa2</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added design query service</td>
+        <td>16/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>32e8074a752737780127132258b7e05969de0a14</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added Design controller</td>
+        <td>16/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>f82cf83df64e597664967854fbecf7720af3faf1</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added Design and Shield Controller</td>
+        <td>17/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>04d044459d5ab876e825f8d11c0a2225b09a5006</td>
+        <td>Daniel Chirinos</td>
+        <td>fix: Design and Shield Controller</td>
+        <td>17/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>963690eaf8bde3a0c3d5709eb77a8029145a0e96</td>
+        <td>Daniel Chirinos</td>
+        <td>fix: design and shield controller</td>
+        <td>17/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>f7ba089e778fc27e8843fb940d6a6b040ec692b8</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/publishing-context into develop</td>
+        <td>17/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>54c9943365c207e699421fa8071d356416d6e592</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/designing-context into develop</td>
+        <td>17/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>e45ceb900697095631b6d47d3a458f1e27091887</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added Security context</td>
+        <td>19/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>70b4dd725c8c95dc0e52676ab03504c822cfed29</td>
+        <td>Diego Defilippi</td>
+        <td>feat(security): added security methods to repo</td>
+        <td>19/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>614ea967cc5c562a740b9e38a31bdbef55510e1f</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): added exceptions and register method in security</td>
+        <td>19/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>0528978c1a0a0203f7739f0284496bad415497a5</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added User and Account Controller</td>
+        <td>19/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>ae06fb8190dca4824901937993e5756fc439df24</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added user controller</td>
+        <td>19/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>eb4ff93aff7bffa9355322a7d77d81a0d3d4fa33</td>
+        <td>Daniel Chirinos</td>
+        <td>fix: fixed account controller</td>
+        <td>19/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>8718fb14b676dfc85254fa7836a284bc4483e3c3</td>
+        <td>Daniel Chirinos</td>
+        <td>fix: implement user controller</td>
+        <td>19/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>5458ed5c5aeddd640c8a1ac243c1cd810425e4da</td>
+        <td>George Aliaga</td>
+        <td>feat: Added Purchasing Models</td>
+        <td>22/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>869c7b060efb4cb29987abea37a8f9071bc2ad51</td>
+        <td>George Aliaga</td>
+        <td>feat: Added Purchasing Controller</td>
+        <td>23/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>35615bf060d074c4836fcd1f4d32347220d15463</td>
+        <td>Diego Defilippi</td>
+        <td>feat(security): added login and documentation</td>
+        <td>23/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>1e00e6f3f72309f157c2de2bd5cb941656f8c721</td>
+        <td>Diego Defilippi</td>
+        <td>Merge feature/security-context into develop</td>
+        <td>23/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>74c1cfcf2a3e2f1c033e85c73cdd3ca4ec158a93</td>
+        <td>Diego Defilippi</td>
+        <td>feat(purchasing): implemented purchasing missed methods</td>
+        <td>23/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>d4b892297c7b3e051b7d8d8a7f4b6d9d3953c6ab</td>
+        <td>Diego Defilippi</td>
+        <td>feat(core): addes services injection</td>
+        <td>23/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>7b5cce7aa0fbac80e6c2b50cd3b5cabcbcc1c387</td>
+        <td>Diego Defilippi</td>
+        <td>Merge branch 'refs/heads/purchasing-context' into develop</td>
+        <td>23/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>f5262a3ce214f4f65ab5f1a287dc3b18d28137bd</td>
+        <td>Diego Defilippi</td>
+        <td>feat(shared): implemented color methods</td>
+        <td>23/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>65a66c930ec2226e41df5684c10cedb4eddf3cb1</td>
+        <td>Diego Defilippi</td>
+        <td>feat(shared): implemented size methods</td>
+        <td>23/06/2024</td>
+    </tr>
+        <tr>
+        <td>develop</td>
+        <td>afa32d284c2440f9f96520aa96e0ecc0e2642c02</td>
+        <td>Diego Defilippi</td>
+        <td>Merge /feature/shared-context into dev</td>
+        <td>23/06/2024</td>
+</table>
+
+<br><br>
+
+#### 5.2.4.4. Testing Suite Evidente for Sprint Review
+
+<b>Domain Test</b>
+<div align="center"><img src="Images/Capturas_tests/tests del dominio.png"></div>
+<b>Design Domain Test</b>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo1-design domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo2-design domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/tests del design domain.png"></div>
+<b>Post Domain test</b>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo1-post domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo2-post domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/tests del post domain.png"></div>
+<b>Purchase Domain test</b>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo1-purchase domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/tests del purchase domain.png"></div>
+<b>User Domain test</b>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo1-user domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/Ejemplo2-user domain test.png"></div>
+<div align="center"><img src="Images/Capturas_tests/Tests del user domain.png"></div>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+<b>Interfaz Login de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Login.png"></div>
+<b>Interfaz Login incorrecto de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Login-incorrect password.png"></div>
+<b>Interfaz Registro de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Registro de usuario.png"></div>
+<b>Interfaz Catálogo de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Catalogue.png"></div>
+<b>Interfaz Descripción de Camiseta de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Shirt-description.png"></div>
+<b>Interfaz Publicaciones de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Publicaciones.png"></div>
+<b>Interfaz Crear Publicación de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Crear publicación.png"></div>
+<b>Interfaz Diseños de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Diseños.png"></div>
+<b>Interfaz Crear Diseños de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Crear diseño.png"></div>
+<b>Interfaz Carrito de Compras de la Aplicación Desplegada</b>
+<div align="center"><img src="Images/Capturas_front_back/Carrito de compras.png"></div>
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Para esta entrega final, se ha desplegado el Frontend utilizando el servicio gratuito de Microsoft Azure. El FrontEnd es visible en el siguiente link: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">Web Application</a>.
+
+Para visualizar la Api, ingrese al siguiente link: <a href="http://fitshirt.azurewebsites.net">FitShirt Api</a>
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo del Frontend, se utilizaron las siguientes tecnologías:
+
+- HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
+- Vue: Herramienta Framework que nos ayudó para realizar el frontend.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+- Microsoft Azure: Herramienta la cual nos permitió realizar el despliegue de nuestra plataforma.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la página, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+Asimismo, para el despliegue de la página, se utilizó el servicio de Microsoft Azure. Este permite crear sitios web estáticos directamente desde un repositorio Git. Es ideal para crear todo tipo de proyecto, y se integra perfectamente con Github para un flujo de trabajo sin interrupciones.
+
+Para el desarrollo del Backend, se utilizaron las siguientes tecnologías:
+
+- ASP.NET Core: Es un framework de desarrollo web de código abierto y multiplataforma creado por Microsoft, diseñado para construir aplicaciones web modernas, basadas en la nube y de alto rendimiento.
+- C#: Lenguaje de programación orientado a objetos desarrollado por Microsoft, utilizado principalmente para desarrollar aplicaciones en la plataforma .NET, incluyendo aplicaciones web, de escritorio y móviles 
+- Swagger: Conjunto de herramientas de software de código abierto para diseñar, construir, documentar y consumir servicios web RESTful. Permite a los desarrolladores automatizar la generación de documentación y pruebas interactivas para sus APIs
+- OpenAPI Specification: Es un estándar para describir APIs RESTful de manera independiente del lenguaje. Define una interfaz que permite descubrir y comprender las capacidades de un servicio web sin necesidad de acceder al código fuente, simplificando la documentación, el desarrollo y la integración de APIs.
+
+Enlace al Landing Page de la Aplicación: <a href="https://dreamers-in-a-hurry.github.io/Landing-page/">Landing Page</a></br>
+Enlace al FrontEnd de la Aplicación: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">FrontEnd</a></br>
+Enlace al Backend Api Posts de la Aplicación: <a href="https://fitshirt.azurewebsites.net/api/v1/posts">Backend Api Posts</a>
+<div align="center"><img src="Images/Api_Backend_SS/Api_posts.png"></div></br>
+Enlace al Backend Api Users de la Aplicación: <a href="https://fitshirt.azurewebsites.net/api/v1/users">Backend Api Users</a>
+<div align="center"><img src="Images/Api_Backend_SS/Api_users.png"></div></br>
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante el sprint, el equipo de la StartUp Dreamers in a Hurry nuevamente adoptó GitFlow como su metodología de trabajo principal, aprovechando al máximo las capacidades de Git y Github para el control de versiones y la colaboración en el desarrollo del proyecto en cuestión.
+
+GitFlow del sprint:
+
+<div align="center"><img src="Images/GitFlowSprint4.png"></div>
 
 Contribuciones del equipo:
 
