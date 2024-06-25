@@ -47,6 +47,7 @@
 |   TB1   | 12/03/2024 | Todos los integrantes del equipo | Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (Personas de Usuario, Historias de Usuario, Product Backlog, Impact Mapping, entre otros). Posteriormente, se implementó y desplegó la Landing Page, que era el objetivo del primer Sprint. |
 |   TP    | 02/05/2024 |    Los integrantes del equipo    | Se desarrolló el Sprint 2 del trabajo, en cual consistió en la implementación de la aplicación web empleando Vue.js como Framework principal. Asimismo, se desplegó la aplicación mediante Azure services. De igual modo, se levantaron las observaciones de la anterior entrega.                                                                                                        |
 |   TB2   | 06/06/2024 |    Los integrantes del equipo    | Se desarrolló el Sprint 3 del trabajo, en cual consistió en la implementación del backend de la aplicación web empleando ASP.NET Core Framework y utilizando C# como lenguaje de programación. Se realizaron las validation interviews y los video about the team y about the product. De igual modo, se levantaron las observaciones de la entrega anterior.                            |
+|   TF    | 25/06/2024 |    Los integrantes del equipo    | Se desarrolló el Sprint 4 del trabajo, en la re-estructuración de la Api en base a CleanArchitecture y Domain Driven Design, así como la implementación de métodos para la autenticación y autorización.                                                                                                                                                                                 |
 
 </div>
 
@@ -648,37 +649,6 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
   </tr>
 
   <tr>
-  <tr align="center">
-    <td rowspan="4">
-      <img src="Images/profile_images/FotoAaron.png" alt="Imagen del integrante Aaron" style="margin-bottom: 5px;" width="700"/>
-    </td>
-    <td align="left">
-      <b>Nombre y Apellido:</b>
-      <br>            
-      Aaron Alejandro Cruz Ticona
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-    <b>Código:</b>
-    <br>
-    U202213502
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-    <b>Carrera:</b>
-    <br>
-    Ingeniería de Software
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-    <b>Acerca de:</b>
-    <br>
-    Me llamo Aarón Alejandro, tengo 18 años y estoy inmerso en el quinto ciclo de la carrera de Ingeniería de Software. debido a la elecciòn de mi carrera poseo gusto por la programacion, y por ende, conocimientos acerca del diseño y elaboración de distintas estructuras de datos y el desarrollo frontend, así como el marco teórico de todo lo mencionado. En lo que respecta a mi personalidad, siempre me he caracterizado por ser una persona alegre, creativa y curiosa. Deseo apoyar a mi equipo y culminar exitosamente el presente curso.
-    </td>
-  </tr>
 
 <tr>
   <tr align="center">
