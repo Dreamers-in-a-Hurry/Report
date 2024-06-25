@@ -7647,14 +7647,6 @@ Security command service tests:<br/>
 Security query service tests:<br/>
 <div align="center"><img src="Images/ddd-tests/Security/user-query-service-tests.png"></div>
 
-<b>Publishing bounded context</b><br/>
-
-Publishing command service tests:<br/>
-
-<div align="center"><img src="Images/ddd-tests/publishing/post_command_service_tests.png"></div>
-Publishing query service tests:<br/>
-<div align="center"><img src="Images/ddd-tests/publishing/post-query-service-tests.png"></div>
-
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 <b>Interfaz Login de la Aplicación Desplegada</b>
@@ -8177,7 +8169,10 @@ Jorge compartió con nosotros su experiencia utilizando la aplicación, destacan
 - El empleo de Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
 - Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrolla del diagrama de clases, de datos y el modelo C4.
 - Se logró implementar la aplicación web usando Vue.js como framework.
-- Se logró desplegar la aplicación web mediante los servidores de Azure; así como el despliegue de la Api usando MockApi.
+- Se diseñó un modelo de clases que permite el poco acoplamiento y la facilidad para actualizaciones.
+- Se logró desarrollar una Api usando Asp.net v.7.0 aplicando las buenas prácticas de desarrollo, así como el Clean Architecture y el Domain Driven Design.
+- Se desplegó la Landing Page, la web application, la Api service y la base de datos en los servidores de Azure.
+- Se recomienda que, si se desea desarrollar un proyecto fullstack, se empiece creando un buen diseño de clases y de base de datos, así como un correcto flujo de entidades. Para posteriormente, definir los bounded contexts.
 
 <br><br>
 
