@@ -266,6 +266,15 @@
       - [5.2.4.4. Testing Suite Evidente for Sprint Review](#5244-testing-suite-evidente-for-sprint-review)
       - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
       - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [Account](#account)
+    - [Category](#category)
+    - [Color](#color)
+    - [Design](#design)
+    - [Post](#post)
+    - [Purchase](#purchase)
+    - [Shield](#shield)
+    - [Size](#size)
+    - [User](#user)
       - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
       - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
@@ -7494,6 +7503,99 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
 <div align="center"><img src="Images/Capturas_front_back/Carrito de compras.png"></div>
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+### Account
+
+<b>POST : Registrarse</b>
+<div align="center"><img src="Images/Swagger/SwaggerAccount.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerAccount2.png"></div>
+<b>POST : Logearse</b>
+<div align="center"><img src="Images/Swagger/SwaggerAccount3.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerAccount4.png"></div>
+
+### Category
+<b>GET : Obtener todas las categorias</b>
+<div align="center"><img src="Images/Swagger/SwaggerCategory.png"></div>
+<b>GET : Obtener una categoria por id</b>
+<div align="center"><img src="Images/Swagger/SwaggerCategory2.png"></div>
+
+### Color
+<b>GET : Obtener todos los colores</b>
+<div align="center"><img src="Images/Swagger/SwaggerColor.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerColor2.png"></div>
+<b>GET : Obtener un color por id</b>
+<div align="center"><img src="Images/Swagger/SwaggerColor3.png"></div>
+
+### Design
+<b>GET : Obtener todos los diseños</b>
+<div align="center"><img src="Images/Swagger/SwaggerDesign.png"></div>
+<b>POST : Crear un diseño</b>
+<div align="center"><img src="Images/Swagger/SwaggerDesign2.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerDesign3.png"></div>
+<b>GET : Obtener un diseño por id</b>
+<div align="center"><img src="Images/Swagger/SwaggerDesign4.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerDesign5.png"></div>
+<b>PUT : Modificar un diseño por id</b>
+<div align="center"><img src="Images/Swagger/SwaggerDesign6.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerDesign7.png"></div>
+<b>DELETE : Eliminar un diseño por id</b>
+<div align="center"><img src="Images/Swagger/SwaggerDesign8.png"></div>
+<b>GET : Buscar por id de usuario</b>
+<div align="center"><img src="Images/Swagger/SwaggerDesign9.png"></div>
+
+### Post
+<b>GET : Obtener todas las publicaciones </b>
+<div align="center"><img src="Images/Swagger/SwaggerPost.png"></div>
+<b>POST : Crear un post </b>
+<div align="center"><img src="Images/Swagger/SwaggerPost2.png"></div>
+<b>GET : Obtener una publicación por id </b>
+<div align="center"><img src="Images/Swagger/SwaggerPost3.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerPost4.png"></div>
+<b>PUT : Modificar una publicación por id</b>
+<div align="center"><img src="Images/Swagger/SwaggerPost5.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerPost6.png"></div>
+<b>DELETE : Eliminar una publicación por id </b>
+<div align="center"><img src="Images/Swagger/SwaggerPost7.png"></div>
+<b>GET : Buscar por id de usuario </b>
+<div align="center"><img src="Images/Swagger/SwaggerPost8.png"></div>
+<b>GET : Buscar por filtro </b>
+<div align="center"><img src="Images/Swagger/SwaggerPost9.png"></div>
+
+### Purchase
+<b>GET : Obtener todas las compras </b>
+<div align="center"><img src="Images/Swagger/SwaggerPurchase.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerPurchase2.png"></div>
+<b>POST : Comprar una camiseta </b>
+<div align="center"><img src="Images/Swagger/SwaggerPurchase3.png"></div>
+<b>GET : Obtener una compra por id </b>
+<div align="center"><img src="Images/Swagger/SwaggerPurchase4.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerPurchase5.png"></div>
+<b>GET : Buscar por id de usuario </b>
+<div align="center"><img src="Images/Swagger/SwaggerPurchase6.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerPurchase7.png"></div>
+
+### Shield
+<b>GET : Obtener todos los escudos </b>
+<div align="center"><img src="Images/Swagger/SwaggerShield.png"></div>
+<b>GET : Obtener un escudo por id </b>
+<div align="center"><img src="Images/Swagger/SwaggerShield2.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerShield3.png"></div>
+
+### Size
+<b>GET : Obtener todos los tamaños </b>
+<div align="center"><img src="Images/Swagger/SwaggerSize.png"></div>
+<b>GET : Obtener un tamaño por id </b>
+<div align="center"><img src="Images/Swagger/SwaggerSize2.png"></div>
+
+### User
+<b>GET : Obtener todos los usuarios </b>
+<div align="center"><img src="Images/Swagger/SwaggerUser.png"></div>
+<b>PUT : Modificar un usuario por id </b>
+<div align="center"><img src="Images/Swagger/SwaggerUser2.png"></div>
+<div align="center"><img src="Images/Swagger/SwaggerUser3.png"></div>
+<b>DELETE : Eliminar a un usuario por id </b>
+<div align="center"><img src="Images/Swagger/SwaggerUser4.png"></div>
+
 
 Para esta entrega final, se ha desplegado el Frontend utilizando el servicio gratuito de Microsoft Azure. El FrontEnd es visible en el siguiente link: <a href="https://agreeable-stone-00a8a4b10.5.azurestaticapps.net">Web Application</a>.
 
